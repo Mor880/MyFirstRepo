@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Player Data</title>
+
+  <link rel="stylesheet"
+        href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css">
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+  <style>
+    body { font-family: Arial, sans-serif; padding: 10px; }
+    tfoot select {
+      width: 100%;
+      box-sizing: border-box;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Player Data</h2>
+
+<table id="table" class="display" style="width:100%">
+  <tfoot></tfoot>
+</table>
+
+<script>
+Papa.parse("data/transformed/data.csv", {
+  download: true,
+  header: true,
+  skipEmptyLines: true,
+  complete: function(results) {
+
+    const cols = Object.keys(results.data[0]).map(c => ({
+      title: c,
+      data: c,
+      defaultContent: ""
+    }));
+
+    // Build footer dropdowns
+    let footerHtml = "<tr>";
+    cols.forEach(c => {
+      footerHtml += `<th><select><option value="">All</option></select></th>`;
+    });
+    footerHtml += "</tr>";
+    $('#table tfoot').html(footerHtml);
+
+    const table = $('#table').DataTable({
+      data: results.data,
+      columns: cols,
+
+      pageLength: 500,
+      lengthMenu: [100, 250, 500, 1000],
+
+      paging: true,
+      searching: true,
+      ordering: true,
+      scrollX: true,
+      fixedHeader: true
+    });
+
+    // Populate dropdowns + filtering
+    table.columns().every(function() {
+      const column = this;
+      const select = $('select', column.footer());
+
+      // Get unique values
+      const uniqueVals = [];
+      column.data().each(function(d) {
+        if (d && !uniqueVals.includes(d)) {
+          uniqueVals.push(d);
+        }
+      });
+
+      uniqueVals.sort().forEach(function(d) {
+        select.append(`<option value="${d}">${d}</option>`);
+      });
+
+      // Apply filter
+      select.on('change', function() {
+        const val = $.fn.dataTable.util.escapeRegex($(this).val());
+        column.search(val ? '^' + val + '$' : '', true, false).draw();
+      });
+    });
+  }
+});
+</script>
+
+</body>
+</html>
