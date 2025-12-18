@@ -13,9 +13,17 @@
 
   <style>
     body { font-family: Arial, sans-serif; padding: 10px; }
-    tfoot select {
+
+    thead select,
+    thead input {
       width: 100%;
       box-sizing: border-box;
+      font-size: 12px;
+    }
+
+    thead input {
+      margin-top: 4px;
+      padding: 2px;
     }
   </style>
 </head>
@@ -24,7 +32,9 @@
 <h2>Player Data</h2>
 
 <table id="table" class="display" style="width:100%">
-  <tfoot></tfoot>
+  <thead>
+    <tr id="headerRow"></tr>
+  </thead>
 </table>
 
 <script>
@@ -36,54 +46,63 @@ Papa.parse("data/transformed/data.csv", {
 
     const cols = Object.keys(results.data[0]).map(c => ({
       title: c,
-      data: c,
-      defaultContent: ""
+      data: c
     }));
 
-    // Build footer dropdowns
-    let footerHtml = "<tr>";
-    cols.forEach(c => {
-      footerHtml += `<th><select><option value="">All</option></select></th>`;
-    });
-    footerHtml += "</tr>";
-    $('#table tfoot').html(footerHtml);
+    // Build header row
+    $('#headerRow').html(cols.map(c => `<th>${c.title}</th>`).join(''));
 
-    const table = $('#table').DataTable({
+    $('#table').DataTable({
       data: results.data,
       columns: cols,
 
-      pageLength: 20,
-      lengthMenu: [10, 20, 30, 60, 120, 240],
+      pageLength: 150,
+      lengthMenu: [50, 150, 300, 500],
 
-      paging: true,
-      searching: true,
+      searching: false, // 🔴 disable global search
       ordering: true,
+      paging: true,
       scrollX: true,
-      fixedHeader: true
-    });
+      fixedHeader: true,
 
-    // Populate dropdowns + filtering
-    table.columns().every(function() {
-      const column = this;
-      const select = $('select', column.footer());
+      initComplete: function () {
+        const api = this.api();
+        const filterRow = $('<tr></tr>').appendTo($('#table thead'));
 
-      // Get unique values
-      const uniqueVals = [];
-      column.data().each(function(d) {
-        if (d && !uniqueVals.includes(d)) {
-          uniqueVals.push(d);
-        }
-      });
+        api.columns().every(function () {
+          const column = this;
+          const th = $('<th></th>').appendTo(filterRow);
 
-      uniqueVals.sort().forEach(function(d) {
-        select.append(`<option value="${d}">${d}</option>`);
-      });
+          // Dropdown (exact match)
+          const select = $('<select><option value="">All</option></select>')
+            .appendTo(th);
 
-      // Apply filter
-      select.on('change', function() {
-        const val = $.fn.dataTable.util.escapeRegex($(this).val());
-        column.search(val ? '^' + val + '$' : '', true, false).draw();
-      });
+          // Text input (contains)
+          const input = $('<input type="text" placeholder="contains...">')
+            .appendTo(th);
+
+          // Populate dropdown
+          [...new Set(column.data().toArray())]
+            .filter(v => v)
+            .sort()
+            .forEach(v => select.append(`<option value="${v}">${v}</option>`));
+
+          // Dropdown filter
+          select.on('change', function () {
+            const val = $.fn.dataTable.util.escapeRegex(this.value);
+            column.search(val ? '^' + val + '$' : '', true, false).draw();
+          });
+
+          // Text filter (debounced)
+          let timeout = null;
+          input.on('keyup change', function () {
+            clearTimeout(timeout);
+            timeout = setTimeout(() => {
+              column.search(this.value, true, false).draw();
+            }, 300);
+          });
+        });
+      }
     });
   }
 });
