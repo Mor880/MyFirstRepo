@@ -16,13 +16,10 @@
       box-sizing: border-box;
       font-size: 12px;
       padding: 2px;
-    }
-    /* Optional: make filter row visually distinct */
-    #filterRow {
-      background-color: #f8f8f8;
-    }
-    #filterRow select {
       margin: 4px 0;
+    }
+    #filterRow {
+      background-color: #f0f0f0;
     }
   </style>
 </head>
@@ -30,9 +27,9 @@
 <h2>Player Data</h2>
 <table id="table" class="display" style="width:100%">
   <thead>
-    <!-- Filter row (always first) -->
+    <!-- Filter row (top) -->
     <tr id="filterRow"></tr>
-    <!-- Actual column headers -->
+    <!-- Header row (bottom) -->
     <tr id="headerRow"></tr>
   </thead>
 </table>
@@ -48,10 +45,10 @@ Papa.parse("data/transformed/data.csv", {
 
     const cols = Object.keys(data[0]);
 
-    // Build header row
+    // Populate header row
     $('#headerRow').html(cols.map(col => `<th>${col}</th>`).join(''));
 
-    // Build empty filter row cells (will be populated later)
+    // Create empty cells for filter row
     $('#filterRow').html(cols.map(() => `<th></th>`).join(''));
 
     const table = $('#table').DataTable({
@@ -60,35 +57,36 @@ Papa.parse("data/transformed/data.csv", {
       pageLength: 20,
       lengthMenu: [20, 30, 60, 120],
       paging: true,
-      searching: true,           // Keep global search
+      searching: true,      // Global search stays enabled
       ordering: true,
       scrollX: true,
       fixedHeader: true,
-      orderCellsTop: true,       // 🔥 Critical: sorting uses top header row
+      orderCellsTop: true,  // Sorting on the bottom header row
       initComplete: function() {
         const api = this.api();
 
         api.columns().every(function(index) {
           const column = this;
-          const th = $('#filterRow th').eq(index);
+          // Target the filter row cell directly (not column.header())
+          const filterCell = $('#filterRow th').eq(index);
+
           const select = $('<select><option value="">All</option></select>');
 
-          // Collect unique values
+          // Collect and sort unique values
           const unique = new Set();
-          column.data().each(val => {
+          column.data().each(function(val) {
             if (val !== null && val !== undefined && val !== '') {
               unique.add(val.toString());
             }
           });
-
-          // Sort and add options
-          Array.from(unique).sort().forEach(val => {
+          Array.from(unique).sort().forEach(function(val) {
             select.append(`<option value="${val}">${val}</option>`);
           });
 
-          // Append select and bind change event
-          th.html(select);
+          // Insert select into filter cell
+          filterCell.html(select);
 
+          // Bind change event
           select.on('change', function() {
             const val = $.fn.dataTable.util.escapeRegex($(this).val());
             column.search(val ? '^' + val + '$' : '', true, false).draw();
