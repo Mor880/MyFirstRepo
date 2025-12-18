@@ -1,31 +1,39 @@
+
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
   <title>Player Data</title>
-
   <link rel="stylesheet"
         href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css">
-
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-
   <style>
     body { font-family: Arial, sans-serif; padding: 10px; }
     thead select {
       width: 100%;
       box-sizing: border-box;
+      font-size: 12px;
+      padding: 2px;
+    }
+    /* Optional: make filter row visually distinct */
+    #filterRow {
+      background-color: #f8f8f8;
+    }
+    #filterRow select {
+      margin: 4px 0;
     }
   </style>
 </head>
 <body>
-
 <h2>Player Data</h2>
-
 <table id="table" class="display" style="width:100%">
   <thead>
-    <tr id="headerRow"></tr> <!-- Column headers will go here -->
+    <!-- Filter row (always first) -->
+    <tr id="filterRow"></tr>
+    <!-- Actual column headers -->
+    <tr id="headerRow"></tr>
   </thead>
 </table>
 
@@ -35,52 +43,52 @@ Papa.parse("data/transformed/data.csv", {
   header: true,
   skipEmptyLines: true,
   complete: function(results) {
+    const data = results.data;
+    if (data.length === 0) return;
 
-    const cols = Object.keys(results.data[0]).map(c => ({
-      title: c,
-      data: c,
-      defaultContent: ""
-    }));
+    const cols = Object.keys(data[0]);
 
     // Build header row
-    let headerHtml = "";
-    cols.forEach(c => { headerHtml += `<th>${c.title}</th>`; });
-    $('#headerRow').html(headerHtml);
+    $('#headerRow').html(cols.map(col => `<th>${col}</th>`).join(''));
+
+    // Build empty filter row cells (will be populated later)
+    $('#filterRow').html(cols.map(() => `<th></th>`).join(''));
 
     const table = $('#table').DataTable({
-      data: results.data,
-      columns: cols,
-
+      data: data,
+      columns: cols.map(col => ({ title: col, data: col, defaultContent: "" })),
       pageLength: 20,
       lengthMenu: [20, 30, 60, 120],
-
       paging: true,
-      searching: true,
+      searching: true,           // Keep global search
       ordering: true,
       scrollX: true,
       fixedHeader: true,
-
+      orderCellsTop: true,       // 🔥 Critical: sorting uses top header row
       initComplete: function() {
-        // Insert a filter row at the top
         const api = this.api();
-        const header = $('#table thead');
-        const filterRow = $('<tr></tr>').appendTo(header);
 
-        api.columns().every(function() {
+        api.columns().every(function(index) {
           const column = this;
-          const th = $('<th></th>').appendTo(filterRow);
-          const select = $('<select><option value="">All</option></select>').appendTo(th);
+          const th = $('#filterRow th').eq(index);
+          const select = $('<select><option value="">All</option></select>');
 
-          // Populate options
-          const uniqueVals = [];
-          column.data().each(function(d) {
-            if (d && !uniqueVals.includes(d)) uniqueVals.push(d);
-          });
-          uniqueVals.sort().forEach(function(d) {
-            select.append(`<option value="${d}">${d}</option>`);
+          // Collect unique values
+          const unique = new Set();
+          column.data().each(val => {
+            if (val !== null && val !== undefined && val !== '') {
+              unique.add(val.toString());
+            }
           });
 
-          // Apply filter
+          // Sort and add options
+          Array.from(unique).sort().forEach(val => {
+            select.append(`<option value="${val}">${val}</option>`);
+          });
+
+          // Append select and bind change event
+          th.html(select);
+
           select.on('change', function() {
             const val = $.fn.dataTable.util.escapeRegex($(this).val());
             column.search(val ? '^' + val + '$' : '', true, false).draw();
@@ -88,10 +96,8 @@ Papa.parse("data/transformed/data.csv", {
         });
       }
     });
-
   }
 });
 </script>
-
 </body>
 </html>
