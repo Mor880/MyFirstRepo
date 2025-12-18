@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,17 +13,9 @@
 
   <style>
     body { font-family: Arial, sans-serif; padding: 10px; }
-
-    thead select,
-    thead input {
+    thead select {
       width: 100%;
       box-sizing: border-box;
-      font-size: 12px;
-    }
-
-    thead input {
-      margin-top: 4px;
-      padding: 2px;
     }
   </style>
 </head>
@@ -34,7 +25,7 @@
 
 <table id="table" class="display" style="width:100%">
   <thead>
-    <tr id="headerRow"></tr>
+    <tr id="headerRow"></tr> <!-- Column headers will go here -->
   </thead>
 </table>
 
@@ -47,64 +38,57 @@ Papa.parse("data/transformed/data.csv", {
 
     const cols = Object.keys(results.data[0]).map(c => ({
       title: c,
-      data: c
+      data: c,
+      defaultContent: ""
     }));
 
     // Build header row
-    $('#headerRow').html(cols.map(c => `<th>${c.title}</th>`).join(''));
+    let headerHtml = "";
+    cols.forEach(c => { headerHtml += `<th>${c.title}</th>`; });
+    $('#headerRow').html(headerHtml);
 
-    $('#table').DataTable({
+    const table = $('#table').DataTable({
       data: results.data,
       columns: cols,
 
-      pageLength: 20,
-      lengthMenu: [20, 30, 60, 150],
+      pageLength: 150,
+      lengthMenu: [50, 150, 300, 500],
 
-      searching: false, // 🔴 disable global search
-      ordering: true,
       paging: true,
+      searching: true,
+      ordering: true,
       scrollX: true,
       fixedHeader: true,
 
-      initComplete: function () {
+      initComplete: function() {
+        // Insert a filter row at the top
         const api = this.api();
-        const filterRow = $('<tr></tr>').appendTo($('#table thead'));
+        const header = $('#table thead');
+        const filterRow = $('<tr></tr>').appendTo(header);
 
-        api.columns().every(function () {
+        api.columns().every(function() {
           const column = this;
           const th = $('<th></th>').appendTo(filterRow);
+          const select = $('<select><option value="">All</option></select>').appendTo(th);
 
-          // Dropdown (exact match)
-          const select = $('<select><option value="">All</option></select>')
-            .appendTo(th);
-
-          // Text input (contains)
-          const input = $('<input type="text" placeholder="contains...">')
-            .appendTo(th);
-
-          // Populate dropdown
-          [...new Set(column.data().toArray())]
-            .filter(v => v)
-            .sort()
-            .forEach(v => select.append(`<option value="${v}">${v}</option>`));
-
-          // Dropdown filter
-          select.on('change', function () {
-            const val = $.fn.dataTable.util.escapeRegex(this.value);
-            column.search(val ? '^' + val + '$' : '', true, false).draw();
+          // Populate options
+          const uniqueVals = [];
+          column.data().each(function(d) {
+            if (d && !uniqueVals.includes(d)) uniqueVals.push(d);
+          });
+          uniqueVals.sort().forEach(function(d) {
+            select.append(`<option value="${d}">${d}</option>`);
           });
 
-          // Text filter (debounced)
-          let timeout = null;
-          input.on('keyup change', function () {
-            clearTimeout(timeout);
-            timeout = setTimeout(() => {
-              column.search(this.value, true, false).draw();
-            }, 300);
+          // Apply filter
+          select.on('change', function() {
+            const val = $.fn.dataTable.util.escapeRegex($(this).val());
+            column.search(val ? '^' + val + '$' : '', true, false).draw();
           });
         });
       }
     });
+
   }
 });
 </script>
