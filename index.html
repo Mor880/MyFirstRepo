@@ -26,6 +26,11 @@
       margin-top: 4px;
       padding: 2px;
     }
+
+    /* Kill global search completely */
+    .dataTables_filter {
+      display: none !important;
+    }
   </style>
 </head>
 <body>
@@ -34,6 +39,10 @@
 
 <table id="table" class="display" style="width:100%">
   <thead>
+    <!-- FILTER ROW (must be first) -->
+    <tr id="filterRow"></tr>
+
+    <!-- HEADER ROW -->
     <tr id="headerRow"></tr>
   </thead>
 </table>
@@ -43,67 +52,64 @@ Papa.parse("data/transformed/data.csv", {
   download: true,
   header: true,
   skipEmptyLines: true,
-  complete: function(results) {
+  complete: function (results) {
 
-    const cols = Object.keys(results.data[0]).map(c => ({
-      title: c,
-      data: c
-    }));
+    const cols = Object.keys(results.data[0]);
 
-    // Build header row
-    $('#headerRow').html(cols.map(c => `<th>${c.title}</th>`).join(''));
+    // Build header + filter rows
+    $('#headerRow').html(cols.map(c => `<th>${c}</th>`).join(''));
+    $('#filterRow').html(cols.map(() =>
+      `<th>
+        <select><option value="">All</option></select>
+        <input type="text" placeholder="contains...">
+      </th>`
+    ).join(''));
 
-    $('#table').DataTable({
+    const table = $('#table').DataTable({
       data: results.data,
-      columns: cols,
+      columns: cols.map(c => ({ title: c, data: c })),
 
-      pageLength: 20,
+      pageLength: 15,
       lengthMenu: [15, 30, 60, 150],
 
-      searching: false, // 🔴 disable global search
+      searching: false,
+      dom: 'lrtip',
       ordering: true,
       paging: true,
       scrollX: true,
       fixedHeader: true,
 
-      initComplete: function () {
-        const api = this.api();
-        const filterRow = $('<tr></tr>').appendTo($('#table thead'));
+      orderCellsTop: true   // 🔥 REQUIRED
+    });
 
-        api.columns().every(function () {
-          const column = this;
-          const th = $('<th></th>').appendTo(filterRow);
+    // Wire filters
+    table.columns().every(function (i) {
+      const column = this;
+      const cell = $('#filterRow th').eq(i);
+      const select = cell.find('select');
+      const input = cell.find('input');
 
-          // Dropdown (exact match)
-          const select = $('<select><option value="">All</option></select>')
-            .appendTo(th);
+      // Populate dropdown
+      [...new Set(column.data().toArray())]
+        .filter(v => v !== null && v !== '')
+        .sort()
+        .forEach(v => select.append(`<option value="${v}">${v}</option>`));
 
-          // Text input (contains)
-          const input = $('<input type="text" placeholder="contains...">')
-            .appendTo(th);
+      // Exact match
+      select.on('change', function () {
+        const val = $.fn.dataTable.util.escapeRegex(this.value);
+        column.search(val ? '^' + val + '$' : '', true, false).draw();
+      });
 
-          // Populate dropdown
-          [...new Set(column.data().toArray())]
-            .filter(v => v)
-            .sort()
-            .forEach(v => select.append(`<option value="${v}">${v}</option>`));
-
-          // Dropdown filter
-          select.on('change', function () {
-            const val = $.fn.dataTable.util.escapeRegex(this.value);
-            column.search(val ? '^' + val + '$' : '', true, false).draw();
-          });
-
-          // Text filter (debounced)
-          let timeout = null;
-          input.on('keyup change', function () {
-            clearTimeout(timeout);
-            timeout = setTimeout(() => {
-              column.search(this.value, true, false).draw();
-            }, 300);
-          });
-        });
-      }
+      // Contains (debounced)
+      let timeout;
+      input.on('keyup change', function () {
+        clearTimeout(timeout);
+        const value = this.value;
+        timeout = setTimeout(() => {
+          column.search(value, true, false).draw();
+        }, 300);
+      });
     });
   }
 });
