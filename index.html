@@ -21,13 +21,36 @@
     #filterRow {
       background-color: #f0f0f0;
     }
+    /* Hide the default global search input (we'll use a custom labeled one) */
+    .dataTables_filter {
+      display: none;
+    }
+    /* Custom global search styling */
+    #customSearchContainer {
+      margin-bottom: 10px;
+    }
+    #customSearchContainer label {
+      font-weight: bold;
+    }
+    #customSearchContainer input {
+      width: 300px;
+      padding: 5px;
+      font-size: 14px;
+    }
   </style>
 </head>
 <body>
 <h2>Player Data</h2>
+
+<!-- Custom "global" search that only searches the Name column -->
+<div id="customSearchContainer">
+  <label for="nameSearch">Search Name: </label>
+  <input type="text" id="nameSearch" placeholder="Type to search in Name column...">
+</div>
+
 <table id="table" class="display" style="width:100%">
   <thead>
-    <!-- Filter row (top) -->
+    <!-- Filter row (top) - dropdowns for exact match -->
     <tr id="filterRow"></tr>
     <!-- Header row (bottom) -->
     <tr id="headerRow"></tr>
@@ -45,6 +68,12 @@ Papa.parse("data/transformed/data.csv", {
 
     const cols = Object.keys(data[0]);
 
+    // Find the index of the "Name" column
+    const nameColIndex = cols.indexOf("Name");
+    if (nameColIndex === -1) {
+      console.warn('"Name" column not found!');
+    }
+
     // Populate header row
     $('#headerRow').html(cols.map(col => `<th>${col}</th>`).join(''));
 
@@ -57,22 +86,22 @@ Papa.parse("data/transformed/data.csv", {
       pageLength: 20,
       lengthMenu: [20, 30, 60, 120],
       paging: true,
-      searching: true,      // Global search stays enabled
+      searching: true,           // Needed for column searches
       ordering: true,
       scrollX: true,
       fixedHeader: true,
-      orderCellsTop: true,  // Sorting on the bottom header row
+      orderCellsTop: true,       // Sorting on bottom header row
+      dom: 'lrtip',              // Remove default global filter 'f'
       initComplete: function() {
         const api = this.api();
 
+        // Populate dropdown filters (exact match) for every column
         api.columns().every(function(index) {
           const column = this;
-          // Target the filter row cell directly (not column.header())
           const filterCell = $('#filterRow th').eq(index);
 
           const select = $('<select><option value="">All</option></select>');
 
-          // Collect and sort unique values
           const unique = new Set();
           column.data().each(function(val) {
             if (val !== null && val !== undefined && val !== '') {
@@ -83,14 +112,24 @@ Papa.parse("data/transformed/data.csv", {
             select.append(`<option value="${val}">${val}</option>`);
           });
 
-          // Insert select into filter cell
           filterCell.html(select);
 
-          // Bind change event
           select.on('change', function() {
             const val = $.fn.dataTable.util.escapeRegex($(this).val());
             column.search(val ? '^' + val + '$' : '', true, false).draw();
           });
+        });
+
+        // Custom search box: only filters the "Name" column (contains search)
+        let searchTimeout;
+        $('#nameSearch').on('keyup change', function() {
+          clearTimeout(searchTimeout);
+          const value = this.value;
+          searchTimeout = setTimeout(() => {
+            if (nameColIndex !== -1) {
+              api.column(nameColIndex).search(value, false, true).draw();
+            }
+          }, 300); // Debounce for performance
         });
       }
     });
