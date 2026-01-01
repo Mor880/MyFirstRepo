@@ -273,6 +273,20 @@ Rafa Silva (AMF),SS,Portugal,32.0,78.0,91.0,Hole Player,22275000.0,24750000.0,Bo
 Paulo Dybala,SS,Argentina,32.0,79.0,90.0,Creative Playmaker,21600000.0,24000000.0,Boca,,,Boca,4.3
 Gabriel Jesus,CF,Brazil,28.0,77.0,89.0,Deep-Lying Forward,27562500.0,30625000.0,Boca,,,Boca,4.4
 Marcus Thuram,CF,France,28.0,80.0,91.0,Goal Poacher,48600000.0,54000000.0,Boca,,,Boca,4.4
+Thiago De Bellis,GK,Argentina,20.0,65.0,65.0,Offensive Goalkeeper,4500000.0,5000000.0,Celta Vigo,,,Celta Vigo,1.0
+Iván Villar,GK,Spain,28.0,73.0,73.0,Offensive Goalkeeper,12150000.0,13500000.0,Celta Vigo,,,Celta Vigo,1.0
+Carlos Domínguez,CB,Spain,24.0,72.0,72.0,Build Up,7875000.0,8750000.0,Celta Vigo,,,Celta Vigo,2.0
+Lisandro Magallán,CB,Argentina,32.0,72.0,72.0,The Destroyer,3093750.0,3437500.0,Celta Vigo,,,Celta Vigo,2.0
+Philipp Mwene,LB,Austria,31.0,74.0,74.0,Offensive Full-back,12206250.0,13562500.0,Celta Vigo,,,Celta Vigo,2.1
+Ezequiel Duarte,RB,Paraguay,19.0,65.0,65.0,Offensive Full-back,4500000.0,5000000.0,Celta Vigo,,,Celta Vigo,2.2
+Nahuel Estévez,DMF,Argentina,30.0,72.0,72.0,Anchor Man,6750000.0,7500000.0,Celta Vigo,,,Celta Vigo,3.0
+Gerard Gumbau,CMF,Spain,31.0,73.0,73.0,Orchestrator,9787500.0,10875000.0,Celta Vigo,,,Celta Vigo,3.1
+Jhon Arias,LMF,Colombia,28.0,77.0,91.0,Roaming Flank,27562500.0,30625000.0,Celta Vigo,,,Celta Vigo,3.2
+P. Frankowski,RMF,Poland,30.0,75.0,75.0,Cross Specialist,18000000.0,20000000.0,Celta Vigo,,,Celta Vigo,3.3
+Ludovic Blas,AMF,France,28.0,75.0,75.0,Creative Playmaker,19800000.0,22000000.0,Celta Vigo,,,Celta Vigo,3.4
+Martin Boyle,RWF,Australia,32.0,74.0,74.0,Prolific Winger,11025000.0,12250000.0,Celta Vigo,,,Celta Vigo,4.2
+Ruan Índio,CF,Brazil,19.0,66.0,66.0,Fox in the Box,4500000.0,5000000.0,Celta Vigo,,,Celta Vigo,4.4
+Álvaro Morata,CF,Spain,33.0,79.0,90.0,Goal Poacher,20250000.0,22500000.0,Celta Vigo,,,Celta Vigo,4.4
 Aarón Escandell,GK,Spain,30.0,73.0,73.0,Offensive Goalkeeper,11475000.0,12750000.0,Celtic,,,Celtic,1.0
 Ben Davies,CB,England,30.0,72.0,72.0,Build Up,7031250.0,7812500.0,Celtic,,,Celtic,2.0
 Joseph Aidoo,CB,Ghana,30.0,73.0,86.0,The Destroyer,13837500.0,15375000.0,Celtic,,,Celtic,2.0
@@ -291,8 +305,8 @@ R.Jayden Owusu-Oduro,GK,Netherlands,21.0,72.0,72.0,Defensive Goalkeeper,7875000.
 Robert Sánchez,GK,Spain,28.0,77.0,90.0,Offensive Goalkeeper,24750000.0,27500000.0,Chelsea,,,Chelsea,1.0
 Aaron Anselmino,CB,Argentina,20.0,74.0,74.0,Build Up,20081250.0,22312500.0,Chelsea,,,Chelsea,2.0
 Kristoffer Ajer,CB,Norway,27.0,75.0,75.0,Build Up,19800000.0,22000000.0,Chelsea,,,Chelsea,2.0
-Çağlar Söyüncü,CB,Türkiye,29.0,76.0,76.0,Build Up,23287500.0,25875000.0,Chelsea,,,Chelsea,2.0
 Tosin Adarabioyo,CB,England,28.0,76.0,76.0,Build Up,23287500.0,25875000.0,Chelsea,,,Chelsea,2.0
+Çağlar Söyüncü,CB,Türkiye,29.0,76.0,76.0,Build Up,23287500.0,25875000.0,Chelsea,,,Chelsea,2.0
 Neco Williams,LB,Wales,24.0,75.0,75.0,Offensive Full-back,19350000.0,21500000.0,Chelsea,,,Chelsea,2.1
 Marc Cucurella,LB,Spain,27.0,76.0,90.0,Offensive Full-back,22781250.0,25312500.0,Chelsea,,,Chelsea,2.1
 Leonardo Godoy,RB,Argentina,30.0,72.0,72.0,Offensive Full-back,6468750.0,7187500.0,Chelsea,,,Chelsea,2.2
@@ -300,8 +314,8 @@ Malo Gusto,RB,France,22.0,76.0,76.0,Offensive Full-back,23793750.0,26437500.0,Ch
 Nikola Moro,DMF,Croatia,27.0,73.0,73.0,Anchor Man,12825000.0,14250000.0,Chelsea,,,Chelsea,3.0
 Aníbal Moreno,DMF,Argentina,26.0,74.0,74.0,Anchor Man,16537500.0,18375000.0,Chelsea,,,Chelsea,3.0
 Giuliano Galoppo,CMF,Argentina,26.0,74.0,74.0,Hole Player,16931250.0,18812500.0,Chelsea,,,Chelsea,3.1
-Youssouf Fofana,CMF,France,26.0,77.0,90.0,Box-to-Box,26437500.0,29375000.0,Chelsea,,,Chelsea,3.1
 Conor Gallagher,CMF,England,25.0,77.0,91.0,Box-to-Box,28687500.0,31875000.0,Chelsea,,,Chelsea,3.1
+Youssouf Fofana,CMF,France,26.0,77.0,90.0,Box-to-Box,26437500.0,29375000.0,Chelsea,,,Chelsea,3.1
 Diego Moreira,LMF,Belgium,21.0,71.0,71.0,Box-to-Box,5175000.0,5750000.0,Chelsea,,,Chelsea,3.2
 Facundo Buonanotte,AMF,Argentina,21.0,73.0,73.0,Creative Playmaker,14512500.0,16125000.0,Chelsea,,,Chelsea,3.4
 Cole Palmer,AMF,England,23.0,82.0,94.0,Creative Playmaker,85050000.0,94500000.0,Chelsea,,,Chelsea,3.4
@@ -313,8 +327,8 @@ Marcus Edwards,RWF,England,27.0,75.0,75.0,Prolific Winger,20250000.0,22500000.0,
 Noni Madueke,RWF,England,23.0,77.0,77.0,Prolific Winger,28125000.0,31250000.0,Chelsea,,,Chelsea,4.2
 Marc Guiu,CF,Spain,19.0,71.0,71.0,Goal Poacher,9900000.0,11000000.0,Chelsea,,,Chelsea,4.4
 Matthis Abline,CF,France,22.0,74.0,74.0,Goal Poacher,19293750.0,21437500.0,Chelsea,,,Chelsea,4.4
-Matthieu Epolo,GK,Belgium,20.0,72.0,72.0,Offensive Goalkeeper,9000000.0,10000000.0,Club Brugge,Anderlecht,End of May,Club Brugge,1.0
 Illan Meslier,GK,France,25.0,72.0,72.0,Offensive Goalkeeper,6750000.0,7500000.0,Club Brugge,,,Club Brugge,1.0
+Matthieu Epolo,GK,Belgium,20.0,72.0,72.0,Offensive Goalkeeper,9000000.0,10000000.0,Club Brugge,Anderlecht,End of May,Club Brugge,1.0
 Matz Sels,GK,Belgium,33.0,77.0,90.0,Offensive Goalkeeper,13500000.0,15000000.0,Club Brugge,,,Club Brugge,1.0
 Maximiliano Caufriez,CB,Belgium,28.0,72.0,72.0,Build Up,7593750.0,8437500.0,Club Brugge,,,Club Brugge,2.0
 Santiago Ramos Mingo,CB,Argentina,24.0,73.0,73.0,Build Up,13500000.0,15000000.0,Club Brugge,,,Club Brugge,2.0
@@ -336,23 +350,23 @@ Anouar Ait El Hadj,AMF,Belgium,23.0,71.0,71.0,Classic No. 10,5175000.0,5750000.0
 Pity Martínez,AMF,Argentina,32.0,75.0,75.0,Creative Playmaker,12600000.0,14000000.0,Club Brugge,,,Club Brugge,3.4
 M. Fernandez-Pardo,LWF,Belgium,20.0,72.0,72.0,Prolific Winger,10125000.0,11250000.0,Club Brugge,,,Club Brugge,4.1
 Nico Williams,LWF,Spain,23.0,81.0,93.0,Prolific Winger,69750000.0,77500000.0,Club Brugge,,,Club Brugge,4.1
-Dani Díaz,RWF,Spain,19.0,65.0,65.0,Prolific Winger,4500000.0,5000000.0,Club Brugge,,,Club Brugge,4.2
 Jan Faberski,RWF,Poland,19.0,65.0,65.0,Prolific Winger,4500000.0,5000000.0,Club Brugge,,,Club Brugge,4.2
+Dani Díaz,RWF,Spain,19.0,65.0,65.0,Prolific Winger,4500000.0,5000000.0,Club Brugge,,,Club Brugge,4.2
 Ilias Akhomach,RWF,Morocco,21.0,73.0,73.0,Prolific Winger,14850000.0,16500000.0,Club Brugge,,,Club Brugge,4.2
 Leroy Sané,RWF,Germany,29.0,80.0,91.0,Prolific Winger,46800000.0,52000000.0,Club Brugge,,,Club Brugge,4.2
 Carlos Miguel,GK,Brazil,26.0,73.0,73.0,Defensive Goalkeeper,12150000.0,13500000.0,Corinthians,,,Corinthians,1.0
 Filip Jørgensen,GK,Denmark,23.0,76.0,76.0,Offensive Goalkeeper,22781250.0,25312500.0,Corinthians,,,Corinthians,1.0
+Nikola Milenković,CB,Serbia,28.0,78.0,91.0,The Destroyer,31556250.0,35062500.0,Corinthians,,,Corinthians,2.0
 Harry Maguire,CB,England,32.0,78.0,90.0,Build Up,19181250.0,21312500.0,Corinthians,,,Corinthians,2.0
 Waldemar Anton,CB,Germany,29.0,78.0,78.0,Build Up,31556250.0,35062500.0,Corinthians,,,Corinthians,2.0
-Nikola Milenković,CB,Serbia,28.0,78.0,91.0,The Destroyer,31556250.0,35062500.0,Corinthians,,,Corinthians,2.0
 Borna Sosa,LB,Croatia,27.0,75.0,88.0,Offensive Full-back,19350000.0,21500000.0,Corinthians,,,Corinthians,2.1
 Tyrick Mitchell,LB,England,26.0,76.0,76.0,Defensive Full-back,22275000.0,24750000.0,Corinthians,,,Corinthians,2.1
 Riccardo Calafiori,LB,Italy,23.0,78.0,93.0,Offensive Full-back,36506250.0,40562500.0,Corinthians,,,Corinthians,2.1
 Joël Veltman,RB,Netherlands,33.0,74.0,74.0,Defensive Full-back,8268750.0,9187500.0,Corinthians,,,Corinthians,2.2
 Yukinari Sugawara,RB,Japan,25.0,76.0,76.0,Offensive Full-back,22275000.0,24750000.0,Corinthians,Boca,End of May,Corinthians,2.2
 Al Musrati,DMF,Libya,29.0,76.0,89.0,Anchor Man,22781250.0,25312500.0,Corinthians,,,Corinthians,3.0
-Marten de Roon,DMF,Netherlands,34.0,78.0,90.0,Anchor Man,9900000.0,11000000.0,Corinthians,,,Corinthians,3.0
 Edson Álvarez,DMF,Mexico,28.0,78.0,91.0,The Destroyer,30937500.0,34375000.0,Corinthians,,,Corinthians,3.0
+Marten de Roon,DMF,Netherlands,34.0,78.0,90.0,Anchor Man,9900000.0,11000000.0,Corinthians,,,Corinthians,3.0
 Lennon Miller,CMF,Scotland,19.0,71.0,71.0,Box-to-Box,9225000.0,10250000.0,Corinthians,,,Corinthians,3.1
 Lewis Miley,CMF,England,19.0,72.0,72.0,Box-to-Box,13218750.0,14687500.0,Corinthians,,,Corinthians,3.1
 Gabriel Sara,CMF,Brazil,26.0,74.0,74.0,Hole Player,16931250.0,18812500.0,Corinthians,,,Corinthians,3.1
@@ -380,8 +394,8 @@ Lima,AMF,Brazil,29.0,73.0,73.0,Creative Playmaker,13162500.0,14625000.0,Cruzeiro
 Dániel Sallói,LWF,Hungary,29.0,73.0,73.0,Prolific Winger,13500000.0,15000000.0,Cruzeiro,,,Cruzeiro,4.1
 Gennadiy Synchuk,RWF,Ukraine,19.0,68.0,68.0,Creative Playmaker,5760000.0,6400000.0,Cruzeiro,,,Cruzeiro,4.2
 Christian Fassnacht,RWF,Switzerland,32.0,72.0,72.0,Roaming Flank,3375000.0,3750000.0,Cruzeiro,,,Cruzeiro,4.2
-Matías Hernández,CF,Argentina,20.0,65.0,65.0,Fox in the Box,4500000.0,5000000.0,Cruzeiro,,,Cruzeiro,4.4
 Afonso Patrão,CF,Portugal,18.0,65.0,65.0,Goal Poacher,4500000.0,5000000.0,Cruzeiro,,,Cruzeiro,4.4
+Matías Hernández,CF,Argentina,20.0,65.0,65.0,Fox in the Box,4500000.0,5000000.0,Cruzeiro,,,Cruzeiro,4.4
 Jorge Soto,GK,Colombia,32.0,73.0,73.0,Offensive Goalkeeper,6750000.0,7500000.0,Dortmund,,,Dortmund,1.0
 Mees Hilgers,CB,Indonesia,24.0,72.0,72.0,Build Up,7875000.0,8750000.0,Dortmund,,,Dortmund,2.0
 Ousseynou Ba,CB,Senegal,30.0,73.0,73.0,The Destroyer,12487500.0,13875000.0,Dortmund,,,Dortmund,2.0
@@ -400,9 +414,9 @@ Wladimiro Falcone,GK,Italy,30.0,77.0,77.0,Defensive Goalkeeper,23625000.0,262500
 David de Gea,GK,Spain,35.0,80.0,80.0,Offensive Goalkeeper,16200000.0,18000000.0,Espanyol,,,Espanyol,1.0
 Mika Mármol,CB,Spain,23.0,76.0,76.0,Build Up,24300000.0,27000000.0,Espanyol,,,Espanyol,2.0
 Santiago Sosa,CB,Argentina,26.0,77.0,77.0,Build Up,26437500.0,29375000.0,Espanyol,,,Espanyol,2.0
-Willian Pacho,CB,Ecuador,24.0,79.0,79.0,The Destroyer,40500000.0,45000000.0,Espanyol,,,Espanyol,2.0
-Bremer,CB,Brazil,28.0,79.0,91.0,Build Up,34425000.0,38250000.0,Espanyol,,,Espanyol,2.0
 Dean Huijsen,CB,Spain,20.0,79.0,79.0,Build Up,45225000.0,50250000.0,Espanyol,,,Espanyol,2.0
+Bremer,CB,Brazil,28.0,79.0,91.0,Build Up,34425000.0,38250000.0,Espanyol,,,Espanyol,2.0
+Willian Pacho,CB,Ecuador,24.0,79.0,79.0,The Destroyer,40500000.0,45000000.0,Espanyol,,,Espanyol,2.0
 Sergi Cardona,LB,Spain,26.0,77.0,77.0,Defensive Full-back,25312500.0,28125000.0,Espanyol,,,Espanyol,2.1
 Iván Fresneda,RB,Spain,21.0,72.0,86.0,Offensive Full-back,12656250.0,14062500.0,Espanyol,,,Espanyol,2.2
 Nordi Mukiele,RB,France,28.0,75.0,75.0,Defensive Full-back,18900000.0,21000000.0,Espanyol,,,Espanyol,2.2
@@ -429,8 +443,8 @@ Aitor Ruibal,RB,Spain,29.0,74.0,74.0,Full-back Finisher,16143750.0,17937500.0,Es
 Santiago González,DMF,Argentina,22.0,72.0,72.0,Box-to-Box,8156250.0,9062500.0,Estudiantes,,,Estudiantes,3.0
 Hidemasa Morita,DMF,Japan,30.0,76.0,89.0,Box-to-Box,21768750.0,24187500.0,Estudiantes,,,Estudiantes,3.0
 Santi Comesaña,CMF,Spain,29.0,75.0,75.0,Box-to-Box,19800000.0,22000000.0,Estudiantes,,,Estudiantes,3.1
-Carlos Palacios,AMF,Chile,25.0,75.0,75.0,Creative Playmaker,19800000.0,22000000.0,Estudiantes,,,Estudiantes,3.4
 Alan Lescano,AMF,Argentina,24.0,75.0,75.0,Creative Playmaker,20250000.0,22500000.0,Estudiantes,,,Estudiantes,3.4
+Carlos Palacios,AMF,Chile,25.0,75.0,75.0,Creative Playmaker,19800000.0,22000000.0,Estudiantes,,,Estudiantes,3.4
 Marlon Balanta,LWF,Colombia,17.0,65.0,65.0,Roaming Flank,4500000.0,5000000.0,Estudiantes,,,Estudiantes,4.1
 Francisco González,LWF,Argentina,24.0,72.0,72.0,Cross Specialist,8156250.0,9062500.0,Estudiantes,,,Estudiantes,4.1
 Adu Ares,RWF,Spain,24.0,72.0,72.0,Prolific Winger,8156250.0,9062500.0,Estudiantes,,,Estudiantes,4.2
@@ -546,19 +560,19 @@ Bryce Jamison,RWF,United States,19.0,68.0,68.0,Prolific Winger,5760000.0,6400000
 Jovan Mijatović,CF,Serbia,20.0,70.0,70.0,Deep-Lying Forward,5040000.0,5600000.0,Independiente,,,Independiente,4.4
 Nicolás Cordero,CF,Argentina,26.0,72.0,72.0,Fox in the Box,8437500.0,9375000.0,Independiente,,,Independiente,4.4
 Michele Di Gregorio,GK,Italy,28.0,79.0,92.0,Defensive Goalkeeper,35100000.0,39000000.0,Inter Milan,,,Inter Milan,1.0
-Konstantinos Laifis,CB,Cyprus,32.0,73.0,73.0,Build Up,7762500.0,8625000.0,Inter Milan,,,Inter Milan,2.0
 Adam Masina,CB,Morocco,31.0,73.0,73.0,Build Up,9787500.0,10875000.0,Inter Milan,,,Inter Milan,2.0
+Konstantinos Laifis,CB,Cyprus,32.0,73.0,73.0,Build Up,7762500.0,8625000.0,Inter Milan,,,Inter Milan,2.0
 Nathan Collins,CB,Republic of Ireland,24.0,76.0,90.0,The Destroyer,24300000.0,27000000.0,Inter Milan,,,Inter Milan,2.0
 A. Buongiorno,CB,Italy,26.0,77.0,91.0,The Destroyer,28687500.0,31875000.0,Inter Milan,,,Inter Milan,2.0
-Levi Colwill,CB,England,22.0,78.0,78.0,Build Up,33412500.0,37125000.0,Inter Milan,,,Inter Milan,2.0
 Jakub Kiwior,CB,Poland,25.0,78.0,92.0,Build Up,34031250.0,37812500.0,Inter Milan,,,Inter Milan,2.0
+Levi Colwill,CB,England,22.0,78.0,78.0,Build Up,33412500.0,37125000.0,Inter Milan,,,Inter Milan,2.0
 Niccolò Fortini,LB,Italy,19.0,71.0,71.0,Offensive Full-back,8775000.0,9750000.0,Inter Milan,,,Inter Milan,2.1
 Adrien Truffert,LB,France,24.0,74.0,74.0,Offensive Full-back,16537500.0,18375000.0,Inter Milan,,,Inter Milan,2.1
 Nuno Mendes,LB,Portugal,23.0,79.0,92.0,Offensive Full-back,37125000.0,41250000.0,Inter Milan,,,Inter Milan,2.1
 Enrico Del Prato,RB,Italy,26.0,73.0,73.0,Offensive Full-back,12487500.0,13875000.0,Inter Milan,,,Inter Milan,2.2
 Ben White,RB,England,28.0,79.0,91.0,Offensive Full-back,33075000.0,36750000.0,Inter Milan,,,Inter Milan,2.2
-Mauro Arámbarri,DMF,Uruguay,30.0,76.0,88.0,Anchor Man,21262500.0,23625000.0,Inter Milan,,,Inter Milan,3.0
 Marc Casadó,DMF,Spain,22.0,76.0,76.0,Anchor Man,24300000.0,27000000.0,Inter Milan,,,Inter Milan,3.0
+Mauro Arámbarri,DMF,Uruguay,30.0,76.0,88.0,Anchor Man,21262500.0,23625000.0,Inter Milan,,,Inter Milan,3.0
 Pepelu,DMF,Spain,27.0,77.0,77.0,Anchor Man,25875000.0,28750000.0,Inter Milan,,,Inter Milan,3.0
 Davide Frattesi,CMF,Italy,26.0,76.0,90.0,Hole Player,23793750.0,26437500.0,Inter Milan,,,Inter Milan,3.1
 Bernardo Silva,AMF,Portugal,31.0,80.0,92.0,Creative Playmaker,40500000.0,45000000.0,Inter Milan,,,Inter Milan,3.4
@@ -568,13 +582,13 @@ David Neres,RWF,Brazil,28.0,77.0,91.0,Prolific Winger,29250000.0,32500000.0,Inte
 Antoine Griezmann,SS,France,34.0,81.0,92.0,Hole Player,29250000.0,32500000.0,Inter Milan,,,Inter Milan,4.3
 F. Pio Esposito,CF,Italy,20.0,73.0,73.0,Target Man,16875000.0,18750000.0,Inter Milan,,,Inter Milan,4.4
 Akor Adams,CF,Nigeria,25.0,73.0,73.0,Goal Poacher,14175000.0,15750000.0,Inter Milan,,,Inter Milan,4.4
-Nicolas Jackson,CF,Senegal,24.0,78.0,78.0,Goal Poacher,34031250.0,37812500.0,Inter Milan,,,Inter Milan,4.4
 Randal Kolo Muani,CF,France,27.0,78.0,90.0,Deep-Lying Forward,30937500.0,34375000.0,Inter Milan,,,Inter Milan,4.4
+Nicolas Jackson,CF,Senegal,24.0,78.0,78.0,Goal Poacher,34031250.0,37812500.0,Inter Milan,,,Inter Milan,4.4
 Yoane Wissa,CF,Congo DR,29.0,79.0,79.0,Goal Poacher,41850000.0,46500000.0,Inter Milan,,,Inter Milan,4.4
 Aaron Ramsdale,GK,England,27.0,77.0,89.0,Offensive Goalkeeper,24187500.0,26875000.0,Juventus,,,Juventus,1.0
 Leny Yoro,CB,France,20.0,75.0,75.0,Build Up,23400000.0,26000000.0,Juventus,,,Juventus,2.0
-Nicolò Casale,CB,Italy,27.0,76.0,89.0,The Destroyer,23287500.0,25875000.0,Juventus,,,Juventus,2.0
 Valentín Gómez,CB,Argentina,22.0,76.0,76.0,Build Up,24806250.0,27562500.0,Juventus,,,Juventus,2.0
+Nicolò Casale,CB,Italy,27.0,76.0,89.0,The Destroyer,23287500.0,25875000.0,Juventus,,,Juventus,2.0
 Dani Vivian,CB,Spain,26.0,79.0,93.0,The Destroyer,39825000.0,44250000.0,Juventus,,,Juventus,2.0
 Emerson Palmieri,LB,Italy,31.0,75.0,75.0,Offensive Full-back,14400000.0,16000000.0,Juventus,,,Juventus,2.1
 Michael Kayode,RB,Italy,21.0,73.0,73.0,Offensive Full-back,13837500.0,15375000.0,Juventus,,,Juventus,2.2
@@ -608,8 +622,8 @@ Dayot Upamecano,CB,France,27.0,80.0,92.0,The Destroyer,49500000.0,55000000.0,Kas
 Jayden Oosterwolde,LB,Netherlands,24.0,74.0,74.0,Defensive Full-back,16537500.0,18375000.0,Kasimpasa,,,Kasimpasa,2.1
 Rayan Aït-Nouri,LB,Algeria,24.0,76.0,76.0,Offensive Full-back,22781250.0,25312500.0,Kasimpasa,,,Kasimpasa,2.1
 Pedro Porro,RB,Spain,26.0,78.0,92.0,Offensive Full-back,32793750.0,36437500.0,Kasimpasa,,,Kasimpasa,2.2
-Bruno Guimarães,DMF,Brazil,28.0,79.0,92.0,Orchestrator,36450000.0,40500000.0,Kasimpasa,,,Kasimpasa,3.0
 Moisés Caicedo,DMF,Ecuador,24.0,79.0,93.0,Box-to-Box,39825000.0,44250000.0,Kasimpasa,,,Kasimpasa,3.0
+Bruno Guimarães,DMF,Brazil,28.0,79.0,92.0,Orchestrator,36450000.0,40500000.0,Kasimpasa,,,Kasimpasa,3.0
 İsak Vural,CMF,Türkiye,19.0,69.0,69.0,Orchestrator,4725000.0,5250000.0,Kasimpasa,,,Kasimpasa,3.1
 Arthur Vermeeren,CMF,Belgium,20.0,75.0,75.0,Box-to-Box,23400000.0,26000000.0,Kasimpasa,Porto,End of May,Kasimpasa,3.1
 Joe Willock,CMF,England,26.0,76.0,90.0,Hole Player,23793750.0,26437500.0,Kasimpasa,,,Kasimpasa,3.1
@@ -629,8 +643,8 @@ Darwin Núñez,CF,Uruguay,26.0,78.0,91.0,Goal Poacher,33412500.0,37125000.0,Kasi
 Benjamin Šeško,CF,Slovenia,22.0,79.0,79.0,Goal Poacher,43875000.0,48750000.0,Kasimpasa,,,Kasimpasa,4.4
 Francesco Versari,GK,Italy,18.0,67.0,67.0,Offensive Goalkeeper,5355000.0,5950000.0,Lazio,,,Lazio,1.0
 Gianluigi Donnarumma,GK,Italy,26.0,83.0,94.0,Offensive Goalkeeper,97875000.0,108750000.0,Lazio,PSG,End of May,Lazio,1.0
-Igor Zubeldia,CB,Spain,28.0,78.0,91.0,Build Up,31556250.0,35062500.0,Lazio,,,Lazio,2.0
 Giorgio Scalvini,CB,Italy,22.0,78.0,78.0,Extra Frontman,33412500.0,37125000.0,Lazio,,,Lazio,2.0
+Igor Zubeldia,CB,Spain,28.0,78.0,91.0,Build Up,31556250.0,35062500.0,Lazio,,,Lazio,2.0
 Edmond Tapsoba,CB,Burkina Faso,26.0,79.0,79.0,Build Up,39825000.0,44250000.0,Lazio,,,Lazio,2.0
 Alessandro Bastoni,CB,Italy,26.0,79.0,91.0,Extra Frontman,34425000.0,38250000.0,Lazio,,,Lazio,2.0
 Mitchel Bakker,LB,Netherlands,25.0,73.0,73.0,Offensive Full-back,12487500.0,13875000.0,Lazio,Corinthians,End of May,Lazio,2.1
@@ -666,8 +680,8 @@ Pau Navarro,RB,Spain,20.0,70.0,70.0,Defensive Full-back,4500000.0,5000000.0,Leve
 Axel Tuanzebe,RB,Congo DR,28.0,72.0,72.0,Defensive Full-back,7031250.0,7812500.0,Leverkusen,,,Leverkusen,2.2
 Vicente Poggi,DMF,Uruguay,23.0,72.0,72.0,Box-to-Box,7875000.0,8750000.0,Leverkusen,,,Leverkusen,3.0
 Lucien Agoumé,DMF,France,23.0,73.0,73.0,Orchestrator,13500000.0,15000000.0,Leverkusen,,,Leverkusen,3.0
-Mikel Jauregizar,DMF,Spain,22.0,75.0,75.0,Orchestrator,20700000.0,23000000.0,Leverkusen,,,Leverkusen,3.0
 Callum McGregor,DMF,Scotland,32.0,75.0,75.0,Orchestrator,12150000.0,13500000.0,Leverkusen,,,Leverkusen,3.0
+Mikel Jauregizar,DMF,Spain,22.0,75.0,75.0,Orchestrator,20700000.0,23000000.0,Leverkusen,,,Leverkusen,3.0
 Cheick Doucouré,DMF,Mali,25.0,76.0,90.0,Anchor Man,23287500.0,25875000.0,Leverkusen,,,Leverkusen,3.0
 Ezequiel Fernandez,DMF,Argentina,23.0,77.0,77.0,Box-to-Box,27000000.0,30000000.0,Leverkusen,,,Leverkusen,3.0
 Can Bozdoğan,CMF,Germany,24.0,71.0,71.0,Box-to-Box,4950000.0,5500000.0,Leverkusen,,,Leverkusen,3.1
@@ -677,11 +691,11 @@ Kendry Páez,AMF,Ecuador,18.0,73.0,73.0,Creative Playmaker,22612500.0,25125000.0
 Lucas Zelarayán,AMF,Armenia,33.0,76.0,76.0,Hole Player,13162500.0,14625000.0,Leverkusen,,,Leverkusen,3.4
 Maghnes Akliouche,AMF,France,23.0,76.0,76.0,Creative Playmaker,24300000.0,27000000.0,Leverkusen,,,Leverkusen,3.4
 Callum Hudson-Odoi,LWF,England,25.0,76.0,76.0,Prolific Winger,23793750.0,26437500.0,Leverkusen,,,Leverkusen,4.1
-Maher Carrizo,RWF,Argentina,19.0,74.0,74.0,Roaming Flank,25200000.0,28000000.0,Leverkusen,,,Leverkusen,4.2
 Wilson Odobert,RWF,France,21.0,74.0,74.0,Prolific Winger,18900000.0,21000000.0,Leverkusen,,,Leverkusen,4.2
+Maher Carrizo,RWF,Argentina,19.0,74.0,74.0,Roaming Flank,25200000.0,28000000.0,Leverkusen,,,Leverkusen,4.2
 Wout Weghorst,CF,Netherlands,33.0,75.0,75.0,Target Man,12150000.0,13500000.0,Leverkusen,Boca,End of May,Leverkusen,4.4
-Jonathan Burkardt,CF,Germany,25.0,78.0,93.0,Goal Poacher,38362500.0,42625000.0,Leverkusen,,,Leverkusen,4.4
 Nick Woltemade,CF,Germany,23.0,78.0,78.0,Deep-Lying Forward,34650000.0,38500000.0,Leverkusen,,,Leverkusen,4.4
+Jonathan Burkardt,CF,Germany,25.0,78.0,93.0,Goal Poacher,38362500.0,42625000.0,Leverkusen,,,Leverkusen,4.4
 Devis Vásquez,GK,Colombia,27.0,74.0,74.0,Offensive Goalkeeper,15750000.0,17500000.0,Lille,,,Lille,1.0
 Marcin Bułka,GK,Poland,26.0,77.0,77.0,Offensive Goalkeeper,24750000.0,27500000.0,Lille,,,Lille,1.0
 Jair Paula,CB,Brazil,20.0,73.0,73.0,Build Up,15862500.0,17625000.0,Lille,,,Lille,2.0
@@ -691,8 +705,8 @@ Jean-Clair Todibo,CB,France,26.0,76.0,89.0,Extra Frontman,23287500.0,25875000.0,
 Ramy Bensebaïni,LB,Algeria,30.0,75.0,75.0,Defensive Full-back,18000000.0,20000000.0,Lille,,,Lille,2.1
 Kiliann Sildillia,RB,France,23.0,73.0,73.0,Offensive Full-back,13162500.0,14625000.0,Lille,,,Lille,2.2
 Simon Sohm,CMF,Switzerland,24.0,71.0,71.0,Box-to-Box,4950000.0,5500000.0,Lille,,,Lille,3.1
-Andy Diouf,CMF,France,22.0,73.0,73.0,Box-to-Box,14175000.0,15750000.0,Lille,,,Lille,3.1
 Marcos Antônio,CMF,Brazil,25.0,73.0,73.0,Orchestrator,13162500.0,14625000.0,Lille,,,Lille,3.1
+Andy Diouf,CMF,France,22.0,73.0,73.0,Box-to-Box,14175000.0,15750000.0,Lille,,,Lille,3.1
 Gaetano Castrovilli,CMF,Italy,28.0,75.0,75.0,Hole Player,19800000.0,22000000.0,Lille,,,Lille,3.1
 Matteo Guendouzi,CMF,France,26.0,77.0,91.0,Box-to-Box,28687500.0,31875000.0,Lille,,,Lille,3.1
 Luiz Araújo,RMF,Brazil,29.0,75.0,75.0,Creative Playmaker,18900000.0,21000000.0,Lille,,,Lille,3.3
@@ -701,8 +715,8 @@ Alex Luna,AMF,Argentina,21.0,73.0,73.0,Creative Playmaker,14512500.0,16125000.0,
 Maurício,AMF,Brazil,24.0,74.0,74.0,Hole Player,17325000.0,19250000.0,Lille,,,Lille,3.4
 Hamed Traorè,AMF,Côte d'Ivoire,25.0,75.0,75.0,Hole Player,19800000.0,22000000.0,Lille,,,Lille,3.4
 Tommaso Baldanzi,AMF,Italy,22.0,75.0,75.0,Creative Playmaker,21150000.0,23500000.0,Lille,,,Lille,3.4
-Ismaïla Sarr,AMF,Senegal,27.0,76.0,76.0,Hole Player,23287500.0,25875000.0,Lille,,,Lille,3.4
 Marcelino Moreno,AMF,Argentina,31.0,76.0,76.0,Creative Playmaker,18225000.0,20250000.0,Lille,,,Lille,3.4
+Ismaïla Sarr,AMF,Senegal,27.0,76.0,76.0,Hole Player,23287500.0,25875000.0,Lille,,,Lille,3.4
 Ernest Nuamah,RWF,Ghana,22.0,73.0,73.0,Prolific Winger,14512500.0,16125000.0,Lille,,,Lille,4.2
 Georges Mikautadze,CF,Georgia,25.0,74.0,74.0,Goal Poacher,18112500.0,20125000.0,Lille,,,Lille,4.4
 Armando Broja,CF,Albania,24.0,74.0,88.0,Fox in the Box,19293750.0,21437500.0,Lille,,,Lille,4.4
@@ -713,14 +727,14 @@ Rui Silva,GK,Portugal,31.0,77.0,90.0,Offensive Goalkeeper,19125000.0,21250000.0,
 Bart Verbruggen,GK,Netherlands,23.0,78.0,78.0,Offensive Goalkeeper,30937500.0,34375000.0,Liverpool,,,Liverpool,1.0
 Adamo Nagalo,CB,Burkina Faso,23.0,73.0,73.0,The Destroyer,13837500.0,15375000.0,Liverpool,,,Liverpool,2.0
 Ben Godfrey,CB,England,27.0,73.0,73.0,The Destroyer,13162500.0,14625000.0,Liverpool,,,Liverpool,2.0
-Victor Nelsson,CB,Denmark,27.0,76.0,89.0,Build Up,23287500.0,25875000.0,Liverpool,,,Liverpool,2.0
 Eduardo Quaresma,CB,Portugal,23.0,76.0,76.0,Build Up,24300000.0,27000000.0,Liverpool,,,Liverpool,2.0
+Victor Nelsson,CB,Denmark,27.0,76.0,89.0,Build Up,23287500.0,25875000.0,Liverpool,,,Liverpool,2.0
 Nico Schlotterbeck,CB,Germany,26.0,80.0,92.0,Build Up,49500000.0,55000000.0,Liverpool,,,Liverpool,2.0
 Jesús Alberto Angulo,LB,Mexico,27.0,73.0,73.0,Defensive Full-back,12487500.0,13875000.0,Liverpool,,,Liverpool,2.1
 Junior Firpo,LB,Dominican Republic,29.0,73.0,73.0,Full-back Finisher,12487500.0,13875000.0,Liverpool,,,Liverpool,2.1
 Givairo Read,RB,Netherlands,19.0,71.0,71.0,Offensive Full-back,8775000.0,9750000.0,Liverpool,,,Liverpool,2.2
-Ben Johnson,RB,England,25.0,74.0,74.0,Offensive Full-back,16143750.0,17937500.0,Liverpool,,,Liverpool,2.2
 Jordan Teze,RB,Netherlands,26.0,74.0,74.0,Defensive Full-back,16143750.0,17937500.0,Liverpool,,,Liverpool,2.2
+Ben Johnson,RB,England,25.0,74.0,74.0,Offensive Full-back,16143750.0,17937500.0,Liverpool,,,Liverpool,2.2
 Tyler Adams,DMF,United States,26.0,75.0,75.0,Box-to-Box,19350000.0,21500000.0,Liverpool,,,Liverpool,3.0
 Manuel Locatelli,DMF,Italy,27.0,78.0,90.0,Orchestrator,28462500.0,31625000.0,Liverpool,,,Liverpool,3.0
 Morten Hjulmand,DMF,Denmark,26.0,79.0,93.0,Anchor Man,39150000.0,43500000.0,Liverpool,,,Liverpool,3.0
@@ -767,8 +781,8 @@ Robert Lewandowski,CF,Poland,37.0,82.0,93.0,Goal Poacher,29700000.0,33000000.0,M
 Philipp Köhn,GK,Switzerland,27.0,75.0,75.0,Offensive Goalkeeper,18450000.0,20500000.0,Man Utd,,,Man Utd,1.0
 Nick Pope,GK,England,33.0,78.0,90.0,Offensive Goalkeeper,14850000.0,16500000.0,Man Utd,,,Man Utd,1.0
 Illia Zabarnyi,CB,Ukraine,23.0,76.0,76.0,Build Up,24300000.0,27000000.0,Man Utd,,,Man Utd,2.0
-Marc Guéhi,CB,England,25.0,77.0,91.0,Extra Frontman,28687500.0,31875000.0,Man Utd,,,Man Utd,2.0
 Ousmane Diomande,CB,Côte d'Ivoire,22.0,77.0,77.0,Build Up,28125000.0,31250000.0,Man Utd,,,Man Utd,2.0
+Marc Guéhi,CB,England,25.0,77.0,91.0,Extra Frontman,28687500.0,31875000.0,Man Utd,,,Man Utd,2.0
 Kevin Danso,CB,Austria,27.0,77.0,91.0,The Destroyer,28687500.0,31875000.0,Man Utd,,,Man Utd,2.0
 Ferland Mendy,LB,France,30.0,77.0,89.0,Defensive Full-back,23625000.0,26250000.0,Man Utd,,,Man Utd,2.1
 Josh Acheampong,RB,England,19.0,70.0,70.0,Offensive Full-back,6300000.0,7000000.0,Man Utd,,,Man Utd,2.2
@@ -780,8 +794,8 @@ Sofyan Amrabat,DMF,Morocco,29.0,76.0,88.0,Box-to-Box,22275000.0,24750000.0,Man U
 Ryan Gravenberch,DMF,Netherlands,23.0,80.0,92.0,Anchor Man,50400000.0,56000000.0,Man Utd,,,Man Utd,3.0
 Konrad Laimer,CMF,Austria,28.0,78.0,78.0,Box-to-Box,31556250.0,35062500.0,Man Utd,,,Man Utd,3.1
 Nico O'Reilly,AMF,England,20.0,73.0,73.0,Hole Player,15862500.0,17625000.0,Man Utd,,,Man Utd,3.4
-Xavi Simons,AMF,Netherlands,22.0,79.0,93.0,Hole Player,41850000.0,46500000.0,Man Utd,,,Man Utd,3.4
 Morgan Rogers,AMF,England,23.0,79.0,79.0,Hole Player,41175000.0,45750000.0,Man Utd,,,Man Utd,3.4
+Xavi Simons,AMF,Netherlands,22.0,79.0,93.0,Hole Player,41850000.0,46500000.0,Man Utd,,,Man Utd,3.4
 Jude Bellingham,AMF,England,22.0,84.0,95.0,Hole Player,130050000.0,144500000.0,Man Utd,,,Man Utd,3.4
 Raheem Sterling,LWF,England,31.0,78.0,90.0,Prolific Winger,23512500.0,26125000.0,Man Utd,,,Man Utd,4.1
 Rafael Leão,LWF,Portugal,26.0,80.0,93.0,Prolific Winger,54000000.0,60000000.0,Man Utd,,,Man Utd,4.1
@@ -789,8 +803,8 @@ Jeremy Monga,RWF,England,16.0,66.0,66.0,Prolific Winger,6345000.0,7050000.0,Man 
 Amad Diallo,RWF,Côte d'Ivoire,23.0,75.0,75.0,Prolific Winger,21150000.0,23500000.0,Man Utd,,,Man Utd,4.2
 Rodrygo,RWF,Brazil,24.0,81.0,93.0,Roaming Flank,68625000.0,76250000.0,Man Utd,,,Man Utd,4.2
 Vitor Roque,CF,Brazil,20.0,75.0,75.0,Goal Poacher,24750000.0,27500000.0,Man Utd,,,Man Utd,4.4
-Noah Okafor,CF,Switzerland,25.0,76.0,90.0,Goal Poacher,25312500.0,28125000.0,Man Utd,,,Man Utd,4.4
 Josef Martínez,CF,Venezuela,32.0,76.0,76.0,Goal Poacher,16706250.0,18562500.0,Man Utd,,,Man Utd,4.4
+Noah Okafor,CF,Switzerland,25.0,76.0,90.0,Goal Poacher,25312500.0,28125000.0,Man Utd,,,Man Utd,4.4
 Alex Palmer,GK,England,29.0,73.0,73.0,Offensive Goalkeeper,12150000.0,13500000.0,Marseille,,,Marseille,1.0
 Rosen Bozhinov,CB,Bulgaria,20.0,65.0,65.0,The Destroyer,4500000.0,5000000.0,Marseille,,,Marseille,2.0
 Brendan Chardonnet,CB,France,31.0,75.0,75.0,Build Up,15300000.0,17000000.0,Marseille,,,Marseille,2.0
@@ -829,8 +843,8 @@ Niels NkounKou,LB,France,25.0,72.0,88.0,Offensive Full-back,12093750.0,13437500.
 Sam Curtis,RB,Republic of Ireland,20.0,67.0,67.0,Defensive Full-back,4500000.0,5000000.0,Monaco,,,Monaco,2.2
 Kevin Mbabu,RB,Switzerland,30.0,73.0,73.0,Offensive Full-back,11812500.0,13125000.0,Monaco,,,Monaco,2.2
 Arnau Martínez,RB,Spain,22.0,77.0,91.0,Offensive Full-back,29250000.0,32500000.0,Monaco,Monaco,,Monaco,2.2
-Johnny Cardoso,DMF,United States,24.0,76.0,76.0,Anchor Man,23287500.0,25875000.0,Monaco,Boca,End of May,Monaco,3.0
 Florentino Luís,DMF,Portugal,26.0,76.0,90.0,The Destroyer,23287500.0,25875000.0,Monaco,,,Monaco,3.0
+Johnny Cardoso,DMF,United States,24.0,76.0,76.0,Anchor Man,23287500.0,25875000.0,Monaco,Boca,End of May,Monaco,3.0
 Casemiro,DMF,Brazil,33.0,78.0,89.0,Anchor Man,15468750.0,17187500.0,Monaco,,,Monaco,3.0
 Valentin Rongier,CMF,France,31.0,77.0,90.0,Orchestrator,20812500.0,23125000.0,Monaco,,,Monaco,3.1
 Paul Pogba,CMF,France,32.0,79.0,79.0,Box-to-Box,29025000.0,32250000.0,Monaco,,,Monaco,3.1
@@ -847,8 +861,8 @@ Arnaud Kalimuendo,CF,France,23.0,74.0,74.0,Goal Poacher,18900000.0,21000000.0,Mo
 Youssef El-Arabi,CF,Morocco,38.0,75.0,75.0,Fox in the Box,3150000.0,3500000.0,Monaco,,,Monaco,4.4
 Jørgen Strand Larsen,CF,Norway,25.0,76.0,76.0,Goal Poacher,24806250.0,27562500.0,Monaco,,,Monaco,4.4
 Richarlison,CF,Brazil,28.0,78.0,90.0,Goal Poacher,30937500.0,34375000.0,Monaco,,,Monaco,4.4
-Matěj Kovář,GK,Czechia,25.0,74.0,74.0,Offensive Goalkeeper,15750000.0,17500000.0,New Mexico United,,,New Mexico United,1.0
 Maarten Vandevoordt,GK,Belgium,23.0,74.0,74.0,Offensive Goalkeeper,16537500.0,18375000.0,New Mexico United,,,New Mexico United,1.0
+Matěj Kovář,GK,Czechia,25.0,74.0,74.0,Offensive Goalkeeper,15750000.0,17500000.0,New Mexico United,,,New Mexico United,1.0
 Aurèle Amenda,CB,Switzerland,22.0,72.0,72.0,Build Up,8437500.0,9375000.0,New Mexico United,,,New Mexico United,2.0
 Ayrton Costa,CB,Argentina,26.0,75.0,75.0,The Destroyer,19800000.0,22000000.0,New Mexico United,,,New Mexico United,2.0
 Chris Richards,CB,United States,25.0,76.0,76.0,Extra Frontman,23287500.0,25875000.0,New Mexico United,,,New Mexico United,2.0
@@ -932,8 +946,8 @@ Gastón Lodico,CMF,Argentina,27.0,75.0,75.0,Orchestrator,19800000.0,22000000.0,P
 Daniel Bragança,CMF,Portugal,26.0,75.0,75.0,Box-to-Box,19800000.0,22000000.0,Porto,,,Porto,3.1
 Matheus Nunes,CMF,Portugal,27.0,77.0,90.0,Box-to-Box,26437500.0,29375000.0,Porto,,,Porto,3.1
 Roger Fernandes,RMF,Portugal,20.0,75.0,75.0,Cross Specialist,22500000.0,25000000.0,Porto,,,Porto,3.3
-Amine Harit,AMF,Morocco,28.0,74.0,74.0,Creative Playmaker,16931250.0,18812500.0,Porto,,,Porto,3.4
 Rodrigo Mora,AMF,Portugal,18.0,74.0,74.0,Creative Playmaker,27956250.0,31062500.0,Porto,,,Porto,3.4
+Amine Harit,AMF,Morocco,28.0,74.0,74.0,Creative Playmaker,16931250.0,18812500.0,Porto,,,Porto,3.4
 William,LWF,Brazil,19.0,69.0,69.0,Prolific Winger,4860000.0,5400000.0,Porto,,,Porto,4.1
 Borja Sainz,LWF,Spain,24.0,73.0,73.0,Prolific Winger,13837500.0,15375000.0,Porto,,,Porto,4.1
 Abde Ezzalzouli,LWF,Morocco,24.0,75.0,75.0,Prolific Winger,20700000.0,23000000.0,Porto,,,Porto,4.1
@@ -945,15 +959,15 @@ Kai Havertz,CF,Germany,26.0,80.0,92.0,Deep-Lying Forward,52200000.0,58000000.0,P
 Julián Alvarez,CF,Argentina,25.0,81.0,93.0,Deep-Lying Forward,69750000.0,77500000.0,Porto,Kasimpasa,End of May,Porto,4.4
 Đorđe Petrović,GK,Serbia,26.0,77.0,77.0,Offensive Goalkeeper,24750000.0,27500000.0,Psg,Lazio,End of May,PSG,1.0
 T. Harwood-Bellis,CB,England,23.0,75.0,75.0,Build Up,20700000.0,23000000.0,Psg,,,PSG,2.0
-Pau Torres,CB,Spain,28.0,77.0,89.0,Build Up,25875000.0,28750000.0,Psg,,,PSG,2.0
 Merih Demiral,CB,Türkiye,27.0,77.0,77.0,The Destroyer,26437500.0,29375000.0,Psg,,,PSG,2.0
+Pau Torres,CB,Spain,28.0,77.0,89.0,Build Up,25875000.0,28750000.0,Psg,,,PSG,2.0
 Julio Soler,LB,Argentina,20.0,74.0,74.0,Offensive Full-back,19293750.0,21437500.0,Psg,,,PSG,2.1
 Brooks Lennon,RB,United States,28.0,72.0,72.0,Offensive Full-back,7031250.0,7812500.0,Psg,,,PSG,2.2
 Danilo,RB,Brazil,34.0,77.0,90.0,Defensive Full-back,8437500.0,9375000.0,Psg,,,PSG,2.2
 Jules Koundé,RB,France,27.0,80.0,92.0,Defensive Full-back,47700000.0,53000000.0,Psg,,,PSG,2.2
 Kalidou Sidibé,DMF,France,26.0,68.0,68.0,Anchor Man,4500000.0,5000000.0,Psg,,,PSG,3.0
-Samuele Ricci,DMF,Italy,24.0,75.0,75.0,Orchestrator,19800000.0,22000000.0,Psg,,,PSG,3.0
 Vitaly Janelt,DMF,Germany,27.0,75.0,75.0,Anchor Man,19350000.0,21500000.0,Psg,Kasimpasa,End of May,PSG,3.0
+Samuele Ricci,DMF,Italy,24.0,75.0,75.0,Orchestrator,19800000.0,22000000.0,Psg,,,PSG,3.0
 Idrissa Guèye,DMF,Senegal,36.0,75.0,87.0,The Destroyer,1800000.0,2000000.0,Psg,,,PSG,3.0
 Alan Varela,DMF,Argentina,25.0,76.0,90.0,Anchor Man,23287500.0,25875000.0,Psg,,,PSG,3.0
 Senny Mayulu,CMF,France,19.0,70.0,70.0,Orchestrator,6660000.0,7400000.0,Psg,,,PSG,3.1
@@ -981,8 +995,8 @@ Ian Maatsen,LB,Netherlands,23.0,76.0,76.0,Full-back Finisher,23287500.0,25875000
 Vanderson,RB,Brazil,24.0,75.0,75.0,Offensive Full-back,19350000.0,21500000.0,Psv,,,PSV,2.2
 Lamare Bogarde,DMF,Netherlands,21.0,71.0,71.0,Anchor Man,5400000.0,6000000.0,Psv,,,PSV,3.0
 Nicolò Rovella,DMF,Italy,24.0,75.0,75.0,Orchestrator,19800000.0,22000000.0,Psv,,,PSV,3.0
-Boubacar Kamara,DMF,France,26.0,77.0,91.0,Anchor Man,28125000.0,31250000.0,Psv,,,PSV,3.0
 Manuel Ugarte,DMF,Uruguay,24.0,77.0,91.0,The Destroyer,28687500.0,31875000.0,Psv,Urawa Reds,End of May,PSV,3.0
+Boubacar Kamara,DMF,France,26.0,77.0,91.0,Anchor Man,28125000.0,31250000.0,Psv,,,PSV,3.0
 Quinten Timber,CMF,Netherlands,24.0,75.0,75.0,Box-to-Box,20250000.0,22500000.0,Psv,,,PSV,3.1
 Kobbie Mainoo,CMF,England,20.0,76.0,76.0,Box-to-Box,27337500.0,30375000.0,Psv,Man Utd,End of May,PSV,3.1
 Tijjani Reijnders,CMF,Netherlands,27.0,79.0,93.0,Box-to-Box,39825000.0,44250000.0,Psv,,,PSV,3.1
@@ -1119,8 +1133,8 @@ Kyle Walker,RB,England,35.0,78.0,90.0,Offensive Full-back,3093750.0,3437500.0,Sa
 Sam Morsy,DMF,Egypt,34.0,73.0,73.0,Anchor Man,2700000.0,3000000.0,Santos,,,Santos,3.0
 André,DMF,Brazil,24.0,77.0,91.0,Orchestrator,28687500.0,31875000.0,Santos,,,Santos,3.0
 Amadou Onana,DMF,Belgium,24.0,78.0,78.0,Anchor Man,31556250.0,35062500.0,Santos,,,Santos,3.0
-Franco Cristaldo,AMF,Argentina,29.0,76.0,76.0,Creative Playmaker,23287500.0,25875000.0,Santos,,,Santos,3.4
 Pepê,AMF,Brazil,28.0,76.0,89.0,Hole Player,23287500.0,25875000.0,Santos,,,Santos,3.4
+Franco Cristaldo,AMF,Argentina,29.0,76.0,76.0,Creative Playmaker,23287500.0,25875000.0,Santos,,,Santos,3.4
 Lorenzo Pellegrini,AMF,Italy,29.0,77.0,89.0,Hole Player,25875000.0,28750000.0,Santos,,,Santos,3.4
 Fermín López,AMF,Spain,22.0,78.0,78.0,Hole Player,33412500.0,37125000.0,Santos,,,Santos,3.4
 Igor Paixão,LWF,Brazil,25.0,76.0,76.0,Prolific Winger,23793750.0,26437500.0,Santos,,,Santos,4.1
@@ -1136,8 +1150,8 @@ Anatolii Trubin,GK,Ukraine,24.0,78.0,92.0,Offensive Goalkeeper,32793750.0,364375
 Lukáš Hradecký,GK,Finland,36.0,79.0,79.0,Defensive Goalkeeper,10800000.0,12000000.0,Sao Paulo,,,Sao Paulo,1.0
 Maracás,CB,Brazil,31.0,73.0,73.0,The Destroyer,9787500.0,10875000.0,Sao Paulo,,,Sao Paulo,2.0
 Odilon Kossounou,CB,Côte d'Ivoire,24.0,76.0,76.0,Build Up,23793750.0,26437500.0,Sao Paulo,,,Sao Paulo,2.0
-Benjamin Pavard,CB,France,29.0,78.0,92.0,Extra Frontman,34031250.0,37812500.0,Sao Paulo,,,Sao Paulo,2.0
 Milan Škriniar,CB,Slovakia,30.0,78.0,89.0,The Destroyer,27225000.0,30250000.0,Sao Paulo,,,Sao Paulo,2.0
+Benjamin Pavard,CB,France,29.0,78.0,92.0,Extra Frontman,34031250.0,37812500.0,Sao Paulo,,,Sao Paulo,2.0
 Antonio Rüdiger,CB,Germany,32.0,82.0,93.0,The Destroyer,58050000.0,64500000.0,Sao Paulo,,,Sao Paulo,2.0
 Diego León,LB,Paraguay,18.0,71.0,71.0,Offensive Full-back,10575000.0,11750000.0,Sao Paulo,,,Sao Paulo,2.1
 Luciano Gómez,LB,Argentina,29.0,72.0,72.0,Offensive Full-back,7031250.0,7812500.0,Sao Paulo,,,Sao Paulo,2.1
@@ -1163,8 +1177,8 @@ Patrik Schick,CF,Czechia,29.0,78.0,78.0,Deep-Lying Forward,33412500.0,37125000.0
 Anthoni,GK,Brazil,23.0,72.0,72.0,Offensive Goalkeeper,7312500.0,8125000.0,Sc Internacional,,,SC Internacional,1.0
 Iñaki Peña,GK,Spain,26.0,75.0,75.0,Offensive Goalkeeper,18450000.0,20500000.0,Sc Internacional,,,SC Internacional,1.0
 John Victor,GK,Brazil,29.0,76.0,76.0,Offensive Goalkeeper,21768750.0,24187500.0,Sc Internacional,,,SC Internacional,1.0
-Rodrigo Becão,CB,Brazil,29.0,76.0,89.0,The Destroyer,23287500.0,25875000.0,Sc Internacional,,,SC Internacional,2.0
 Léo Ortiz,CB,Brazil,29.0,76.0,76.0,Build Up,23287500.0,25875000.0,Sc Internacional,,,SC Internacional,2.0
+Rodrigo Becão,CB,Brazil,29.0,76.0,89.0,The Destroyer,23287500.0,25875000.0,Sc Internacional,,,SC Internacional,2.0
 Haydon Roberts,LB,England,23.0,69.0,69.0,Defensive Full-back,4500000.0,5000000.0,Sc Internacional,,,SC Internacional,2.1
 Joel Godoy,LB,Argentina,20.0,69.0,69.0,Defensive Full-back,4500000.0,5000000.0,Sc Internacional,,,SC Internacional,2.1
 Gerard Martín,LB,Spain,23.0,74.0,74.0,Defensive Full-back,16931250.0,18812500.0,Sc Internacional,,,SC Internacional,2.1
@@ -1187,20 +1201,6 @@ Geovany Quenda,RWF,Portugal,18.0,74.0,74.0,Roaming Flank,28350000.0,31500000.0,S
 Stefanos Tzimas,CF,Greece,19.0,73.0,73.0,Goal Poacher,20925000.0,23250000.0,Sc Internacional,,,SC Internacional,4.4
 Kaio Jorge,CF,Brazil,23.0,74.0,74.0,Fox in the Box,18900000.0,21000000.0,Sc Internacional,,,SC Internacional,4.4
 Igor Jesus,CF,Brazil,24.0,76.0,76.0,Goal Poacher,25312500.0,28125000.0,Sc Internacional,,,SC Internacional,4.4
-Thiago De Bellis,GK,Argentina,20.0,65.0,65.0,Offensive Goalkeeper,4500000.0,5000000.0,Sevilla Fc,,,Sevilla FC,1.0
-Iván Villar,GK,Spain,28.0,73.0,73.0,Offensive Goalkeeper,12150000.0,13500000.0,Sevilla Fc,,,Sevilla FC,1.0
-Carlos Domínguez,CB,Spain,24.0,72.0,72.0,Build Up,7875000.0,8750000.0,Sevilla Fc,,,Sevilla FC,2.0
-Lisandro Magallán,CB,Argentina,32.0,72.0,72.0,The Destroyer,3093750.0,3437500.0,Sevilla Fc,,,Sevilla FC,2.0
-Philipp Mwene,LB,Austria,31.0,74.0,74.0,Offensive Full-back,12206250.0,13562500.0,Sevilla Fc,,,Sevilla FC,2.1
-Ezequiel Duarte,RB,Paraguay,19.0,65.0,65.0,Offensive Full-back,4500000.0,5000000.0,Sevilla Fc,,,Sevilla FC,2.2
-Nahuel Estévez,DMF,Argentina,30.0,72.0,72.0,Anchor Man,6750000.0,7500000.0,Sevilla Fc,,,Sevilla FC,3.0
-Gerard Gumbau,CMF,Spain,31.0,73.0,73.0,Orchestrator,9787500.0,10875000.0,Sevilla Fc,,,Sevilla FC,3.1
-Jhon Arias,LMF,Colombia,28.0,77.0,91.0,Roaming Flank,27562500.0,30625000.0,Sevilla Fc,,,Sevilla FC,3.2
-P. Frankowski,RMF,Poland,30.0,75.0,75.0,Cross Specialist,18000000.0,20000000.0,Sevilla Fc,,,Sevilla FC,3.3
-Ludovic Blas,AMF,France,28.0,75.0,75.0,Creative Playmaker,19800000.0,22000000.0,Sevilla Fc,,,Sevilla FC,3.4
-Martin Boyle,RWF,Australia,32.0,74.0,74.0,Prolific Winger,11025000.0,12250000.0,Sevilla Fc,,,Sevilla FC,4.2
-Ruan Índio,CF,Brazil,19.0,66.0,66.0,Fox in the Box,4500000.0,5000000.0,Sevilla Fc,,,Sevilla FC,4.4
-Álvaro Morata,CF,Spain,33.0,79.0,90.0,Goal Poacher,20250000.0,22500000.0,Sevilla Fc,,,Sevilla FC,4.4
 José Sá,GK,Portugal,32.0,77.0,89.0,Offensive Goalkeeper,15187500.0,16875000.0,Sporting Cp,,,Sporting CP,1.0
 Mile Svilar,GK,Serbia,26.0,77.0,77.0,Offensive Goalkeeper,24750000.0,27500000.0,Sporting Cp,,,Sporting CP,1.0
 Koen Casteels,GK,Belgium,33.0,79.0,90.0,Defensive Goalkeeper,16200000.0,18000000.0,Sporting Cp,,,Sporting CP,1.0
