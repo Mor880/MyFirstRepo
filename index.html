@@ -1,59 +1,31 @@
-
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
   <title>Player Data</title>
+
   <link rel="stylesheet"
         href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css">
+
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
   <style>
     body { font-family: Arial, sans-serif; padding: 10px; }
     thead select {
       width: 100%;
       box-sizing: border-box;
-      font-size: 12px;
-      padding: 2px;
-      margin: 4px 0;
-    }
-    #filterRow {
-      background-color: #f0f0f0;
-    }
-    /* Hide the default global search input (we'll use a custom labeled one) */
-    .dataTables_filter {
-      display: none;
-    }
-    /* Custom global search styling */
-    #customSearchContainer {
-      margin-bottom: 10px;
-    }
-    #customSearchContainer label {
-      font-weight: bold;
-    }
-    #customSearchContainer input {
-      width: 300px;
-      padding: 5px;
-      font-size: 14px;
     }
   </style>
 </head>
 <body>
-<h2>Player Data</h2>
 
-<!-- Custom "global" search that only searches the Name column -->
-<div id="customSearchContainer">
-  <label for="nameSearch">Search Name: </label>
-  <input type="text" id="nameSearch" placeholder="Type to search in Name column...">
-</div>
+<h2>Player Data</h2>
 
 <table id="table" class="display" style="width:100%">
   <thead>
-    <!-- Filter row (top) - dropdowns for exact match -->
-    <tr id="filterRow"></tr>
-    <!-- Header row (bottom) -->
-    <tr id="headerRow"></tr>
+    <tr id="headerRow"></tr> <!-- Column headers will go here -->
   </thead>
 </table>
 
@@ -63,78 +35,63 @@ Papa.parse("data/transformed/data.csv", {
   header: true,
   skipEmptyLines: true,
   complete: function(results) {
-    const data = results.data;
-    if (data.length === 0) return;
 
-    const cols = Object.keys(data[0]);
+    const cols = Object.keys(results.data[0]).map(c => ({
+      title: c,
+      data: c,
+      defaultContent: ""
+    }));
 
-    // Find the index of the "Name" column
-    const nameColIndex = cols.indexOf("Name");
-    if (nameColIndex === -1) {
-      console.warn('"Name" column not found!');
-    }
-
-    // Populate header row
-    $('#headerRow').html(cols.map(col => `<th>${col}</th>`).join(''));
-
-    // Create empty cells for filter row
-    $('#filterRow').html(cols.map(() => `<th></th>`).join(''));
+    // Build header row
+    let headerHtml = "";
+    cols.forEach(c => { headerHtml += `<th>${c.title}</th>`; });
+    $('#headerRow').html(headerHtml);
 
     const table = $('#table').DataTable({
-      data: data,
-      columns: cols.map(col => ({ title: col, data: col, defaultContent: "" })),
-      pageLength: 20,
-      lengthMenu: [20, 30, 60, 120],
+      data: results.data,
+      columns: cols,
+
+      pageLength: 30,
+      lengthMenu: [30, 50, 100, 200],
+
       paging: true,
-      searching: true,           // Needed for column searches
+      searching: true,
       ordering: true,
       scrollX: true,
       fixedHeader: true,
-      orderCellsTop: true,       // Sorting on bottom header row
-      dom: 'lrtip',              // Remove default global filter 'f'
+
       initComplete: function() {
+        // Insert a filter row at the top
         const api = this.api();
+        const header = $('#table thead');
+        const filterRow = $('<tr></tr>').appendTo(header);
 
-        // Populate dropdown filters (exact match) for every column
-        api.columns().every(function(index) {
+        api.columns().every(function() {
           const column = this;
-          const filterCell = $('#filterRow th').eq(index);
+          const th = $('<th></th>').appendTo(filterRow);
+          const select = $('<select><option value="">All</option></select>').appendTo(th);
 
-          const select = $('<select><option value="">All</option></select>');
-
-          const unique = new Set();
-          column.data().each(function(val) {
-            if (val !== null && val !== undefined && val !== '') {
-              unique.add(val.toString());
-            }
+          // Populate options
+          const uniqueVals = [];
+          column.data().each(function(d) {
+            if (d && !uniqueVals.includes(d)) uniqueVals.push(d);
           });
-          Array.from(unique).sort().forEach(function(val) {
-            select.append(`<option value="${val}">${val}</option>`);
+          uniqueVals.sort().forEach(function(d) {
+            select.append(`<option value="${d}">${d}</option>`);
           });
 
-          filterCell.html(select);
-
+          // Apply filter
           select.on('change', function() {
             const val = $.fn.dataTable.util.escapeRegex($(this).val());
             column.search(val ? '^' + val + '$' : '', true, false).draw();
           });
         });
-
-        // Custom search box: only filters the "Name" column (contains search)
-        let searchTimeout;
-        $('#nameSearch').on('keyup change', function() {
-          clearTimeout(searchTimeout);
-          const value = this.value;
-          searchTimeout = setTimeout(() => {
-            if (nameColIndex !== -1) {
-              api.column(nameColIndex).search(value, false, true).draw();
-            }
-          }, 300); // Debounce for performance
-        });
       }
     });
+
   }
 });
 </script>
+
 </body>
 </html>
