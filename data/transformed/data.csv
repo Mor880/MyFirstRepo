@@ -8,8 +8,8 @@ Juan Miranda,Ajax,LB,Spain,25,75,Offensive Full-back,21500000,,,,,Ajax,2.1
 Malcom Bokele,Ajax,RB,Cameroon,25,68,Defensive Full-back,5000000,2,Summer,,,Ajax,2.2
 Givairo Read,Ajax,RB,Netherlands,19,71,Offensive Full-back,15750000,3,Summer,,,Ajax,2.2
 Jeremie Frimpong,Ajax,RB,Netherlands,25,78,Full-back Finisher,30250000,3,Summer,,,Ajax,2.2
-Leonel Picco,Ajax,DMF,Argentina,27,73,The Destroyer,16125000,2,Summer,,,Ajax,3.0
 Ismaël Doukouré,Ajax,DMF,France,22,73,Anchor Man,17250000,2,Summer,,,Ajax,3.0
+Leonel Picco,Ajax,DMF,Argentina,27,73,The Destroyer,16125000,2,Summer,,,Ajax,3.0
 James Garner,Ajax,DMF,England,24,74,Anchor Man,19250000,2,Summer,,,Ajax,3.0
 Kees Smit,Ajax,CMF,Netherlands,19,69,Orchestrator,9450000,3,Summer,,,Ajax,3.1
 Lucas Bergvall,Ajax,CMF,Sweden,19,73,Orchestrator,24750000,2,Summer,,,Ajax,3.1
@@ -31,12 +31,13 @@ Matthieu Epolo,Anderlecht,GK,Belgium,20,72,Offensive Goalkeeper,15312500,2,Summe
 Alex Meret,Anderlecht,GK,Italy,28,77,Defensive Goalkeeper,27500000,1,,,,Anderlecht,1.0
 Zeno Debast,Anderlecht,CB,Belgium,22,74,Extra Frontman,20562500,2,Summer,,,Anderlecht,2.0
 Sebastiaan Bornauw,Anderlecht,CB,Belgium,26,76,Build Up,25312500,2,Winter,,,Anderlecht,2.0
-Mario Hermoso,Anderlecht,CB,Spain,30,78,Build Up,30250000,3,Summer,,,Anderlecht,2.0
 Matthijs de Ligt,Anderlecht,CB,Netherlands,26,78,Build Up,32312500,2,Summer,,,Anderlecht,2.0
+Mario Hermoso,Anderlecht,CB,Spain,30,78,Build Up,30250000,3,Summer,,,Anderlecht,2.0
 Lucas Hernández,Anderlecht,CB,France,29,79,Extra Frontman,35250000,3,Summer,,,Anderlecht,2.0
 Maxim De Cuyper,Anderlecht,LB,Belgium,25,73,Offensive Full-back,15750000,3,Summer,,,Anderlecht,2.1
 Welington,Anderlecht,LB,Brazil,24,73,Offensive Full-back,16125000,2,Winter,,,Anderlecht,2.1
 Caio Henrique,Anderlecht,LB,Brazil,28,76,Offensive Full-back,25312500,2,Winter,,,Anderlecht,2.1
+Gilles De Meyer,Anderlecht,RB,Belgium,19,65,Offensive Full-back,5000000,3,Summer,,,Anderlecht,2.2
 Aaron Wan-Bissaka,Anderlecht,RB,England,28,76,Defensive Full-back,25312500,1,,,,Anderlecht,2.2
 Diogo Dalot,Anderlecht,RB,Portugal,26,77,Offensive Full-back,28125000,1,,,,Anderlecht,2.2
 Noah Mbamba,Anderlecht,DMF,Belgium,20,71,Anchor Man,12500000,1,,,,Anderlecht,3.0
@@ -50,15 +51,15 @@ Alexis Saelemaekers,Anderlecht,RMF,Belgium,26,76,Roaming Flank,24187500,2,Winter
 Óscar Marcos,Anderlecht,AMF,Spain,19,66,Creative Playmaker,5000000,2,Winter,,,Anderlecht,3.4
 Marco Asensio,Anderlecht,AMF,Spain,29,78,Creative Playmaker,40562500,3,Summer,,,Anderlecht,3.4
 Charles De Ketelaere,Anderlecht,SS,Belgium,24,78,Creative Playmaker,33000000,1,,,,Anderlecht,4.3
-Thierno Barry,Anderlecht,CF,France,23,76,Target Man,28125000,2,Summer,,,Anderlecht,4.4
 Endrick (CF),Anderlecht,CF,Brazil,19,76,Deep-Lying Forward,39375000,3,Summer,,,Anderlecht,4.4
+Thierno Barry,Anderlecht,CF,France,23,76,Target Man,28125000,2,Summer,,,Anderlecht,4.4
 Romelu Lukaku,Anderlecht,CF,Belgium,32,79,Fox in the Box,28500000,2,Winter,,,Anderlecht,4.4
 Erling Haaland,Anderlecht,CF,Norway,25,84,Fox in the Box,144500000,2,Summer,,,Anderlecht,4.4
 Abdoul Koné,Arsenal,CB,France,20,67,Build Up,5000000,2,Summer,,,Arsenal,2.0
 Marlon Torres,Arsenal,CB,Colombia,29,72,Build Up,13750000,2,Summer,,,Arsenal,2.0
 Trevoh Chalobah,Arsenal,CB,England,26,76,Build Up,26437500,,,,,Arsenal,2.0
-Jordan Zemura,Arsenal,LB,Zimbabwe,26,73,Full-back Finisher,15750000,2,Summer,,,Arsenal,2.1
 Ulisses Garcia,Arsenal,LB,Switzerland,29,73,Offensive Full-back,15750000,,,,,Arsenal,2.1
+Jordan Zemura,Arsenal,LB,Zimbabwe,26,73,Full-back Finisher,15750000,2,Summer,,,Arsenal,2.1
 Tomás Belmonte,Arsenal,DMF,Argentina,27,74,Orchestrator,18812500,,,,,Arsenal,3.0
 Joshua King,Arsenal,CMF,England,18,66,Box-to-Box,5000000,3,Summer,,,Arsenal,3.1
 Sean Longstaff,Arsenal,CMF,England,28,75,Box-to-Box,22500000,,,,,Arsenal,3.1
@@ -74,16 +75,16 @@ Brian Rodríguez,Arsenal,LWF,Uruguay,25,73,Prolific Winger,16875000,,,,,Arsenal,
 Sheraldo Becker,Arsenal,LWF,Suriname,30,75,Roaming Flank,22000000,2,Summer,,,Arsenal,4.1
 Jonathan Ikone,Arsenal,RWF,France,27,76,Roaming Flank,31500000,3,Summer,Marseille,Summer,Arsenal,4.2
 Dodi Lukébakio,Arsenal,RWF,Belgium,28,79,Prolific Winger,42000000,,,,,Arsenal,4.2
-Carlos Martín,Arsenal,CF,Spain,23,72,Goal Poacher,15312500,,,,,Arsenal,4.4
 Nicolás Benegas,Arsenal,CF,Argentina,29,72,Deep-Lying Forward,14687500,,,,,Arsenal,4.4
+Carlos Martín,Arsenal,CF,Spain,23,72,Goal Poacher,15312500,,,,,Arsenal,4.4
 David Soria,Aston Villa,GK,Spain,32,78,Defensive Goalkeeper,22000000,1,,,,Aston Villa,1.0
 Thibaut Courtois,Aston Villa,GK,Belgium,33,83,Defensive Goalkeeper,67500000,1,,,,Aston Villa,1.0
 Jerry St. Juste,Aston Villa,CB,Netherlands,29,75,Extra Frontman,22500000,1,,,,Aston Villa,2.0
 Fikayo Tomori,Aston Villa,CB,England,28,78,Build Up,32312500,1,,,,Aston Villa,2.0
-Ben Davies,Aston Villa,LB,Wales,32,75,Defensive Full-back,12500000,1,,,,Aston Villa,2.1
 Lewis Hall,Aston Villa,LB,England,21,75,Offensive Full-back,23500000,1,,,,Aston Villa,2.1
-Lewis Travis,Aston Villa,DMF,England,28,71,The Destroyer,10500000,2,Winter,,,Aston Villa,3.0
+Ben Davies,Aston Villa,LB,Wales,32,75,Defensive Full-back,12500000,1,,,,Aston Villa,2.1
 Ben Pearson,Aston Villa,DMF,England,30,71,The Destroyer,10000000,3,Summer,,,Aston Villa,3.0
+Lewis Travis,Aston Villa,DMF,England,28,71,The Destroyer,10500000,2,Winter,,,Aston Villa,3.0
 Patrick Berg,Aston Villa,DMF,Norway,28,72,Anchor Man,13437500,2,Summer,,,Aston Villa,3.0
 Joshua Kimmich,Aston Villa,DMF,Germany,30,83,Orchestrator,105000000,2,Summer,,,Aston Villa,3.0
 Fred,Aston Villa,CMF,Brazil,32,76,Orchestrator,16875000,3,Summer,,,Aston Villa,3.1
@@ -97,21 +98,20 @@ Ademola Lookman,Aston Villa,SS,Nigeria,28,78,Hole Player,35750000,1,,,,Aston Vil
 Davian Kimbrough,Aston Villa,CF,Mexico,15,60,Deep-Lying Forward,5000000,2,Summer,,,Aston Villa,4.4
 David Datro Fofana,Aston Villa,CF,Côte d'Ivoire,22,74,Goal Poacher,26687500,3,Summer,,,Aston Villa,4.4
 Isaac,Aston Villa,CF,Spain,25,75,Goal Poacher,24000000,1,,,,Aston Villa,4.4
-Odsonne Édouard,Aston Villa,CF,France,27,75,Goal Poacher,24000000,2,Summer,,,Aston Villa,4.4
 Ivan Toney,Aston Villa,CF,England,29,79,Target Man,37500000,2,Summer,,,Aston Villa,4.4
 Luigi Sepe,Atalanta,GK,Italy,34,73,Defensive Goalkeeper,4125000,1,,,,Atalanta,1.0
 Ivan Provedel,Atalanta,GK,Italy,31,77,Offensive Goalkeeper,21250000,1,,,,Atalanta,1.0
 Bafodé Diakité,Atalanta,CB,France,24,76,The Destroyer,25875000,1,,,,Atalanta,2.0
 Pierre Kalulu,Atalanta,CB,France,25,77,Build Up,29375000,1,,,,Atalanta,2.0
 Virgil van Dijk,Atalanta,CB,Netherlands,34,83,Build Up,58125000,1,,,,Atalanta,2.0
-Matteo Ruggeri,Atalanta,LB,Italy,23,75,Offensive Full-back,22500000,1,,,,Atalanta,2.1
 Andrea Cambiaso,Atalanta,LB,Italy,25,75,Offensive Full-back,21500000,1,,,,Atalanta,2.1
+Matteo Ruggeri,Atalanta,LB,Italy,23,75,Offensive Full-back,22500000,1,,,,Atalanta,2.1
 Stefan Posch,Atalanta,RB,Austria,28,75,Defensive Full-back,20500000,2,Summer,,,Atalanta,2.2
 Manuel Lazzari,Atalanta,RB,Italy,32,76,Offensive Full-back,15750000,1,,,,Atalanta,2.2
-Lucas Torreira,Atalanta,DMF,Uruguay,29,76,Anchor Man,25875000,2,Summer,,,Atalanta,3.0
 Bryan Cristante,Atalanta,DMF,Italy,30,76,The Destroyer,24187500,1,,,,Atalanta,3.0
+Lucas Torreira,Atalanta,DMF,Uruguay,29,76,Anchor Man,25875000,2,Summer,,,Atalanta,3.0
+Dorukhan Toköz,Atalanta,CMF,Türkiye,29,73,Box-to-Box,16500000,3,Summer,,,Atalanta,3.1
 Maxence Caqueret,Atalanta,CMF,France,25,74,Orchestrator,19250000,1,,,,Atalanta,3.1
-Fabio Miretti,Atalanta,CMF,Italy,22,75,Box-to-Box,24000000,1,,,,Atalanta,3.1
 Dani Ceballos,Atalanta,CMF,Spain,29,75,Orchestrator,22500000,2,Summer,,,Atalanta,3.1
 Henrikh Mkhitaryan,Atalanta,CMF,Armenia,36,77,Box-to-Box,3750000,2,Summer,,,Atalanta,3.1
 Robin Gosens,Atalanta,LMF,Germany,31,75,Box-to-Box,16500000,1,,,,Atalanta,3.2
@@ -140,7 +140,9 @@ Kristjan Asllani,Athletico Madrid,DMF,Albania,23,73,Orchestrator,16875000,,,,,At
 Jens Cajuste,Athletico Madrid,DMF,Sweden,26,74,Box-to-Box,18812500,3,Summer,,,Athletico Madrid,3.0
 Lucas Menossi,Athletico Madrid,CMF,Argentina,33,72,Orchestrator,7500000,2,Summer,,,Athletico Madrid,3.1
 Simón Rivero,Athletico Madrid,CMF,Argentina,22,72,Orchestrator,14687500,2,Winter,,,Athletico Madrid,3.1
+Michael Folorunsho,Athletico Madrid,CMF,Italy,27,73,Box-to-Box,16500000,3,Summer,,,Athletico Madrid,3.1
 Eduardo Camavinga,Athletico Madrid,CMF,France,23,81,Box-to-Box,76250000,3,Summer,,,Athletico Madrid,3.1
+Leon Bailey,Athletico Madrid,RMF,Jamaica,28,76,Roaming Flank,25312500,3,Summer,,,Athletico Madrid,3.3
 Lorran,Athletico Madrid,AMF,Brazil,19,68,Hole Player,6300000,2,Winter,,,Athletico Madrid,3.4
 Portu,Athletico Madrid,AMF,Spain,33,73,Hole Player,9000000,2,Summer,,,Athletico Madrid,3.4
 Takumi Minamino,Athletico Madrid,AMF,Japan,30,75,Hole Player,21500000,2,Summer,,,Athletico Madrid,3.4
@@ -153,15 +155,12 @@ Francisco Valdés,Atletico Nacional,GK,Chile,19,65,Offensive Goalkeeper,5000000,
 Geovanni Banguera,Atletico Nacional,GK,Colombia,30,72,Offensive Goalkeeper,12187500,,,,,Atletico Nacional,1.0
 Álvaro Montero,Atletico Nacional,GK,Colombia,30,74,Defensive Goalkeeper,17062500,3,Summer,,,Atletico Nacional,1.0
 Joel Ordóñez,Atletico Nacional,CB,Ecuador,21,72,Build Up,15000000,3,Summer,,,Atletico Nacional,2.0
-Anderson Angulo,Atletico Nacional,CB,Colombia,29,72,The Destroyer,13750000,,,,,Atletico Nacional,2.0
-Felipe Aguilar,Atletico Nacional,CB,Colombia,32,72,Build Up,8750000,,,,,Atletico Nacional,2.0
 Carlos Cuesta,Atletico Nacional,CB,Colombia,26,74,Extra Frontman,19250000,3,Summer,,,Atletico Nacional,2.0
-Yerry Mina,Atletico Nacional,CB,Colombia,31,75,Extra Frontman,17500000,,,,,Atletico Nacional,2.0
 Jhon Lucumí,Atletico Nacional,CB,Colombia,27,77,Build Up,28750000,3,Summer,,,Atletico Nacional,2.0
 Deiver Machado,Atletico Nacional,LB,Colombia,32,74,Offensive Full-back,11375000,3,Summer,,,Atletico Nacional,2.1
 Stiven Vega,Atletico Nacional,DMF,Colombia,27,72,Anchor Man,13437500,3,Summer,,,Atletico Nacional,3.0
-José Caicedo,Atletico Nacional,DMF,Colombia,23,72,The Destroyer,14062500,3,Summer,,,Atletico Nacional,3.0
 Éder Balanta,Atletico Nacional,DMF,Colombia,32,72,The Destroyer,8437500,3,Summer,,,Atletico Nacional,3.0
+José Caicedo,Atletico Nacional,DMF,Colombia,23,72,The Destroyer,14062500,3,Summer,,,Atletico Nacional,3.0
 Hayden Hackney,Atletico Nacional,DMF,England,23,73,Anchor Man,16875000,,,,,Atletico Nacional,3.0
 Kevin Castaño,Atletico Nacional,DMF,Colombia,25,75,Box-to-Box,22000000,3,Summer,,,Atletico Nacional,3.0
 Bruno Guimarães,Atletico Nacional,DMF,Brazil,28,79,Orchestrator,40500000,3,Summer,,,Atletico Nacional,3.0
@@ -178,8 +177,8 @@ Dor Turgeman,Atletico Nacional,CF,Israel,22,73,Goal Poacher,21375000,3,Summer,,,
 Luis Muriel,Atletico Nacional,CF,Colombia,34,74,Goal Poacher,7000000,3,Summer,,,Atletico Nacional,4.4
 Andriy Lunin,Barcelona,GK,Ukraine,26,78,Offensive Goalkeeper,29562500,3,Summer,,,Barcelona,1.0
 Álvaro Vallés,Barcelona,GK,Spain,28,79,Offensive Goalkeeper,33000000,2,Summer,,,Barcelona,1.0
-Cristhian Mosquera,Barcelona,CB,Spain,21,78,The Destroyer,34375000,1,,,,Barcelona,2.0
 Naif Aguerd,Barcelona,CB,Morocco,29,78,Build Up,35062500,3,Summer,,,Barcelona,2.0
+Cristhian Mosquera,Barcelona,CB,Spain,21,78,The Destroyer,34375000,1,,,,Barcelona,2.0
 Malick Thiaw,Barcelona,CB,Germany,24,78,Build Up,38500000,3,Summer,,,Barcelona,2.0
 Willian Pacho,Barcelona,CB,Ecuador,24,79,The Destroyer,36000000,3,Summer,,,Barcelona,2.0
 Mathías Olivera,Barcelona,LB,Uruguay,28,76,Defensive Full-back,24750000,1,,,,Barcelona,2.1
@@ -189,8 +188,8 @@ João Cancelo,Barcelona,RB,Portugal,31,78,Full-back Finisher,23375000,2,Summer,,
 Mohamed Camara,Barcelona,DMF,Mali,25,75,The Destroyer,22000000,1,,,,Barcelona,3.0
 Denis Zakaria,Barcelona,DMF,Switzerland,29,77,Anchor Man,31250000,3,Summer,Aston Villa,Summer,Barcelona,3.0
 Enzo Le Fée,Barcelona,CMF,France,25,75,Orchestrator,22500000,3,Summer,,,Barcelona,3.1
-Pablo Barrios,Barcelona,CMF,Spain,22,77,Box-to-Box,30625000,2,Summer,,,Barcelona,3.1
 Warren Zaïre-Emery,Barcelona,CMF,France,19,77,Box-to-Box,44375000,2,Summer,,,Barcelona,3.1
+Pablo Barrios,Barcelona,CMF,Spain,22,77,Box-to-Box,30625000,2,Summer,,,Barcelona,3.1
 Frenkie de Jong,Barcelona,CMF,Netherlands,28,81,Orchestrator,68750000,3,Summer,,,Barcelona,3.1
 Lazar Samardžić,Barcelona,AMF,Serbia,23,76,Classic No. 10,29812500,3,Summer,,,Barcelona,3.4
 Thiago Almada,Barcelona,AMF,Argentina,24,77,Creative Playmaker,29375000,3,Summer,,,Barcelona,3.4
@@ -200,8 +199,8 @@ Franco Mastantuono,Barcelona,RWF,Argentina,18,76,Creative Playmaker,42750000,3,S
 Francisco Trincão,Barcelona,RWF,Portugal,26,78,Prolific Winger,32312500,1,,,,Barcelona,4.2
 Kenan Yıldız,Barcelona,SS,Türkiye,20,76,Hole Player,30375000,2,Summer,,,Barcelona,4.3
 Albert Guðmundsson,Barcelona,CF,Iceland,28,76,Goal Poacher,27000000,1,,,,Barcelona,4.4
-Evanilson,Barcelona,CF,Brazil,26,78,Fox in the Box,37125000,1,,,,Barcelona,4.4
 Mikel Oyarzabal,Barcelona,CF,Spain,28,78,Deep-Lying Forward,34375000,2,Winter,,,Barcelona,4.4
+Evanilson,Barcelona,CF,Brazil,26,78,Fox in the Box,37125000,1,,,,Barcelona,4.4
 Jonathan David,Barcelona,CF,Canada,25,79,Goal Poacher,43500000,1,,,,Barcelona,4.4
 Bingourou Kamara,Benfica,GK,Senegal,29,72,Offensive Goalkeeper,12812500,,,,,Benfica,1.0
 Edoardo Goldaniga,Benfica,CB,Italy,32,73,The Destroyer,10500000,,,,,Benfica,2.0
@@ -215,6 +214,7 @@ Ramón Sosa,Benfica,LMF,Paraguay,26,76,Hole Player,24187500,,,,,Benfica,3.2
 Randall Leal,Benfica,RMF,Costa Rica,28,72,Roaming Flank,13125000,,,,,Benfica,3.3
 David da Costa,Benfica,AMF,Portugal,24,73,Creative Playmaker,16875000,,,,,Benfica,3.4
 Bruno Fernandes,Benfica,AMF,Portugal,31,81,Hole Player,61250000,,,,,Benfica,3.4
+Isaac,Benfica,LWF,Brazil,21,68,Prolific Winger,5000000,3,Summer,,,Benfica,4.1
 Vicente Cárcamo,Benfica,SS,Chile,20,65,Creative Playmaker,5000000,,,,,Benfica,4.3
 Eseosa Sule,Benfica,CF,Scotland,19,65,Goal Poacher,5000000,,,,,Benfica,4.4
 Vítinha,Benfica,CF,Portugal,25,72,Goal Poacher,14687500,,,,,Benfica,4.4
@@ -226,8 +226,8 @@ Juan Portillo,Besiktas,CB,Argentina,25,75,The Destroyer,22500000,2,Summer,,,Besi
 Philipp Lienhart,Besiktas,CB,Austria,29,77,Build Up,29375000,,,,,Besiktas,2.0
 MT,Besiktas,LB,Brazil,24,74,Offensive Full-back,18812500,2,Summer,,,Besiktas,2.1
 Ferdi Kadıoğlu,Besiktas,LB,Türkiye,26,75,Offensive Full-back,22000000,2,Winter,,,Besiktas,2.1
-Zeki Çelik,Besiktas,RB,Türkiye,28,75,Offensive Full-back,21500000,2,Winter,,,Besiktas,2.2
 Thierry Correia,Besiktas,RB,Portugal,26,75,Defensive Full-back,21500000,2,Summer,,,Besiktas,2.2
+Zeki Çelik,Besiktas,RB,Türkiye,28,75,Offensive Full-back,21500000,2,Winter,,,Besiktas,2.2
 İsmail Yüksek,Besiktas,DMF,Türkiye,26,74,Anchor Man,18812500,2,Winter,,,Besiktas,3.0
 Felix Nmecha,Besiktas,DMF,Germany,25,76,Anchor Man,24750000,2,Summer,,,Besiktas,3.0
 Matteo Pessina,Besiktas,CMF,Italy,28,75,Hole Player,22500000,,,,,Besiktas,3.1
@@ -258,11 +258,11 @@ Valentín Barco,Boca,LB,Argentina,21,73,Offensive Full-back,17250000,1,,,,Boca,2
 Oleksandr Zinchenko,Boca,LB,Ukraine,29,76,Full-back Finisher,24750000,3,Summer,,,Boca,2.1
 Malo Gusto,Boca,RB,France,22,76,Offensive Full-back,25875000,3,Summer,,,Boca,2.2
 Thiago Helguera,Boca,DMF,Uruguay,19,70,Anchor Man,12600000,1,,,,Boca,3.0
-Carlos Baleba,Boca,DMF,Cameroon,21,76,Box-to-Box,27000000,1,,,,Boca,3.0
 Johnny Cardoso,Boca,DMF,United States,24,76,Anchor Man,25312500,1,,,,Boca,3.0
+Carlos Baleba,Boca,DMF,Cameroon,21,76,Box-to-Box,27000000,1,,,,Boca,3.0
 Ayyoub Bouaddi,Boca,CMF,France,18,73,Orchestrator,27750000,1,,,,Boca,3.1
-Frank Zambo Anguissa,Boca,CMF,Cameroon,30,77,Box-to-Box,27500000,2,Summer,,,Boca,3.1
 Piotr Zieliński,Boca,CMF,Poland,31,77,Hole Player,21875000,1,,,,Boca,3.1
+Frank Zambo Anguissa,Boca,CMF,Cameroon,30,77,Box-to-Box,27500000,2,Summer,,,Boca,3.1
 Nico Paz,Boca,AMF,Argentina,21,73,Hole Player,18000000,1,,,,Boca,3.4
 Mason Mount,Boca,AMF,England,26,77,Hole Player,29375000,2,Summer,,,Boca,3.4
 Fermín López,Boca,AMF,Spain,22,78,Hole Player,33687500,3,Summer,,,Boca,3.4
@@ -273,8 +273,8 @@ Exequiel Zeballos,Boca,RWF,Argentina,23,74,Prolific Winger,20562500,3,Summer,,,B
 Nicolás González,Boca,RWF,Argentina,27,78,Prolific Winger,38500000,1,,,,Boca,4.2
 Wout Weghorst,Boca,CF,Netherlands,33,75,Target Man,14000000,1,,,,Boca,4.4
 D. Calvert-Lewin,Boca,CF,England,28,76,Goal Poacher,27000000,1,,,,Boca,4.4
-Gabriel Jesus,Boca,CF,Brazil,28,77,Deep-Lying Forward,30625000,1,,,,Boca,4.4
 Samu Aghehowa,Boca,CF,Spain,21,77,Fox in the Box,33125000,3,Summer,,,Boca,4.4
+Gabriel Jesus,Boca,CF,Brazil,28,77,Deep-Lying Forward,30625000,1,,,,Boca,4.4
 Marcus Thuram,Boca,CF,France,28,80,Goal Poacher,54000000,1,,,,Boca,4.4
 Thiago De Bellis,Celta Vigo,GK,Argentina,20,65,Offensive Goalkeeper,5000000,,,,,Celta Vigo,1.0
 Adrian Šemper,Celta Vigo,GK,Croatia,27,72,Offensive Goalkeeper,12812500,3,Summer,,,Celta Vigo,1.0
@@ -307,26 +307,22 @@ Borja Iglesias,Celta Vigo,CF,Spain,32,76,Target Man,18000000,3,Summer,,,Celta Vi
 Edin Džeko,Celta Vigo,CF,Bosnia and Herzegovina,39,78,Target Man,6187500,3,Summer,,,Celta Vigo,4.4
 Álvaro Morata,Celta Vigo,CF,Spain,33,79,Goal Poacher,22500000,,,,,Celta Vigo,4.4
 Oliver Baumann,Celtic,GK,Germany,35,79,Offensive Goalkeeper,3000000,3,Summer,,,Celtic,1.0
-Ben Davies,Celtic,CB,England,30,72,Build Up,13125000,,,,,Celtic,2.0
 Olivier Boscagli,Celtic,CB,France,28,75,Build Up,22500000,3,Summer,,,Celtic,2.0
 C. Carter-Vickers,Celtic,CB,United States,28,77,The Destroyer,28750000,3,Summer,,,Celtic,2.0
 Calvin Bassey,Celtic,CB,Nigeria,26,77,Build Up,29375000,3,Summer,,,Celtic,2.0
-Gilles De Meyer,Celtic,RB,Belgium,19,65,Offensive Full-back,5000000,,,,,Celtic,2.2
-Gonzalo Luján,Celtic,RB,Argentina,24,71,Defensive Full-back,10500000,3,Summer,,,Celtic,2.2
 Louis Patris,Celtic,RB,Belgium,24,71,Defensive Full-back,10500000,3,Summer,,,Celtic,2.2
+Gonzalo Luján,Celtic,RB,Argentina,24,71,Defensive Full-back,10500000,3,Summer,,,Celtic,2.2
 Tino Livramento,Celtic,RB,England,23,76,Offensive Full-back,25312500,3,Summer,,,Celtic,2.2
 Ola Aina,Celtic,RB,Nigeria,29,77,Offensive Full-back,27500000,3,Summer,,,Celtic,2.2
 Finn Yeats,Celtic,DMF,Scotland,21,67,Anchor Man,5000000,3,Summer,,,Celtic,3.0
 Jean Claude,Celtic,DMF,Togo,22,68,Anchor Man,5000000,3,Summer,,,Celtic,3.0
 Callum McGregor,Celtic,DMF,Scotland,32,75,Orchestrator,14000000,3,Summer,,,Celtic,3.0
 Scott McTominay,Celtic,DMF,Scotland,29,79,Box-to-Box,43500000,,,,,Celtic,3.0
-Harrison Armstrong,Celtic,CMF,England,18,68,Box-to-Box,7100000,,,,,Celtic,3.1
 Connor Barron,Celtic,CMF,Scotland,23,72,Box-to-Box,14375000,,,,,Celtic,3.1
 Jackson Irvine,Celtic,CMF,Australia,32,73,Box-to-Box,10500000,3,Summer,,,Celtic,3.1
 Lewis Ferguson,Celtic,CMF,Scotland,26,75,Box-to-Box,22500000,3,Summer,,,Celtic,3.1
 John McGinn,Celtic,CMF,Scotland,31,78,Box-to-Box,28187500,3,Summer,,,Celtic,3.1
 Leon Goretzka,Celtic,CMF,Germany,30,79,Box-to-Box,33750000,3,Summer,,,Celtic,3.1
-Maximiliano Zalazar,Celtic,LMF,Argentina,24,72,Roaming Flank,13437500,,,,,Celtic,3.2
 Ryan Fraser,Celtic,LWF,Scotland,31,73,Prolific Winger,13125000,,,,,Celtic,4.1
 Christos Tzolis,Celtic,LWF,Greece,23,74,Prolific Winger,20562500,,,,,Celtic,4.1
 Andrés Martín,Celtic,RWF,Spain,26,74,Prolific Winger,19687500,,,,,Celtic,4.2
@@ -337,8 +333,8 @@ R.Jayden Owusu-Oduro,Chelsea,GK,Netherlands,21,72,Defensive Goalkeeper,14062500,
 Robert Sánchez,Chelsea,GK,Spain,28,77,Offensive Goalkeeper,27500000,2,Summer,,,Chelsea,1.0
 Aaron Anselmino,Chelsea,CB,Argentina,20,74,Build Up,22750000,2,Summer,,,Chelsea,2.0
 Kristoffer Ajer,Chelsea,CB,Norway,27,75,Build Up,22500000,,,,,Chelsea,2.0
-Çağlar Söyüncü,Chelsea,CB,Türkiye,29,76,Build Up,25312500,2,Summer,,,Chelsea,2.0
 Tosin Adarabioyo,Chelsea,CB,England,28,76,Build Up,25312500,2,Summer,,,Chelsea,2.0
+Çağlar Söyüncü,Chelsea,CB,Türkiye,29,76,Build Up,25312500,2,Summer,,,Chelsea,2.0
 Neco Williams,Chelsea,LB,Wales,24,75,Offensive Full-back,22000000,2,Summer,,,Chelsea,2.1
 Marc Cucurella,Chelsea,LB,Spain,27,76,Offensive Full-back,25312500,2,Summer,,,Chelsea,2.1
 Leonardo Godoy,Chelsea,RB,Argentina,30,72,Offensive Full-back,12500000,,,,,Chelsea,2.2
@@ -359,7 +355,6 @@ Marc Guiu,Chelsea,CF,Spain,19,71,Goal Poacher,17000000,2,Summer,,,Chelsea,4.4
 Matthis Abline,Chelsea,CF,France,22,74,Goal Poacher,21875000,2,Summer,,,Chelsea,4.4
 Viktor Gyökeres,Chelsea,CF,Sweden,27,80,Goal Poacher,58000000,3,Summer,,,Chelsea,4.4
 Matz Sels,Club Brugge,GK,Belgium,33,77,Offensive Goalkeeper,15000000,2,Winter,,,Club Brugge,1.0
-Maximiliano Caufriez,Club Brugge,CB,Belgium,28,72,Build Up,13750000,2,Summer,,,Club Brugge,2.0
 Nathan Wood,Club Brugge,CB,England,23,73,Build Up,17250000,3,Summer,,,Club Brugge,2.0
 Santiago Ramos Mingo,Club Brugge,CB,Argentina,24,73,Build Up,16875000,2,Winter,,,Club Brugge,2.0
 Israel Reyes,Club Brugge,CB,Mexico,25,74,Build Up,19250000,2,Summer,,,Club Brugge,2.0
@@ -369,33 +364,33 @@ Aihen Muñoz,Club Brugge,LB,Spain,28,75,Offensive Full-back,21500000,3,Summer,,,
 Jordi Alba,Club Brugge,LB,Spain,36,77,Offensive Full-back,2500000,2,Winter,,,Club Brugge,2.1
 Antonee Robinson,Club Brugge,LB,United States,28,78,Offensive Full-back,30250000,3,Summer,,,Club Brugge,2.1
 Manu Sánchez,Club Brugge,RB,Spain,29,67,Defensive Full-back,5000000,2,Summer,,,Club Brugge,2.2
-Nathan,Club Brugge,RB,Brazil,24,71,Offensive Full-back,10500000,2,Summer,,,Club Brugge,2.2
 Dani Carvajal,Club Brugge,RB,Spain,33,78,Offensive Full-back,19937500,,,,,Club Brugge,2.2
+Fran Beltrán,Club Brugge,DMF,Spain,26,75,Anchor Man,22500000,3,Summer,,,Club Brugge,3.0
 Marc Casadó,Club Brugge,DMF,Spain,22,76,Anchor Man,26437500,3,Summer,,,Club Brugge,3.0
 Iliman Ndiaye,Club Brugge,LMF,Senegal,25,76,Roaming Flank,24187500,2,Winter,,,Club Brugge,3.2
 Yankuba Minteh,Club Brugge,RMF,The Gambia,21,75,Roaming Flank,23500000,2,Summer,Kasimpasa,Summer,Club Brugge,3.3
 Anouar Ait El Hadj,Club Brugge,AMF,Belgium,23,71,Classic No. 10,11250000,3,Summer,,,Club Brugge,3.4
 Pity Martínez,Club Brugge,AMF,Argentina,32,75,Creative Playmaker,14500000,2,Winter,,,Club Brugge,3.4
 Brahim Díaz,Club Brugge,AMF,Morocco,26,77,Creative Playmaker,31875000,3,Summer,,,Club Brugge,3.4
-Julien Duranville,Club Brugge,LWF,Belgium,19,72,Roaming Flank,20937500,3,Summer,,,Club Brugge,4.1
 M. Fernandez-Pardo,Club Brugge,LWF,Belgium,20,72,Prolific Winger,16562500,2,Winter,,,Club Brugge,4.1
+Julien Duranville,Club Brugge,LWF,Belgium,19,72,Roaming Flank,20937500,3,Summer,,,Club Brugge,4.1
 João Félix,Club Brugge,LWF,Portugal,26,78,Creative Playmaker,38500000,3,Summer,,,Club Brugge,4.1
-Dani Díaz,Club Brugge,RWF,Spain,19,65,Prolific Winger,5000000,2,Summer,,,Club Brugge,4.2
 Jan Faberski,Club Brugge,RWF,Poland,19,65,Prolific Winger,5000000,2,Summer,,,Club Brugge,4.2
+Dani Díaz,Club Brugge,RWF,Spain,19,65,Prolific Winger,5000000,2,Summer,,,Club Brugge,4.2
 Mohamed Salah,Club Brugge,RWF,Egypt,33,84,Roaming Flank,89250000,3,Summer,,,Club Brugge,4.2
 Cucho Hernández,Club Brugge,CF,Colombia,26,76,Deep-Lying Forward,27000000,3,Summer,,,Club Brugge,4.4
 Filip Jørgensen,Corinthians,GK,Denmark,23,76,Offensive Goalkeeper,24750000,1,,,,Corinthians,1.0
 Bento,Corinthians,GK,Brazil,26,77,Offensive Goalkeeper,26875000,3,Summer,,,Corinthians,1.0
-Harry Maguire,Corinthians,CB,England,32,78,Build Up,21312500,1,,,,Corinthians,2.0
 Waldemar Anton,Corinthians,CB,Germany,29,78,Build Up,31625000,1,,,,Corinthians,2.0
+Harry Maguire,Corinthians,CB,England,32,78,Build Up,21312500,1,,,,Corinthians,2.0
 Borna Sosa,Corinthians,LB,Croatia,27,75,Offensive Full-back,21500000,2,Summer,,,Corinthians,2.1
 Tyrick Mitchell,Corinthians,LB,England,26,76,Defensive Full-back,24187500,1,,,,Corinthians,2.1
 Riccardo Calafiori,Corinthians,LB,Italy,23,78,Offensive Full-back,40562500,1,,,,Corinthians,2.1
 Joël Veltman,Corinthians,RB,Netherlands,33,74,Defensive Full-back,9625000,1,,,,Corinthians,2.2
 Yukinari Sugawara,Corinthians,RB,Japan,25,76,Offensive Full-back,24187500,3,Summer,,,Corinthians,2.2
 Al Musrati,Corinthians,DMF,Libya,29,76,Anchor Man,25312500,1,,,,Corinthians,3.0
-Edson Álvarez,Corinthians,DMF,Mexico,28,78,The Destroyer,34375000,1,,,,Corinthians,3.0
 Marten de Roon,Corinthians,DMF,Netherlands,34,78,Anchor Man,11000000,1,,,,Corinthians,3.0
+Edson Álvarez,Corinthians,DMF,Mexico,28,78,The Destroyer,34375000,1,,,,Corinthians,3.0
 Lewis Miley,Corinthians,CMF,England,19,72,Box-to-Box,20625000,2,Summer,,,Corinthians,3.1
 Marcos Antônio,Corinthians,CMF,Brazil,25,73,Orchestrator,16500000,3,Summer,,,Corinthians,3.1
 Gabriel Sara,Corinthians,CMF,Brazil,26,74,Hole Player,19250000,1,,,,Corinthians,3.1
@@ -405,7 +400,6 @@ Martín Ojeda,Corinthians,RMF,Argentina,27,74,Hole Player,18375000,1,,,,Corinthi
 Simone Verdi,Corinthians,AMF,Italy,33,74,Creative Playmaker,10500000,1,,,,Corinthians,3.4
 Martin Ødegaard,Corinthians,AMF,Norway,27,82,Creative Playmaker,88500000,2,Summer,,,Corinthians,3.4
 Andreas Schjelderup,Corinthians,LWF,Norway,21,74,Roaming Flank,21437500,1,,,,Corinthians,4.1
-Gabriel Strefezza,Corinthians,RWF,Brazil,28,75,Prolific Winger,28000000,1,,,,Corinthians,4.2
 Donyell Malen,Corinthians,RWF,Netherlands,26,76,Prolific Winger,26437500,1,,,,Corinthians,4.2
 Leandro Fernández,Corinthians,CF,Argentina,34,73,Deep-Lying Forward,6375000,3,Summer,,,Corinthians,4.4
 Facundo Colidio,Corinthians,CF,Argentina,25,77,Dummy Runner,30625000,1,,,,Corinthians,4.4
@@ -429,10 +423,9 @@ Romano Schmid,Cruzeiro,AMF,Austria,25,75,Creative Playmaker,22500000,3,Summer,,,
 Papu Gómez,Cruzeiro,AMF,Argentina,37,77,Creative Playmaker,3750000,3,Summer,,,Cruzeiro,3.4
 Dániel Sallói,Cruzeiro,LWF,Hungary,29,73,Prolific Winger,16875000,,,,,Cruzeiro,4.1
 Kevin Schade,Cruzeiro,LWF,Germany,24,76,Prolific Winger,26437500,3,Summer,,,Cruzeiro,4.1
-Luiz Henrique,Cruzeiro,LWF,Brazil,24,77,Prolific Winger,41875000,3,Summer,,,Cruzeiro,4.1
 Allan Saint-Maximin,Cruzeiro,LWF,France,28,77,Prolific Winger,29375000,3,Summer,,,Cruzeiro,4.1
+Luiz Henrique,Cruzeiro,LWF,Brazil,24,77,Prolific Winger,41875000,3,Summer,,,Cruzeiro,4.1
 Gennadiy Synchuk,Cruzeiro,RWF,Ukraine,19,68,Creative Playmaker,6400000,,,,,Cruzeiro,4.2
-Christian Fassnacht,Cruzeiro,RWF,Switzerland,32,72,Roaming Flank,9062500,,,,,Cruzeiro,4.2
 Adama Traoré,Cruzeiro,RWF,Spain,29,74,Prolific Winger,19687500,3,Summer,,,Cruzeiro,4.2
 Mohamed Ali Cho,Cruzeiro,RWF,France,21,74,Prolific Winger,21437500,3,Summer,,,Cruzeiro,4.2
 Nicolas Pépé,Cruzeiro,RWF,Côte d'Ivoire,30,75,Prolific Winger,22000000,3,Summer,,,Cruzeiro,4.2
@@ -511,15 +504,15 @@ Santi Comesaña,Estudiantes,CMF,Spain,29,75,Box-to-Box,22500000,,,,,Estudiantes,
 Jonathan Bamba,Estudiantes,LMF,Côte d'Ivoire,29,75,Roaming Flank,21500000,3,Summer,,,Estudiantes,3.2
 Valentino Lazaro,Estudiantes,RMF,Austria,29,73,Box-to-Box,15750000,3,Summer,,,Estudiantes,3.3
 Gabriel Florentín,Estudiantes,AMF,Argentina,26,72,Hole Player,13750000,3,Summer,,,Estudiantes,3.4
-Alan Lescano,Estudiantes,AMF,Argentina,24,75,Creative Playmaker,23000000,,,,,Estudiantes,3.4
 Carlos Palacios,Estudiantes,AMF,Chile,25,75,Creative Playmaker,22500000,,,,,Estudiantes,3.4
+Alan Lescano,Estudiantes,AMF,Argentina,24,75,Creative Playmaker,23000000,,,,,Estudiantes,3.4
 Marcelino Moreno,Estudiantes,AMF,Argentina,31,76,Creative Playmaker,19687500,3,Summer,,,Estudiantes,3.4
 Marlon Balanta,Estudiantes,LWF,Colombia,17,65,Roaming Flank,5000000,,,,,Estudiantes,4.1
 Francisco González,Estudiantes,LWF,Argentina,24,72,Cross Specialist,14375000,,,,,Estudiantes,4.1
 Nico Williams,Estudiantes,LWF,Spain,23,81,Prolific Winger,77500000,3,Summer,,,Estudiantes,4.1
 Alexis Cuello,Estudiantes,CF,Argentina,25,71,Dummy Runner,11500000,3,Summer,,,Estudiantes,4.4
-Lucas Stassin,Estudiantes,CF,Belgium,21,75,Fox in the Box,26000000,3,Summer,,,Estudiantes,4.4
 Pablo Vegetti,Estudiantes,CF,Argentina,37,75,Target Man,4000000,3,Summer,,,Estudiantes,4.4
+Lucas Stassin,Estudiantes,CF,Belgium,21,75,Fox in the Box,26000000,3,Summer,,,Estudiantes,4.4
 Bruno Petković,Estudiantes,CF,Croatia,31,76,Deep-Lying Forward,21937500,3,Summer,,,Estudiantes,4.4
 Richarlison,Estudiantes,CF,Brazil,28,78,Goal Poacher,34375000,3,Summer,,,Estudiantes,4.4
 Predrag Rajkovic ,F.C. Copenhagen,GK,Serbia,30,78,Offensive Goalkeeper,37125000,3,Summer,,,F.C. Copenhagen,1.0
@@ -535,8 +528,8 @@ Matheuzinho,F.C. Copenhagen,RB,Brazil,25,73,Offensive Full-back,15750000,,,,,F.C
 Mads Roerslev,F.C. Copenhagen,RB,Denmark,26,75,Offensive Full-back,21500000,3,Summer,,,F.C. Copenhagen,2.2
 Iván Gómez,F.C. Copenhagen,DMF,Argentina,28,73,Orchestrator,16125000,,,,,F.C. Copenhagen,3.0
 Geoffrey Kondogbia,F.C. Copenhagen,DMF,Central African Rep.,32,76,Anchor Man,15187500,3,Summer,,,F.C. Copenhagen,3.0
-Morten Frendrup,F.C. Copenhagen,CMF,Denmark,24,73,The Destroyer,16875000,3,Summer,,,F.C. Copenhagen,3.1
 Albert Grønbæk,F.C. Copenhagen,CMF,Denmark,24,73,Box-to-Box,16875000,3,Summer,,,F.C. Copenhagen,3.1
+Morten Frendrup,F.C. Copenhagen,CMF,Denmark,24,73,The Destroyer,16875000,3,Summer,,,F.C. Copenhagen,3.1
 Moi Gómez,F.C. Copenhagen,CMF,Spain,31,74,Hole Player,14875000,3,Summer,,,F.C. Copenhagen,3.1
 Casper Nielsen,F.C. Copenhagen,CMF,Denmark,31,75,Hole Player,17500000,,,,,F.C. Copenhagen,3.1
 İlkay Gündoğan,F.C. Copenhagen,CMF,Germany,35,78,Hole Player,4125000,3,Summer,,,F.C. Copenhagen,3.1
@@ -576,8 +569,8 @@ Diego Mascardi,Fiorentina,GK,Italy,19,65,Offensive Goalkeeper,5000000,3,Summer,,
 Kaua Santos,,GK,Brazil,22,75,Offensive Goalkeeper,27500000,3,Summer,,,Fiorentina,1.0
 Honest Ahanor,Fiorentina,CB,Italy,17,62,Build Up,5000000,3,Summer,,,Fiorentina,2.0
 Pietro Comuzzo,Fiorentina,CB,Italy,20,69,The Destroyer,6450000,3,Summer,,,Fiorentina,2.0
-Diego Coppola,Fiorentina,CB,Italy,22,73,Build Up,17625000,3,Summer,,,Fiorentina,2.0
 Mattia Bani,Fiorentina,CB,Italy,32,73,The Destroyer,10500000,,,,,Fiorentina,2.0
+Diego Coppola,Fiorentina,CB,Italy,22,73,Build Up,17625000,3,Summer,,,Fiorentina,2.0
 Federico Gatti,Fiorentina,CB,Italy,27,76,Build Up,25875000,3,Summer,,,Fiorentina,2.0
 Nikola Milenković,Fiorentina,CB,Serbia,28,78,The Destroyer,35062500,3,Summer,,,Fiorentina,2.0
 Davide Bartesaghi,Fiorentina,LB,Italy,20,68,Offensive Full-back,5000000,3,Summer,,,Fiorentina,2.1
@@ -618,16 +611,15 @@ Roman Bürki,Grasshoppers Club Zurich,GK,Switzerland,35,74,Offensive Goalkeeper,
 Justin Bijlow,Grasshoppers Club Zurich,GK,Netherlands,27,75,Offensive Goalkeeper,21000000,3,Summer,,,Grasshoppers Club Zurich,1.0
 Marc ter Stegen,Grasshoppers Club Zurich,GK,Germany,33,81,Offensive Goalkeeper,40000000,3,Summer,,,Grasshoppers Club Zurich,1.0
 Aurèle Amenda,Grasshoppers Club Zurich,CB,Switzerland,22,72,Build Up,14687500,3,Summer,,,Grasshoppers Club Zurich,2.0
-Cédric Zesiger,Grasshoppers Club Zurich,CB,Switzerland,27,72,Build Up,13750000,,,,,Grasshoppers Club Zurich,2.0
 Ricardo Rodríguez,Grasshoppers Club Zurich,CB,Switzerland,33,74,Build Up,10500000,2,Winter,,,Grasshoppers Club Zurich,2.0
-Perr Schuurs,Grasshoppers Club Zurich,CB,Netherlands,26,76,Extra Frontman,25875000,,,,,Grasshoppers Club Zurich,2.0
 Eric García,Grasshoppers Club Zurich,CB,Spain,24,76,Build Up,27000000,2,Summer,,,Grasshoppers Club Zurich,2.0
+Perr Schuurs,Grasshoppers Club Zurich,CB,Netherlands,26,76,Extra Frontman,25875000,,,,,Grasshoppers Club Zurich,2.0
 Andreas Christensen,Grasshoppers Club Zurich,CB,Denmark,29,78,Build Up,32312500,2,Summer,,,Grasshoppers Club Zurich,2.0
 Manuel Akanji,Grasshoppers Club Zurich,CB,Switzerland,30,80,Build Up,49000000,3,Summer,,,Grasshoppers Club Zurich,2.0
 Alejandro Grimaldo,Grasshoppers Club Zurich,LB,Spain,30,79,Full-back Finisher,32250000,,,,,Grasshoppers Club Zurich,2.1
 Yan Couto,Grasshoppers Club Zurich,RB,Brazil,23,76,Offensive Full-back,25312500,2,Summer,,,Grasshoppers Club Zurich,2.2
-Marc Bernal,Grasshoppers Club Zurich,DMF,Spain,18,73,Anchor Man,30750000,2,Summer,,,Grasshoppers Club Zurich,3.0
 Ardon Jashari,Grasshoppers Club Zurich,DMF,Switzerland,23,73,Orchestrator,16875000,2,Summer,,,Grasshoppers Club Zurich,3.0
+Marc Bernal,Grasshoppers Club Zurich,DMF,Spain,18,73,Anchor Man,30750000,2,Summer,,,Grasshoppers Club Zurich,3.0
 Remo Freuler,Grasshoppers Club Zurich,CMF,Switzerland,33,75,Box-to-Box,12500000,2,Summer,,,Grasshoppers Club Zurich,3.1
 Franck Kessié,Grasshoppers Club Zurich,CMF,Côte d'Ivoire,29,78,Box-to-Box,31625000,2,Winter,,,Grasshoppers Club Zurich,3.1
 Xherdan Shaqiri,Grasshoppers Club Zurich,AMF,Switzerland,34,74,Creative Playmaker,6125000,2,Summer,,,Grasshoppers Club Zurich,3.4
@@ -636,8 +628,8 @@ Dani Olmo,Grasshoppers Club Zurich,AMF,Spain,27,80,Hole Player,55000000,2,Summer
 Álex Berenguer,Grasshoppers Club Zurich,LWF,Spain,30,78,Roaming Flank,31625000,2,Summer,,,Grasshoppers Club Zurich,4.1
 Toni Fernández,Grasshoppers Club Zurich,RWF,Spain,17,69,Roaming Flank,12000000,2,Summer,,,Grasshoppers Club Zurich,4.2
 Munas Dabbur,Grasshoppers Club Zurich,CF,Israel,33,74,Goal Poacher,11812500,2,Summer,,,Grasshoppers Club Zurich,4.4
-Jørgen Strand Larsen,Grasshoppers Club Zurich,CF,Norway,25,76,Goal Poacher,27000000,3,Summer,Real Betis,Summer,Grasshoppers Club Zurich,4.4
 Breel Embolo,Grasshoppers Club Zurich,CF,Switzerland,28,76,Target Man,27562500,2,Winter,,,Grasshoppers Club Zurich,4.4
+Jørgen Strand Larsen,Grasshoppers Club Zurich,CF,Norway,25,76,Goal Poacher,27000000,3,Summer,Real Betis,Summer,Grasshoppers Club Zurich,4.4
 Iago Aspas,Grasshoppers Club Zurich,CF,Spain,38,77,Deep-Lying Forward,5000000,2,Summer,,,Grasshoppers Club Zurich,4.4
 Artem Dovbyk,Grasshoppers Club Zurich,CF,Ukraine,28,78,Fox in the Box,33687500,3,Summer,,,Grasshoppers Club Zurich,4.4
 Nelson Insfrán,Huracan,GK,Argentina,30,74,Offensive Goalkeeper,17062500,,,,,Huracan,1.0
@@ -653,8 +645,8 @@ Alexandro Bernabéi,Huracan,LB,Argentina,25,75,Offensive Full-back,21500000,,,,,
 Oleksandr Tymchyk,Huracan,RB,Ukraine,28,73,Offensive Full-back,15750000,,,,,Huracan,2.2
 James Justin,Huracan,RB,England,27,75,Defensive Full-back,21500000,3,Summer,,,Huracan,2.2
 Antonio Blanco,Huracan,DMF,Spain,25,72,Orchestrator,13437500,,,,,Huracan,3.0
-Bruno Leyes,Huracan,DMF,Argentina,24,73,Anchor Man,16500000,3,Summer,,,Huracan,3.0
 Guillermo Fernández,Huracan,DMF,Argentina,34,73,Anchor Man,4875000,3,Summer,,,Huracan,3.0
+Bruno Leyes,Huracan,DMF,Argentina,24,73,Anchor Man,16500000,3,Summer,,,Huracan,3.0
 Adam Wharton,Huracan,DMF,England,21,75,Orchestrator,24000000,3,Summer,,,Huracan,3.0
 Jackson Yueill,Huracan,CMF,United States,28,73,Box-to-Box,16500000,,,,,Huracan,3.1
 Gaetano Castrovilli,Huracan,CMF,Italy,28,75,Hole Player,22500000,3,Summer,,,Huracan,3.1
@@ -717,12 +709,11 @@ Akor Adams,Inter Milan,CF,Nigeria,25,73,Goal Poacher,17625000,1,,,,Inter Milan,4
 Nicolas Jackson,Inter Milan,CF,Senegal,24,78,Goal Poacher,34375000,1,,,,Inter Milan,4.4
 Aaron Ramsdale,Juventus,GK,England,27,77,Offensive Goalkeeper,26875000,2,Summer,,,Juventus,1.0
 Leny Yoro,Juventus,CB,France,20,75,Build Up,26500000,2,Winter,,,Juventus,2.0
-Valentín Gómez,Juventus,CB,Argentina,22,76,Build Up,27000000,1,,,,Juventus,2.0
 Nicolò Casale,Juventus,CB,Italy,27,76,The Destroyer,25875000,2,Summer,,,Juventus,2.0
+Valentín Gómez,Juventus,CB,Argentina,22,76,Build Up,27000000,1,,,,Juventus,2.0
 Loïc Badé,Juventus,CB,France,25,77,Build Up,28750000,3,Summer,,,Juventus,2.0
 Emerson Palmieri,Juventus,LB,Italy,31,75,Offensive Full-back,16500000,2,Summer,,,Juventus,2.1
 Michael Kayode,Juventus,RB,Italy,21,73,Offensive Full-back,17250000,1,,,,Juventus,2.2
-Y. Ndayishimiye,Juventus,DMF,Burundi,27,75,Anchor Man,22000000,2,Summer,,,Juventus,3.0
 Harrison Reed,Juventus,DMF,England,30,75,Anchor Man,21000000,3,Summer,,,Juventus,3.0
 Nico González,Juventus,DMF,Spain,23,76,Orchestrator,25875000,3,Summer,,,Juventus,3.0
 João Palhinha,Juventus,DMF,Portugal,30,80,The Destroyer,48000000,1,,,,Juventus,3.0
@@ -738,10 +729,9 @@ Yeferson Soteldo,Juventus,LWF,Venezuela,28,73,Creative Playmaker,16875000,1,,,,J
 Assane Diao,Juventus,LWF,Senegal,20,74,Roaming Flank,23187500,1,,,,Juventus,4.1
 Ilias Akhomach,Juventus,RWF,Morocco,21,73,Prolific Winger,18375000,3,Summer,,,Juventus,4.2
 Samuel Chukwueze,Juventus,RWF,Nigeria,26,77,Roaming Flank,32500000,2,Summer,,,Juventus,4.2
-Miguel Almirón,Juventus,RWF,Paraguay,31,78,Prolific Winger,26125000,2,Summer,,,Juventus,4.2
 Taisei Miyashiro,Juventus,SS,Japan,25,72,Hole Player,14062500,2,Summer,,,Juventus,4.3
-Fábio Silva (CF),Juventus,CF,Portugal,23,75,Goal Poacher,25000000,2,Summer,,,Juventus,4.4
 Adam Hložek,Juventus,CF,Czechia,23,75,Dummy Runner,25000000,3,Summer,,,Juventus,4.4
+Fábio Silva (CF),Juventus,CF,Portugal,23,75,Goal Poacher,25000000,2,Summer,,,Juventus,4.4
 Gianluca Scamacca,Juventus,CF,Italy,26,77,Target Man,31250000,3,Summer,,,Juventus,4.4
 Alexander Sørloth,Juventus,CF,Norway,30,79,Target Man,39000000,2,Summer,,,Juventus,4.4
 Marcin Bułka,Kasimpasa,GK,Poland,26,77,Offensive Goalkeeper,26875000,3,Summer,,,Kasimpasa,1.0
@@ -769,15 +759,15 @@ Nestory Irankunda,Kasimpasa,RWF,Australia,19,69,Prolific Winger,9600000,2,Summer
 Barış Alper Yılmaz,Kasimpasa,RWF,Türkiye,25,75,Prolific Winger,23000000,2,Summer,,,Kasimpasa,4.2
 Estêvão,Kasimpasa,RWF,Brazil,18,76,Roaming Flank,42750000,1,,,,Kasimpasa,4.2
 Sebastiano Esposito,Kasimpasa,CF,Italy,23,72,Dummy Runner,15312500,2,Winter,,,Kasimpasa,4.4
-Darwin Núñez,Kasimpasa,CF,Uruguay,26,78,Goal Poacher,37125000,2,Summer,,,Kasimpasa,4.4
 Hugo Ekitike,Kasimpasa,CF,France,23,78,Deep-Lying Forward,35062500,3,Summer,,,Kasimpasa,4.4
+Darwin Núñez,Kasimpasa,CF,Uruguay,26,78,Goal Poacher,37125000,2,Summer,,,Kasimpasa,4.4
 Francesco Versari,Lazio,GK,Italy,18,67,Offensive Goalkeeper,5600000,2,Winter,,,Lazio,1.0
 Gianluigi Donnarumma,Lazio,GK,Italy,26,83,Offensive Goalkeeper,108750000,3,Summer,,,Lazio,1.0
 Igor Zubeldia,Lazio,CB,Spain,28,78,Build Up,35062500,2,Winter,,,Lazio,2.0
 Giorgio Scalvini,Lazio,CB,Italy,22,78,Extra Frontman,33687500,2,Summer,,,Lazio,2.0
 Alessandro Bastoni,Lazio,CB,Italy,26,79,Extra Frontman,38250000,2,Winter,,,Lazio,2.0
-Nuno Tavares,Lazio,LB,Portugal,25,76,Offensive Full-back,25312500,2,Summer,,,Lazio,2.1
 Rayan Aït-Nouri,Lazio,LB,Algeria,24,76,Offensive Full-back,24750000,3,Summer,,,Lazio,2.1
+Nuno Tavares,Lazio,LB,Portugal,25,76,Offensive Full-back,25312500,2,Summer,,,Lazio,2.1
 João Mário (RB),Lazio,RB,Portugal,25,76,Offensive Full-back,24187500,3,Summer,,,Lazio,2.2
 T. Alexander-Arnold,Lazio,RB,England,27,81,Full-back Finisher,71250000,3,Summer,,,Lazio,2.2
 Rolando Mandragora,Lazio,DMF,Italy,28,75,Box-to-Box,22000000,2,Winter,,,Lazio,3.0
@@ -812,12 +802,11 @@ Mikel Jauregizar,Leverkusen,DMF,Spain,22,75,Orchestrator,23500000,2,Summer,,,Lev
 Cheick Doucouré,Leverkusen,DMF,Mali,25,76,Anchor Man,25875000,2,Summer,,,Leverkusen,3.0
 Ezequiel Fernandez,Leverkusen,DMF,Argentina,23,77,Box-to-Box,29375000,2,Summer,,,Leverkusen,3.0
 Angelo Stiller,Leverkusen,DMF,Germany,24,77,Orchestrator,28750000,3,Summer,Barcelona,Summer,Leverkusen,3.0
-Can Bozdoğan,Leverkusen,CMF,Germany,24,71,Box-to-Box,11000000,2,Summer,,,Leverkusen,3.1
 Erik Thommy,Leverkusen,LMF,Germany,31,72,Hole Player,10000000,2,Summer,,,Leverkusen,3.2
 Tomáš Suslov,Leverkusen,AMF,Slovakia,23,72,Creative Playmaker,14375000,,,,,Leverkusen,3.4
 Kendry Páez,Leverkusen,AMF,Ecuador,18,73,Creative Playmaker,27750000,2,Summer,,,Leverkusen,3.4
-Lucas Zelarayán,Leverkusen,AMF,Armenia,33,76,Hole Player,14062500,2,Winter,,,Leverkusen,3.4
 Maghnes Akliouche,Leverkusen,AMF,France,23,76,Creative Playmaker,26437500,2,Summer,,,Leverkusen,3.4
+Lucas Zelarayán,Leverkusen,AMF,Armenia,33,76,Hole Player,14062500,2,Winter,,,Leverkusen,3.4
 Callum Hudson-Odoi,Leverkusen,LWF,England,25,76,Prolific Winger,25875000,2,Summer,,,Leverkusen,4.1
 Maher Carrizo,Leverkusen,RWF,Argentina,19,74,Roaming Flank,29312500,2,Summer,,,Leverkusen,4.2
 Wilson Odobert,Leverkusen,RWF,France,21,74,Prolific Winger,21437500,,,,,Leverkusen,4.2
@@ -844,28 +833,24 @@ Ismaïla Sarr,Lille,AMF,Senegal,27,76,Hole Player,25312500,2,Summer,,,Lille,3.4
 Bradley Barcola,Lille,LWF,France,23,80,Prolific Winger,58000000,3,Summer,,,Lille,4.1
 Ernest Nuamah,Lille,RWF,Ghana,22,73,Prolific Winger,18000000,2,Winter,,,Lille,4.2
 Armando Broja,Lille,CF,Albania,24,74,Fox in the Box,21437500,2,Winter,,,Lille,4.4
-Joshua Zirkzee,Lille,CF,Netherlands,24,75,Deep-Lying Forward,24500000,3,Summer,,,Lille,4.4
 Boulaye Dia,Lille,CF,Senegal,29,75,Goal Poacher,23500000,,,,,Lille,4.4
+Joshua Zirkzee,Lille,CF,Netherlands,24,75,Deep-Lying Forward,24500000,3,Summer,,,Lille,4.4
 Rasmus Højlund,Lille,CF,Denmark,22,76,Goal Poacher,29812500,3,Summer,,,Lille,4.4
 Rui Silva,Liverpool,GK,Portugal,31,77,Offensive Goalkeeper,21250000,1,,,,Liverpool,1.0
 Bart Verbruggen,Liverpool,GK,Netherlands,23,78,Offensive Goalkeeper,30937500,2,Summer,,,Liverpool,1.0
-Adamo Nagalo,Liverpool,CB,Burkina Faso,23,73,The Destroyer,17250000,2,Winter,,,Liverpool,2.0
-Ben Godfrey,Liverpool,CB,England,27,73,The Destroyer,16500000,2,Winter,,,Liverpool,2.0
-Victor Nelsson,Liverpool,CB,Denmark,27,76,Build Up,25875000,1,,,,Liverpool,2.0
 Eduardo Quaresma,Liverpool,CB,Portugal,23,76,Build Up,26437500,1,,,,Liverpool,2.0
 Milan Škriniar,Liverpool,CB,Slovakia,30,78,The Destroyer,30250000,3,Summer,,,Liverpool,2.0
 Nico Schlotterbeck,Liverpool,CB,Germany,26,80,Build Up,55000000,1,,,,Liverpool,2.0
 Jesús Alberto Angulo,Liverpool,LB,Mexico,27,73,Defensive Full-back,15750000,1,,,,Liverpool,2.1
 Junior Firpo,Liverpool,LB,Dominican Republic,29,73,Full-back Finisher,15750000,1,,,,Liverpool,2.1
 Martim Fernandes,Liverpool,RB,Portugal,19,73,Offensive Full-back,24000000,3,Summer,,,Liverpool,2.2
-Jordan Teze,Liverpool,RB,Netherlands,26,74,Defensive Full-back,18375000,1,,,,Liverpool,2.2
 Ben Johnson,Liverpool,RB,England,25,74,Offensive Full-back,18375000,1,,,,Liverpool,2.2
+Jordan Teze,Liverpool,RB,Netherlands,26,74,Defensive Full-back,18375000,1,,,,Liverpool,2.2
 Tyler Adams,Liverpool,DMF,United States,26,75,Box-to-Box,22000000,2,Winter,,,Liverpool,3.0
 Manuel Locatelli,Liverpool,DMF,Italy,27,78,Orchestrator,31625000,2,Summer,,,Liverpool,3.0
 Morten Hjulmand,Liverpool,DMF,Denmark,26,79,Anchor Man,43500000,1,,,,Liverpool,3.0
 Alexis Mac Allister,Liverpool,CMF,Argentina,27,81,Orchestrator,68750000,1,,,,Liverpool,3.1
 Marcus Tavernier,Liverpool,LMF,England,26,76,Hole Player,24187500,2,Winter,,,Liverpool,3.2
-Leon Bailey,Liverpool,RMF,Jamaica,28,76,Roaming Flank,25312500,2,Summer,,,Liverpool,3.3
 Claudinho (AMF),Liverpool,AMF,Brazil,28,75,Creative Playmaker,22500000,1,,,,Liverpool,3.4
 Harvey Elliott,Liverpool,AMF,England,22,76,Creative Playmaker,28125000,1,,,,Liverpool,3.4
 Morgan Gibbs-White,Liverpool,AMF,England,25,78,Hole Player,37812500,2,Winter,,,Liverpool,3.4
@@ -875,13 +860,12 @@ Ayoze Pérez,Liverpool,CF,Spain,32,79,Dummy Runner,25500000,3,Summer,,,Liverpool
 Alexander Isak,Liverpool,CF,Sweden,26,82,Goal Poacher,93000000,3,Summer,,,Liverpool,4.4
 José Ribeiro,Man City,GK,Portugal,19,70,Offensive Goalkeeper,12200000,,,,,Man City,1.0
 Caoimhin Kelleher,Man City,GK,Republic of Ireland,27,77,Defensive Goalkeeper,26875000,3,Summer,,,Man City,1.0
-Brice Samba,Man City,GK,France,31,78,Offensive Goalkeeper,23375000,2,Winter,,,Man City,1.0
-Ladislav Krejčí,Man City,CB,Czechia,26,77,Extra Frontman,28750000,3,Summer,,,Man City,2.0
 Maxence Lacroix,Man City,CB,France,25,77,Build Up,28750000,2,Summer,,,Man City,2.0
+Ladislav Krejčí,Man City,CB,Czechia,26,77,Extra Frontman,28750000,3,Summer,,,Man City,2.0
 Piero Hincapié,Man City,CB,Ecuador,23,78,Extra Frontman,33000000,2,Summer,,,Man City,2.0
 Gabriel Magalhães,Man City,CB,Brazil,28,81,The Destroyer,73750000,,,,,Man City,2.0
-Luke Shaw,Man City,LB,England,30,76,Offensive Full-back,23062500,2,Winter,,,Man City,2.1
 Myles Lewis-Skelly,Man City,LB,England,19,76,Full-back Finisher,36562500,2,Summer,,,Man City,2.1
+Luke Shaw,Man City,LB,England,30,76,Offensive Full-back,23062500,2,Winter,,,Man City,2.1
 Rico Lewis,Man City,RB,England,21,75,Full-back Finisher,23500000,2,Summer,,,Man City,2.2
 Jacob Wright,Man City,DMF,England,20,69,Orchestrator,6300000,2,Summer,,,Man City,3.0
 Agustín Medina,Man City,DMF,Argentina,19,70,The Destroyer,12600000,2,Summer,,,Man City,3.0
@@ -903,9 +887,9 @@ Robert Lewandowski,Man City,CF,Poland,37,82,Goal Poacher,33000000,2,Winter,,,Man
 Philipp Köhn,Man Utd,GK,Switzerland,27,75,Offensive Goalkeeper,21000000,1,,,,Man Utd,1.0
 Nick Pope,Man Utd,GK,England,33,78,Offensive Goalkeeper,16500000,1,,,,Man Utd,1.0
 Illia Zabarnyi,Man Utd,CB,Ukraine,23,76,Build Up,26437500,2,Winter,,,Man Utd,2.0
-Marc Guéhi,Man Utd,CB,England,25,77,Extra Frontman,31875000,1,,,,Man Utd,2.0
 Kevin Danso,Man Utd,CB,Austria,27,77,The Destroyer,31875000,2,Summer,,,Man Utd,2.0
 Ousmane Diomande,Man Utd,CB,Côte d'Ivoire,22,77,Build Up,30625000,1,,,,Man Utd,2.0
+Marc Guéhi,Man Utd,CB,England,25,77,Extra Frontman,31875000,1,,,,Man Utd,2.0
 Ferland Mendy,Man Utd,LB,France,30,77,Defensive Full-back,26250000,1,,,,Man Utd,2.1
 Josh Acheampong,Man Utd,RB,England,19,70,Offensive Full-back,12400000,2,Winter,,,Man Utd,2.2
 Juan Foyth,Man Utd,RB,Argentina,27,75,Defensive Full-back,22000000,1,,,,Man Utd,2.2
@@ -916,8 +900,8 @@ Kobbie Mainoo,Man Utd,CMF,England,20,76,Box-to-Box,29812500,2,Summer,,,Man Utd,3
 Konrad Laimer,Man Utd,CMF,Austria,28,78,Box-to-Box,31625000,1,,,,Man Utd,3.1
 Nico O'Reilly,Man Utd,AMF,England,20,73,Hole Player,19500000,1,,,,Man Utd,3.4
 Rayan Cherki,Man Utd,AMF,France,22,77,Creative Playmaker,30625000,3,Summer,,,Man Utd,3.4
-Xavi Simons,Man Utd,AMF,Netherlands,22,79,Hole Player,46500000,1,,,,Man Utd,3.4
 Morgan Rogers,Man Utd,AMF,England,23,79,Hole Player,36750000,1,,,,Man Utd,3.4
+Xavi Simons,Man Utd,AMF,Netherlands,22,79,Hole Player,46500000,1,,,,Man Utd,3.4
 Jude Bellingham,Man Utd,AMF,England,22,84,Hole Player,144500000,2,Summer,,,Man Utd,3.4
 Abde Ezzalzouli,Man Utd,LWF,Morocco,24,75,Prolific Winger,23500000,3,Summer,,,Man Utd,4.1
 Raheem Sterling,Man Utd,LWF,England,31,78,Prolific Winger,26125000,1,,,,Man Utd,4.1
@@ -962,8 +946,9 @@ Sven Botman,Monaco,CB,Netherlands,25,78,Build Up,35062500,2,Summer,,,Monaco,2.0
 Kalidou Koulibaly,Monaco,CB,Senegal,34,78,The Destroyer,14437500,2,Summer,,,Monaco,2.0
 Niels NkounKou,Monaco,LB,France,25,72,Offensive Full-back,13437500,2,Winter,,,Monaco,2.1
 Kevin Mbabu,Monaco,RB,Switzerland,30,73,Offensive Full-back,15000000,2,Winter,,,Monaco,2.2
-Florentino Luís,Monaco,DMF,Portugal,26,76,The Destroyer,25875000,2,Summer,,,Monaco,3.0
 Mario Lemina,Monaco,DMF,Gabon,32,76,Box-to-Box,16312500,3,Summer,,,Monaco,3.0
+Florentino Luís,Monaco,DMF,Portugal,26,76,The Destroyer,25875000,2,Summer,,,Monaco,3.0
+Luan Gadegbeku,Monaco,CMF,France,18,65,Orchestrator,5000000,3,Summer,,,Monaco,3.1
 Valentin Rongier,Monaco,CMF,France,31,77,Orchestrator,23125000,2,Summer,,,Monaco,3.1
 Nicolò Barella,Monaco,CMF,Italy,28,80,Box-to-Box,55000000,3,Summer,,,Monaco,3.1
 Federico Dimarco,Monaco,LMF,Italy,28,78,Cross Specialist,36437500,3,Summer,,,Monaco,3.2
@@ -979,20 +964,20 @@ Omar Marmoush,Monaco,CF,Egypt,26,79,Deep-Lying Forward,37500000,3,Summer,,,Monac
 Matěj Kovář,New Mexico United,GK,Czechia,25,74,Offensive Goalkeeper,17937500,2,Summer,,,New Mexico United,1.0
 Ayrton Costa,New Mexico United,CB,Argentina,26,75,The Destroyer,22500000,2,Summer,,,New Mexico United,2.0
 Chris Richards,New Mexico United,CB,United States,25,76,Extra Frontman,25312500,2,Summer,,,New Mexico United,2.0
-Wilfried Singo,New Mexico United,CB,Côte d'Ivoire,25,77,The Destroyer,28750000,,,,,New Mexico United,2.0
 Gianluca Mancini,New Mexico United,CB,Italy,29,77,Extra Frontman,28750000,3,Summer,,,New Mexico United,2.0
+Wilfried Singo,New Mexico United,CB,Côte d'Ivoire,25,77,The Destroyer,28750000,,,,,New Mexico United,2.0
 Festy Ebosele,New Mexico United,RB,Republic of Ireland,23,72,Offensive Full-back,13750000,2,Summer,,,New Mexico United,2.2
 V. Atangana Edoa,New Mexico United,DMF,France,20,71,Box-to-Box,12500000,3,Summer,,,New Mexico United,3.0
 Camilo Rey Domenech,New Mexico United,DMF,Argentina,19,72,The Destroyer,20312500,2,Summer,,,New Mexico United,3.0
-Diego Gómez,New Mexico United,CMF,Paraguay,22,74,Orchestrator,20562500,2,Winter,,,New Mexico United,3.1
+Y. Ndayishimiye,New Mexico United,DMF,Burundi,27,75,Anchor Man,22000000,3,Summer,,,New Mexico United,3.0
 Ilaix Moriba,New Mexico United,CMF,Guinea,22,74,Box-to-Box,20562500,3,Summer,,,New Mexico United,3.1
+Diego Gómez,New Mexico United,CMF,Paraguay,22,74,Orchestrator,20562500,2,Winter,,,New Mexico United,3.1
 Nelson Deossa,New Mexico United,CMF,Colombia,25,75,Box-to-Box,22500000,,,,,New Mexico United,3.1
 Weston McKennie,New Mexico United,CMF,United States,27,76,Box-to-Box,25875000,2,Winter,,,New Mexico United,3.1
 Tadeo Allende,New Mexico United,RMF,Argentina,26,74,Roaming Flank,18375000,3,Summer,,,New Mexico United,3.3
 Timothy Weah,New Mexico United,RMF,United States,25,75,Roaming Flank,21500000,3,Summer,,,New Mexico United,3.3
 Quinn Sullivan,New Mexico United,AMF,United States,21,71,Hole Player,11750000,2,Winter,,,New Mexico United,3.4
 Malik Tillman,New Mexico United,AMF,United States,23,76,Hole Player,26437500,2,Summer,,,New Mexico United,3.4
-Isaac,New Mexico United,LWF,Brazil,21,68,Prolific Winger,5000000,2,Summer,,,New Mexico United,4.1
 Kevin,New Mexico United,LWF,Brazil,22,73,Prolific Winger,23625000,3,Summer,,,New Mexico United,4.1
 Christian Pulišić,New Mexico United,LWF,United States,27,79,Prolific Winger,39000000,3,Summer,,,New Mexico United,4.1
 Felipe Anderson,New Mexico United,RWF,Brazil,32,75,Creative Playmaker,15000000,2,Summer,,,New Mexico United,4.2
@@ -1003,6 +988,7 @@ Sékou Koïta,New Mexico United,CF,Mali,26,75,Goal Poacher,24000000,2,Winter,,,N
 Randal Kolo Muani,New Mexico United,CF,France,27,78,Deep-Lying Forward,34375000,3,Summer,,,New Mexico United,4.4
 Jesse Joronen,Olympique Lyonnais,GK,Finland,32,73,Defensive Goalkeeper,9375000,,,,,Olympique Lyonnais,1.0
 Jean Butez,Olympique Lyonnais,GK,France,30,75,Offensive Goalkeeper,19500000,3,Summer,,,Olympique Lyonnais,1.0
+Brice Samba,Olympique Lyonnais,GK,France,31,78,Offensive Goalkeeper,23375000,3,Summer,,,Olympique Lyonnais,1.0
 Amidou Doumbouya,Olympique Lyonnais,CB,France,18,65,Extra Frontman,5000000,3,Summer,,,Olympique Lyonnais,2.0
 Eman Košpo,Olympique Lyonnais,CB,Switzerland,18,69,Extra Frontman,10650000,3,Summer,,,Olympique Lyonnais,2.0
 Willy Kambwala,Olympique Lyonnais,CB,France,21,73,The Destroyer,18000000,,,,,Olympique Lyonnais,2.0
@@ -1015,7 +1001,6 @@ José Ángel Carmona,Olympique Lyonnais,RB,Spain,23,75,Offensive Full-back,22500
 Danilo Cataldi,Olympique Lyonnais,DMF,Italy,31,75,Orchestrator,17000000,3,Summer,,,Olympique Lyonnais,3.0
 Danilo (DMF),Olympique Lyonnais,DMF,Brazil,24,75,Orchestrator,22500000,3,Summer,,,Olympique Lyonnais,3.0
 Pierre Lees Melou,Olympique Lyonnais,DMF,France,32,75,Orchestrator,14000000,,,,,Olympique Lyonnais,3.0
-Michael Folorunsho,Olympique Lyonnais,CMF,Italy,27,73,Box-to-Box,16500000,,,,,Olympique Lyonnais,3.1
 Tanguy Ndombélé,Olympique Lyonnais,CMF,France,29,74,Box-to-Box,19250000,,,,,Olympique Lyonnais,3.1
 Jeremías Lucco,Olympique Lyonnais,AMF,Argentina,20,67,Creative Playmaker,5000000,,,,,Olympique Lyonnais,3.4
 Gabriel Carvalho,Olympique Lyonnais,AMF,Brazil,18,69,Creative Playmaker,10650000,3,Summer,,,Olympique Lyonnais,3.4
@@ -1024,12 +1009,12 @@ Ruben van Bommel,Olympique Lyonnais,LWF,Netherlands,21,71,Prolific Winger,120000
 Martin Terrier,Olympique Lyonnais,LWF,France,28,78,Roaming Flank,32312500,,,,,Olympique Lyonnais,4.1
 Brian Romero,Olympique Lyonnais,RWF,United States,19,66,Prolific Winger,5000000,,,,,Olympique Lyonnais,4.2
 Andreas Skov Olsen,Olympique Lyonnais,RWF,Denmark,26,76,Prolific Winger,25875000,3,Summer,,,Olympique Lyonnais,4.2
+Miguel Almirón,Olympique Lyonnais,RWF,Paraguay,31,78,Prolific Winger,26125000,3,Summer,,,Olympique Lyonnais,4.2
 Evann Guessand,Olympique Lyonnais,CF,Côte d'Ivoire,24,75,Goal Poacher,24500000,3,Summer,,,Olympique Lyonnais,4.4
 Luis Suárez,Olympique Lyonnais,CF,Uruguay,38,78,Deep-Lying Forward,6875000,3,Summer,,,Olympique Lyonnais,4.4
 Yoane Wissa,Olympique Lyonnais,CF,Congo DR,29,79,Goal Poacher,37500000,3,Summer,,,Olympique Lyonnais,4.4
 Alisson Becker,Palmeiras,GK,Brazil,33,81,Offensive Goalkeeper,40000000,2,Summer,,,Palmeiras,1.0
 João Marcelo,Palmeiras,CB,Brazil,25,72,Build Up,13750000,,,,,Palmeiras,2.0
-Brandon Mechele,Palmeiras,CB,Belgium,32,76,Build Up,16875000,2,Summer,,,Palmeiras,2.0
 Nicolás Otamendi,Palmeiras,CB,Argentina,37,77,The Destroyer,4375000,2,Summer,,,Palmeiras,2.0
 Diego Carlos,Palmeiras,CB,Brazil,32,77,Build Up,18750000,2,Summer,,,Palmeiras,2.0
 Yeray Álvarez,Palmeiras,CB,Spain,30,78,The Destroyer,30937500,2,Summer,,,Palmeiras,2.0
@@ -1039,7 +1024,6 @@ Marcos Rocha,Palmeiras,RB,Brazil,37,72,Defensive Full-back,2000000,2,Summer,,,Pa
 Agustín Giay,Palmeiras,RB,Argentina,21,73,Defensive Full-back,17250000,2,Summer,,,Palmeiras,2.2
 Marc Roca,Palmeiras,DMF,Spain,29,75,Anchor Man,22000000,2,Summer,,,Palmeiras,3.0
 Marcelo Brozović,Palmeiras,DMF,Croatia,33,77,Orchestrator,15000000,2,Summer,,,Palmeiras,3.0
-Robert Andrich,Palmeiras,DMF,Germany,31,79,Anchor Man,27000000,2,Summer,,,Palmeiras,3.0
 Benja Cremaschi,Palmeiras,CMF,United States,20,71,Hole Player,12750000,2,Summer,,,Palmeiras,3.1
 Gonzalo Abrego,Palmeiras,CMF,Argentina,25,73,Box-to-Box,16500000,,,,,Palmeiras,3.1
 Éver Banega,Palmeiras,CMF,Argentina,37,76,Orchestrator,2812500,2,Summer,,,Palmeiras,3.1
@@ -1050,7 +1034,6 @@ Jota(lwf),Palmeiras,LWF,Portugal,26,73,Prolific Winger,16875000,2,Summer,,,Palme
 Serge Gnabry,Palmeiras,LWF,Germany,30,79,Roaming Flank,34500000,2,Summer,,,Palmeiras,4.1
 Ângelo,Palmeiras,RWF,Brazil,21,71,Creative Playmaker,12000000,2,Summer,,,Palmeiras,4.2
 Roony Bardghji,Palmeiras,RWF,Sweden,20,72,Prolific Winger,20000000,2,Summer,,,Palmeiras,4.2
-Umar Sadiq,Palmeiras,CF,Nigeria,28,75,Goal Poacher,24000000,,,,,Palmeiras,4.4
 Enner Valencia,Palmeiras,CF,Ecuador,36,76,Goal Poacher,4500000,2,Summer,,,Palmeiras,4.4
 Adrián Martínez,Palmeiras,CF,Argentina,33,77,Goal Poacher,18125000,2,Summer,,,Palmeiras,4.4
 Mauro Icardi,Palmeiras,CF,Argentina,32,78,Fox in the Box,23375000,2,Summer,,,Palmeiras,4.4
@@ -1067,8 +1050,8 @@ Junior Mwanga,Porto,DMF,France,22,71,Anchor Man,11250000,2,Summer,,,Porto,3.0
 Pablo Rosario,Porto,DMF,Dominican Republic,28,72,Anchor Man,13437500,2,Summer,,,Porto,3.0
 Victor Froholdt,Porto,CMF,Denmark,19,71,Orchestrator,16250000,2,Summer,,,Porto,3.1
 Diogo Gonçalves,Porto,CMF,Portugal,28,73,Hole Player,16500000,2,Winter,,,Porto,3.1
-Gastón Lodico,Porto,CMF,Argentina,27,75,Orchestrator,22500000,,,,,Porto,3.1
 Daniel Bragança,Porto,CMF,Portugal,26,75,Box-to-Box,22500000,2,Summer,,,Porto,3.1
+Gastón Lodico,Porto,CMF,Argentina,27,75,Orchestrator,22500000,,,,,Porto,3.1
 Matheus Nunes,Porto,CMF,Portugal,27,77,Box-to-Box,29375000,2,Summer,,,Porto,3.1
 Roger Fernandes,Porto,RMF,Portugal,20,75,Cross Specialist,25500000,2,Winter,,,Porto,3.3
 Yari Verschaeren,Porto,AMF,Belgium,24,72,Hole Player,14062500,3,Summer,,,Porto,3.4
@@ -1085,15 +1068,15 @@ Julián Alvarez,Porto,CF,Argentina,25,81,Deep-Lying Forward,77500000,3,Summer,,,
 Đorđe Petrović,PSG,GK,Serbia,26,77,Offensive Goalkeeper,26875000,3,Summer,,,Psg,1.0
 André Onana,PSG,GK,Cameroon,29,77,Offensive Goalkeeper,26875000,3,Summer,,,Psg,1.0
 T. Harwood-Bellis,PSG,CB,England,23,75,Build Up,23500000,,,,,Psg,2.0
-Pau Torres,PSG,CB,Spain,28,77,Build Up,28750000,2,Summer,,,Psg,2.0
 Merih Demiral,PSG,CB,Türkiye,27,77,The Destroyer,28750000,2,Summer,,,Psg,2.0
+Pau Torres,PSG,CB,Spain,28,77,Build Up,28750000,2,Summer,,,Psg,2.0
 Julio Soler,PSG,LB,Argentina,20,74,Offensive Full-back,21875000,,,,,Psg,2.1
 Brooks Lennon,PSG,RB,United States,28,72,Offensive Full-back,13125000,,,,,Psg,2.2
 Jules Koundé,PSG,RB,France,27,80,Defensive Full-back,53000000,2,Summer,,,Psg,2.2
 Kalidou Sidibé,PSG,DMF,France,26,68,Anchor Man,5000000,2,Summer,,,Psg,3.0
 Idrissa Guèye,PSG,DMF,Senegal,36,75,The Destroyer,2000000,2,Summer,,,Psg,3.0
-Samuele Ricci,PSG,DMF,Italy,24,75,Orchestrator,22500000,2,Summer,,,Psg,3.0
 Vitaly Janelt,PSG,DMF,Germany,27,75,Anchor Man,22000000,3,Summer,,,Psg,3.0
+Samuele Ricci,PSG,DMF,Italy,24,75,Orchestrator,22500000,2,Summer,,,Psg,3.0
 Roméo Lavia,PSG,DMF,Belgium,21,76,Anchor Man,27000000,2,Summer,,,Psg,3.0
 Alan Varela,PSG,DMF,Argentina,25,76,Anchor Man,25875000,2,Summer,,,Psg,3.0
 Senny Mayulu,PSG,CMF,France,19,70,Orchestrator,12800000,2,Summer,,,Psg,3.1
@@ -1105,8 +1088,8 @@ Michael Olise,PSG,RWF,France,24,82,Roaming Flank,94500000,2,Summer,,,Psg,4.2
 Eli Kroupi,PSG,SS,France,19,72,Hole Player,20937500,2,Summer,,,Psg,4.3
 Gonzalo García,PSG,CF,Spain,21,71,Fox in the Box,12500000,2,Summer,,,Psg,4.4
 Keinan Davis,PSG,CF,England,27,73,Fox in the Box,17625000,,,,,Psg,4.4
-Eddie Nketiah,PSG,CF,England,26,76,Fox in the Box,28125000,3,Summer,,,Psg,4.4
 Lukas Nmecha,PSG,CF,Germany,27,76,Goal Poacher,27000000,2,Summer,,,Psg,4.4
+Eddie Nketiah,PSG,CF,England,26,76,Fox in the Box,28125000,3,Summer,,,Psg,4.4
 João Pedro (DLF),PSG,CF,Brazil,24,78,Deep-Lying Forward,34375000,3,Summer,,,Psg,4.4
 James Trafford,PSV,GK,England,23,75,Defensive Goalkeeper,22000000,2,Summer,,,Psv,1.0
 Lucas Chevalier,PSV,GK,France,24,77,Offensive Goalkeeper,27500000,2,Summer,,,Psv,1.0
@@ -1119,8 +1102,8 @@ Ian Maatsen,PSV,LB,Netherlands,23,76,Full-back Finisher,25312500,1,,,,Psv,2.1
 Vanderson,PSV,RB,Brazil,24,75,Offensive Full-back,22000000,1,,,,Psv,2.2
 Lamare Bogarde,PSV,DMF,Netherlands,21,71,Anchor Man,11500000,2,Summer,,,Psv,3.0
 Nicolò Rovella,PSV,DMF,Italy,24,75,Orchestrator,22500000,2,Summer,,,Psv,3.0
-Manuel Ugarte,PSV,DMF,Uruguay,24,77,The Destroyer,31875000,3,Summer,,,Psv,3.0
 Boubacar Kamara,PSV,DMF,France,26,77,Anchor Man,31250000,2,Summer,,,Psv,3.0
+Manuel Ugarte,PSV,DMF,Uruguay,24,77,The Destroyer,31875000,3,Summer,,,Psv,3.0
 Quinten Timber,PSV,CMF,Netherlands,24,75,Box-to-Box,23000000,2,Winter,,,Psv,3.1
 Conor Gallagher,PSV,CMF,England,25,77,Box-to-Box,31875000,3,Summer,,,Psv,3.1
 Amine Adli,PSV,AMF,Morocco,25,76,Creative Playmaker,25312500,1,,,,Psv,3.4
@@ -1136,8 +1119,8 @@ Maarten Vandevoordt,Racing Club,GK,Belgium,23,74,Offensive Goalkeeper,18812500,3
 Paulo Gazzaniga,Racing Club,GK,Argentina,33,77,Offensive Goalkeeper,14375000,3,Summer,,,Racing Club,1.0
 Robert Ivanov,Racing Club,CB,Finland,31,69,The Destroyer,3750000,2,Summer,,,Racing Club,2.0
 Juma Bah,Racing Club,CB,Sierra Leone,19,72,Build Up,20625000,2,Summer,,,Racing Club,2.0
-Rodrigo Becão,Racing Club,CB,Brazil,29,76,The Destroyer,25875000,3,Summer,,,Racing Club,2.0
 Abdukodir Khusanov,Racing Club,CB,Uzbekistan,21,76,The Destroyer,27562500,2,Summer,,,Racing Club,2.0
+Rodrigo Becão,Racing Club,CB,Brazil,29,76,The Destroyer,25875000,3,Summer,,,Racing Club,2.0
 Max Kilman,Racing Club,CB,England,28,77,Build Up,29375000,3,Summer,,,Racing Club,2.0
 Éder Militão,Racing Club,CB,Brazil,27,81,Build Up,68750000,2,Summer,,,Racing Club,2.0
 Tuomas Ollila,Racing Club,LB,Finland,25,69,Offensive Full-back,5000000,,,,,Racing Club,2.1
@@ -1146,8 +1129,8 @@ Lautaro Blanco,Racing Club,LB,Argentina,26,76,Offensive Full-back,24187500,2,Win
 Nikolai Alho,Racing Club,RB,Finland,32,69,Offensive Full-back,2550000,2,Summer,,,Racing Club,2.2
 Tomás Guidara,Racing Club,RB,Argentina,29,73,Defensive Full-back,15750000,2,Winter,,,Racing Club,2.2
 Guéla Doué,Racing Club,RB,Côte d'Ivoire,23,73,Defensive Full-back,16500000,2,Winter,,,Racing Club,2.2
-Rodrigo Herrera,Racing Club,DMF,Argentina,25,73,Anchor Man,16125000,2,Summer,,,Racing Club,3.0
 Ilia Gruev,Racing Club,DMF,Bulgaria,25,73,Anchor Man,16125000,3,Summer,,,Racing Club,3.0
+Rodrigo Herrera,Racing Club,DMF,Argentina,25,73,Anchor Man,16125000,2,Summer,,,Racing Club,3.0
 Enzo Barrenechea,Racing Club,DMF,Argentina,24,74,Anchor Man,19250000,2,Winter,,,Racing Club,3.0
 Leandro Paredes,Racing Club,DMF,Argentina,31,76,Anchor Man,19125000,3,Summer,,,Racing Club,3.0
 Marcos Portillo,Racing Club,CMF,Argentina,25,73,Box-to-Box,16500000,2,Winter,,,Racing Club,3.1
@@ -1163,8 +1146,8 @@ Ousmane Dembélé,Racing Club,CF,France,28,82,Goal Poacher,93000000,,,,,Racing C
 Cleiton,Rangers,GK,Brazil,28,75,Offensive Goalkeeper,21000000,,,,,Rangers,1.0
 Yann Sommer,Rangers,GK,Switzerland,37,81,Defensive Goalkeeper,15000000,3,Summer,,,Rangers,1.0
 Derek Cornelius,Rangers,CB,Canada,28,73,Build Up,16500000,,,,,Rangers,2.0
-John Souttar,Rangers,CB,Scotland,29,74,Build Up,19250000,,,,,Rangers,2.0
 Andrea Carboni,Rangers,CB,Italy,24,74,Extra Frontman,19687500,,,,,Rangers,2.0
+John Souttar,Rangers,CB,Scotland,29,74,Build Up,19250000,,,,,Rangers,2.0
 John Stones,Rangers,CB,England,31,79,Build Up,27750000,3,Summer,,,Rangers,2.0
 Robin Le Normand,Rangers,CB,Spain,29,80,The Destroyer,51000000,3,Summer,,,Rangers,2.0
 Ghislain Konan,Rangers,LB,Côte d'Ivoire,30,74,Offensive Full-back,17500000,,,,,Rangers,2.1
@@ -1173,13 +1156,13 @@ Anthony Ralston,Rangers,RB,Scotland,27,72,Offensive Full-back,13125000,,,,,Range
 Lucas Vázquez,Rangers,RB,Spain,34,76,Offensive Full-back,7312500,3,Summer,,,Rangers,2.2
 Noussair Mazraoui,Rangers,RB,Morocco,28,77,Offensive Full-back,27500000,3,Summer,,,Rangers,2.2
 Rabby Nzingoula,Rangers,DMF,France,20,66,Box-to-Box,5000000,,,,,Rangers,3.0
-Emre Can,Rangers,DMF,Germany,31,77,Anchor Man,21875000,3,Summer,,,Rangers,3.0
 Teun Koopmeiners,Rangers,DMF,Netherlands,27,77,Box-to-Box,28125000,3,Summer,,,Rangers,3.0
+Emre Can,Rangers,DMF,Germany,31,77,Anchor Man,21875000,3,Summer,,,Rangers,3.0
 Andy Irving,Rangers,CMF,Scotland,25,72,Orchestrator,13750000,,,,,Rangers,3.1
 Tom Cairney,Rangers,CMF,Scotland,34,74,Orchestrator,6125000,3,Summer,,,Rangers,3.1
 Brais Méndez,Rangers,CMF,Spain,28,77,Hole Player,31875000,3,Summer,,,Rangers,3.1
-Raphael Veiga,Rangers,AMF,Brazil,30,76,Hole Player,24187500,3,Summer,,,Rangers,3.4
 Matheus Pereira (AMF),Rangers,AMF,Brazil,29,76,Creative Playmaker,25312500,3,Summer,,,Rangers,3.4
+Raphael Veiga,Rangers,AMF,Brazil,30,76,Hole Player,24187500,3,Summer,,,Rangers,3.4
 Demarai Gray,Rangers,LWF,Jamaica,29,75,Prolific Winger,23000000,,,,,Rangers,4.1
 Harvey Barnes,Rangers,LWF,England,28,77,Prolific Winger,32500000,3,Summer,,,Rangers,4.1
 Anthony Elanga,Rangers,RWF,Sweden,23,77,Prolific Winger,30625000,3,Summer,,,Rangers,4.2
@@ -1204,7 +1187,6 @@ Ruben Loftus-Cheek,Real Betis,CMF,England,29,76,Box-to-Box,25312500,3,Summer,,,R
 Robert Navarro,Real Betis,AMF,Spain,23,73,Creative Playmaker,17250000,3,Summer,,,Real Betis,3.4
 Iván Martín,Real Betis,AMF,Spain,26,76,Creative Playmaker,25312500,,,,,Real Betis,3.4
 Alfon González,Real Betis,LWF,Spain,26,71,Prolific Winger,11000000,3,Summer,,,Real Betis,4.1
-Raúl Moro,Real Betis,LWF,Spain,23,72,Prolific Winger,14687500,,,,,Real Betis,4.1
 Mykhailo Mudryk,Real Betis,LWF,Ukraine,24,76,Roaming Flank,27000000,3,Summer,,,Real Betis,4.1
 Jackson Muleka,Real Betis,RWF,Congo DR,26,72,Prolific Winger,14062500,,,,,Real Betis,4.2
 Pedro Neto,Real Betis,RWF,Portugal,25,79,Prolific Winger,42000000,3,Summer,,,Real Betis,4.2
@@ -1227,10 +1209,10 @@ Sergio Busquets,Real Madrid,DMF,Spain,37,78,Anchor Man,4125000,1,,,,Real Madrid,
 Nathan Tella,Real Madrid,RMF,Nigeria,26,75,Hole Player,21500000,3,Summer,,,Real Madrid,3.3
 Mauro Luna Diale,Real Madrid,AMF,Argentina,26,75,Hole Player,22500000,3,Summer,,,Real Madrid,3.4
 Aimar Oroz,Real Madrid,AMF,Spain,24,76,Hole Player,25875000,2,Winter,,,Real Madrid,3.4
-Jaminton Campaz,Real Madrid,LWF,Colombia,25,76,Roaming Flank,25875000,2,Winter,,,Real Madrid,4.1
 Gonçalo Guedes,Real Madrid,LWF,Portugal,29,76,Roaming Flank,26437500,2,Winter,,,Real Madrid,4.1
-Gabriel Martinelli,Real Madrid,LWF,Brazil,24,79,Prolific Winger,39750000,3,Summer,,,Real Madrid,4.1
+Jaminton Campaz,Real Madrid,LWF,Colombia,25,76,Roaming Flank,25875000,2,Winter,,,Real Madrid,4.1
 Anthony Gordon,Real Madrid,LWF,England,24,79,Prolific Winger,45750000,2,Winter,,,Real Madrid,4.1
+Gabriel Martinelli,Real Madrid,LWF,Brazil,24,79,Prolific Winger,39750000,3,Summer,,,Real Madrid,4.1
 Taiwo Awoniyi,Real Madrid,CF,Nigeria,28,75,Goal Poacher,24000000,2,Summer,,,Real Madrid,4.4
 Folarin Balogun,Real Madrid,CF,United States,24,76,Goal Poacher,28687500,2,Summer,,,Real Madrid,4.4
 Miguel Merentiel,Real Madrid,CF,Uruguay,29,77,Goal Poacher,30625000,2,Winter,,,Real Madrid,4.4
@@ -1288,12 +1270,12 @@ Sadio Mané,Rosario Central,LWF,Senegal,33,78,Prolific Winger,18562500,2,Summer,
 Pedro de la Vega,Rosario Central,RWF,Argentina,24,75,Prolific Winger,23500000,3,Summer,,,Rosario Central,4.2
 Iñaki Williams,Rosario Central,RWF,Ghana,31,79,Prolific Winger,31500000,2,Summer,,,Rosario Central,4.2
 Santiago Hidalgo,Rosario Central,CF,Argentina,20,70,Deep-Lying Forward,10000000,3,Summer,,,Rosario Central,4.4
-Brayan Léon,Rosario Central,CF,Colombia,25,71,Goal Poacher,11500000,2,Summer,,,Rosario Central,4.4
 Jerónimo Dómina,Rosario Central,CF,Argentina,20,71,Goal Poacher,13500000,3,Summer,Dortmund,Summer,Rosario Central,4.4
+Brayan Léon,Rosario Central,CF,Colombia,25,71,Goal Poacher,11500000,2,Summer,,,Rosario Central,4.4
 Jan Oblak,Santos,GK,Slovenia,32,82,Defensive Goalkeeper,60000000,1,,,,Santos,1.0
 Jair Paula,Santos,CB,Brazil,20,73,Build Up,19500000,3,Summer,,,Santos,2.0
-Thiago Silva,Santos,CB,Brazil,41,78,The Destroyer,31625000,2,Summer,,,Santos,2.0
 Roger Ibañez,Santos,CB,Brazil,27,78,Extra Frontman,31625000,1,,,,Santos,2.0
+Thiago Silva,Santos,CB,Brazil,41,78,The Destroyer,31625000,2,Summer,,,Santos,2.0
 Micky van de Ven,Santos,CB,Netherlands,24,79,Build Up,36000000,1,,,,Santos,2.0
 Marquinhos,Santos,CB,Brazil,31,82,Build Up,73500000,3,Summer,,,Santos,2.0
 Reinildo,Santos,LB,Mozambique,31,77,Defensive Full-back,21250000,1,,,,Santos,2.1
@@ -1303,8 +1285,8 @@ Kyle Walker,Santos,RB,England,35,78,Offensive Full-back,3437500,1,,,,Santos,2.2
 André,Santos,DMF,Brazil,24,77,Orchestrator,31875000,1,,,,Santos,3.0
 Amadou Onana,Santos,DMF,Belgium,24,78,Anchor Man,31625000,1,,,,Santos,3.0
 Éderson,Santos,CMF,Brazil,26,77,Box-to-Box,31875000,3,Summer,,,Santos,3.1
-Franco Cristaldo,Santos,AMF,Argentina,29,76,Creative Playmaker,25312500,1,,,,Santos,3.4
 Pepê,Santos,AMF,Brazil,28,76,Hole Player,25875000,1,,,,Santos,3.4
+Franco Cristaldo,Santos,AMF,Argentina,29,76,Creative Playmaker,25312500,1,,,,Santos,3.4
 Lorenzo Pellegrini,Santos,AMF,Italy,29,77,Hole Player,28750000,1,,,,Santos,3.4
 Igor Paixão,Santos,LWF,Brazil,25,76,Prolific Winger,25875000,2,Summer,,,Santos,4.1
 Matheus Gonçalves,Santos,RWF,Brazil,20,70,Roaming Flank,9600000,1,,,,Santos,4.2
@@ -1401,13 +1383,12 @@ Thilo Kehrer,St Etienne,CB,Germany,29,76,Extra Frontman,25312500,3,Summer,,,St E
 William Saliba,St Etienne,CB,France,24,83,Build Up,116250000,3,Summer,,,St Etienne,2.0
 Elías Báez,St Etienne,LB,Argentina,21,72,Defensive Full-back,14375000,3,Summer,,,St Etienne,2.1
 Matthieu Udol,St Etienne,LB,France,29,73,Full-back Finisher,15750000,3,Summer,,,St Etienne,2.1
-Elias Jelert,St Etienne,RB,Denmark,22,72,Offensive Full-back,14062500,,,,,St Etienne,2.2
 Frédéric Guilbert,St Etienne,RB,France,31,72,Defensive Full-back,10000000,3,Summer,,,St Etienne,2.2
+Elias Jelert,St Etienne,RB,Denmark,22,72,Offensive Full-back,14062500,,,,,St Etienne,2.2
 Eros Mancuso,St Etienne,RB,Argentina,26,74,Full-back Finisher,18375000,3,Summer,,,St Etienne,2.2
 Matty Cash,St Etienne,RB,Poland,28,77,Offensive Full-back,28125000,3,Summer,,,St Etienne,2.2
 Lesley Ugochukwu,St Etienne,DMF,France,21,73,Anchor Man,17625000,,,,,St Etienne,3.0
 Adrien Tamèze,St Etienne,DMF,France,31,75,The Destroyer,17000000,3,Summer,,,St Etienne,3.0
-Luan Gadegbeku,St Etienne,CMF,France,18,65,Orchestrator,5000000,3,Summer,,,St Etienne,3.1
 Saša Lukić,St Etienne,CMF,Serbia,29,75,Box-to-Box,22500000,,,,,St Etienne,3.1
 Álvaro Fidalgo,St Etienne,CMF,Spain,28,76,Orchestrator,25312500,,,,,St Etienne,3.1
 Gerson,St Etienne,CMF,Brazil,28,77,Box-to-Box,38125000,3,Summer,,,St Etienne,3.1
@@ -1433,6 +1414,7 @@ Djed Spence,Tottenham Hotspur,RB,England,25,76,Offensive Full-back,24187500,1,,,
 Julian Ryerson,Tottenham Hotspur,RB,Norway,28,77,Defensive Full-back,27500000,1,,,,Tottenham Hotspur,2.2
 Pape Gueye,Tottenham Hotspur,DMF,Senegal,26,75,Anchor Man,22000000,2,Winter,,,Tottenham Hotspur,3.0
 Yves Bissouma,Tottenham Hotspur,DMF,Mali,29,78,Box-to-Box,37125000,1,,,,Tottenham Hotspur,3.0
+Harrison Armstrong,Tottenham Hotspur,CMF,England,18,68,Box-to-Box,7100000,3,Summer,,,Tottenham Hotspur,3.1
 Khéphren Thuram,Tottenham Hotspur,CMF,France,24,76,Box-to-Box,29250000,1,,,,Tottenham Hotspur,3.1
 Pape Matar Sarr,Tottenham Hotspur,CMF,Senegal,23,77,Box-to-Box,30000000,1,,,,Tottenham Hotspur,3.1
 Simone Pafundi,Tottenham Hotspur,AMF,Italy,19,70,Hole Player,12800000,1,,,,Tottenham Hotspur,3.4
@@ -1465,11 +1447,11 @@ Shuto Machino,Urawa Reds,CF,Japan,26,72,Fox in the Box,14687500,2,Winter,,,Urawa
 Cristian Rivero,Valencia,GK,Spain,27,69,Offensive Goalkeeper,5000000,,,,,Valencia,1.0
 Altay Bayındır,Valencia,GK,Türkiye,27,75,Offensive Goalkeeper,21000000,2,Summer,,,Valencia,1.0
 Jay Idzes,Valencia,CB,Indonesia,25,73,Build Up,16500000,,,,,Valencia,2.0
-Loubadhe Sylla,Valencia,CB,Côte d'Ivoire,23,73,The Destroyer,17250000,2,Summer,,,Valencia,2.0
 Malang Sarr,Valencia,CB,France,26,73,Build Up,16500000,2,Summer,,,Valencia,2.0
+Loubadhe Sylla,Valencia,CB,Côte d'Ivoire,23,73,The Destroyer,17250000,2,Summer,,,Valencia,2.0
 Kike Salas,Valencia,CB,Spain,23,75,Build Up,23500000,2,Summer,,,Valencia,2.0
-Aitor Paredes,Valencia,CB,Spain,25,77,The Destroyer,28750000,2,Summer,,,Valencia,2.0
 Alessio Romagnoli,Valencia,CB,Italy,30,77,Build Up,27500000,2,Summer,,,Valencia,2.0
+Aitor Paredes,Valencia,CB,Spain,25,77,The Destroyer,28750000,2,Summer,,,Valencia,2.0
 Arthur Masuaku,Valencia,LB,Congo DR,32,74,Offensive Full-back,11375000,2,Summer,,,Valencia,2.1
 Carlos Augusto,Valencia,LB,Brazil,26,76,Defensive Full-back,25312500,3,Summer,,,Valencia,2.1
 Samu Fernández,Valencia,RB,Spain,18,61,Offensive Full-back,5000000,2,Summer,,,Valencia,2.2
@@ -1479,14 +1461,13 @@ Rodrigo Bentancur,Valencia,DMF,Uruguay,28,77,Box-to-Box,28125000,2,Summer,,,Vale
 Koke (DMF),Valencia,DMF,Spain,33,78,Box-to-Box,17187500,2,Summer,,,Valencia,3.0
 Obed Vargas,Valencia,CMF,Mexico,20,70,Orchestrator,9400000,3,Summer,,,Valencia,3.1
 Cristhian Paredes,Valencia,CMF,Paraguay,27,72,Box-to-Box,13750000,2,Summer,,,Valencia,3.1
-Dorukhan Toköz,Valencia,CMF,Türkiye,29,73,Box-to-Box,16500000,2,Summer,,,Valencia,3.1
+Fabio Miretti,Valencia,CMF,Italy,22,75,Box-to-Box,24000000,3,Summer,,,Valencia,3.1
 Valery,Valencia,RMF,Spain,26,74,Cross Specialist,18375000,2,Summer,,,Valencia,3.3
 Ianis Hagi,Valencia,AMF,Romania,27,73,Hole Player,16500000,2,Summer,,,Valencia,3.4
 Pablo Fornals,Valencia,AMF,Spain,29,76,Creative Playmaker,25875000,2,Summer,,,Valencia,3.4
 André Almeida,Valencia,AMF,Portugal,25,76,Hole Player,26437500,2,Summer,,,Valencia,3.4
 Jesús Rodríguez,Valencia,LWF,Spain,20,71,Prolific Winger,13000000,3,Summer,,,Valencia,4.1
 Keito Nakamura,Valencia,LWF,Japan,25,73,Prolific Winger,16875000,,,,,Valencia,4.1
-Jáder Obrian,Valencia,RWF,Colombia,30,72,Prolific Winger,13437500,2,Summer,,,Valencia,4.2
 Edon Zhegrova,Valencia,RWF,Kosovo,26,76,Prolific Winger,25875000,3,Summer,,,Valencia,4.2
 Guillermo Martínez,Valencia,CF,Mexico,30,73,Target Man,16875000,2,Summer,,,Valencia,4.4
 Ezequiel Ponce,Valencia,CF,Argentina,28,75,Fox in the Box,24000000,2,Summer,,,Valencia,4.4
@@ -1501,10 +1482,8 @@ Javi López,Villarreal,LB,Spain,23,73,Offensive Full-back,16500000,3,Summer,,,Vi
 Hector Fort,Villarreal,RB,Spain,19,74,Offensive Full-back,31937500,3,Summer,,,Villarreal,2.2
 Arnau Martínez,Villarreal,RB,Spain,22,77,Offensive Full-back,32500000,3,Summer,,,Villarreal,2.2
 Izan Merino,Villarreal,DMF,Spain,19,67,Anchor Man,5075000,3,Summer,,,Villarreal,3.0
-Fran Beltrán,Villarreal,DMF,Spain,26,75,Anchor Man,22500000,1,,,,Villarreal,3.0
 Beñat Prados,Villarreal,DMF,Spain,24,76,Anchor Man,25312500,2,Summer,,,Villarreal,3.0
 Martín Zubimendi,Villarreal,DMF,Spain,26,79,Anchor Man,43500000,2,Summer,,,Villarreal,3.0
-Joan Oleaga,Villarreal,CMF,Spain,19,64,Orchestrator,5000000,2,Winter,,,Villarreal,3.1
 Guille Fernández,Villarreal,CMF,Spain,17,67,Orchestrator,6562500,2,Summer,,,Villarreal,3.1
 Beñat Turrientes,Villarreal,CMF,Spain,23,73,Orchestrator,17250000,2,Summer,,,Villarreal,3.1
 Aleix García,Villarreal,CMF,Spain,28,78,Orchestrator,31625000,1,,,,Villarreal,3.1
@@ -1512,8 +1491,8 @@ Dro Fernández,Villarreal,AMF,Spain,17,65,Creative Playmaker,5000000,3,Summer,,
 Jano Monserrate,Villarreal,AMF,Spain,19,67,Creative Playmaker,5162500,2,Winter,,,Villarreal,3.4
 Pablo Torre,Villarreal,AMF,Spain,22,74,Creative Playmaker,20562500,2,Summer,,,Villarreal,3.4
 Pedro Gonçalves,Villarreal,LWF,Portugal,27,77,Creative Playmaker,32500000,2,Winter,,,Villarreal,4.1
-Eliezer Mayenda,Villarreal,CF,Spain,20,69,Goal Poacher,6900000,3,Summer,,,Villarreal,4.4
 Adrian Nino,Villarreal,CF,Spain,21,69,Goal Poacher,7950000,2,Winter,,,Villarreal,4.4
+Eliezer Mayenda,Villarreal,CF,Spain,20,69,Goal Poacher,6900000,3,Summer,,,Villarreal,4.4
 Jhon Durán,Villarreal,CF,Colombia,22,77,Goal Poacher,32500000,1,,,,Villarreal,4.4
 Gonçalo Ramos,Villarreal,CF,Portugal,24,79,Goal Poacher,44250000,3,Summer,,,Villarreal,4.4
 Mile Svilar,Wolves,GK,Serbia,26,77,Offensive Goalkeeper,26875000,3,Summer,,,Wolves,1.0
@@ -5620,6 +5599,7 @@ Andreas Maxsø,The Draft,CB,Denmark,31,72,Build Up,10625000,,,,,,2.0
 Aníbal Leguizamón,The Draft,CB,Argentina,33,72,Build Up,7500000,,,,,,2.0
 Anthony Briançon,The Draft,CB,France,31,72,Build Up,10625000,,,,,,2.0
 Bartosz Salamon,The Draft,CB,Poland,34,72,Build Up,4375000,,,,,,2.0
+Ben Davies,The Draft,CB,England,30,72,Build Up,13125000,,,,,,2.0
 Bill Tuiloma,The Draft,CB,New Zealand,30,72,Build Up,13125000,,,,,,2.0
 Björn Engels,The Draft,CB,Belgium,31,72,Build Up,10625000,,,,,,2.0
 Bram Nuytinck,The Draft,CB,Netherlands,35,72,Build Up,2000000,,,,,,2.0
@@ -5628,6 +5608,7 @@ Bruno Fuchs,The Draft,CB,Brazil,26,72,Build Up,13750000,,,,,,2.0
 Bruno Wilson,The Draft,CB,Portugal,29,72,Build Up,13750000,,,,,,2.0
 Cacá,The Draft,CB,Brazil,26,72,Build Up,13750000,,,,,,2.0
 Carlos Henao,The Draft,CB,Colombia,37,72,Build Up,2000000,,,,,,2.0
+Cédric Zesiger,The Draft,CB,Switzerland,27,72,Build Up,13750000,,,,,,2.0
 Cho Yu-Min,The Draft,CB,Korea Republic,29,72,Build Up,13750000,,,,,,2.0
 Dael Fry,The Draft,CB,England,28,72,Build Up,13750000,,,,,,2.0
 Damon Mirani,The Draft,CB,Netherlands,29,72,Build Up,13750000,,,,,,2.0
@@ -5639,6 +5620,7 @@ Eiran Cashin,The Draft,CB,Republic of Ireland,24,72,Build Up,14062500,,,,,,2.0
 Érik Godoy,The Draft,CB,Argentina,32,72,Build Up,8750000,,,,,,2.0
 Esteban Burgos,The Draft,CB,Argentina,33,72,Build Up,7500000,,,,,,2.0
 Federico Gattoni,The Draft,CB,Argentina,26,72,Build Up,13750000,,,,,,2.0
+Felipe Aguilar,The Draft,CB,Colombia,32,72,Build Up,8750000,,,,,,2.0
 Felix Torres,The Draft,CB,Ecuador,28,72,Build Up,13750000,,,,,,2.0
 Fernando Calero,The Draft,CB,Spain,30,72,Build Up,13125000,,,,,,2.0
 Ferro,The Draft,CB,Portugal,28,72,Build Up,13750000,,,,,,2.0
@@ -5685,6 +5667,7 @@ Matheus Thuler,The Draft,CB,Brazil,26,72,Build Up,13750000,,,,,,2.0
 Matías Moreno,The Draft,CB,Argentina,22,72,Build Up,14687500,,,,,,2.0
 Matteo Bianchetti,The Draft,CB,Italy,32,72,Build Up,8750000,,,,,,2.0
 Mattia Viti,The Draft,CB,Italy,23,72,Build Up,14375000,,,,,,2.0
+Maximiliano Caufriez,The Draft,CB,Belgium,28,72,Build Up,13750000,,,,,,2.0
 Mikayil Faye,The Draft,CB,Senegal,21,72,Build Up,15000000,,,,,,2.0
 Modibo Sagnan,The Draft,CB,Mali,26,72,Build Up,13750000,,,,,,2.0
 Morteza Pouraliganji,The Draft,CB,IR Iran,33,72,Build Up,7500000,,,,,,2.0
@@ -5764,6 +5747,7 @@ Abdelkabir Abqar,The Draft,CB,Morocco,26,72,The Destroyer,13750000,,,,,,2.0
 Adilson Malanda,The Draft,CB,France,24,72,The Destroyer,14062500,,,,,,2.0
 Adrian Barišić,The Draft,CB,Bosnia and Herzegovina,24,72,The Destroyer,14062500,,,,,,2.0
 Aleš Matějů,The Draft,CB,Czechia,29,72,The Destroyer,13750000,,,,,,2.0
+Anderson Angulo,The Draft,CB,Colombia,29,72,The Destroyer,13750000,,,,,,2.0
 André Ramalho,The Draft,CB,Brazil,33,72,The Destroyer,7500000,,,,,,2.0
 Andrea Papetti,The Draft,CB,Italy,23,72,The Destroyer,14375000,,,,,,2.0
 Andreas Hanche-Olsen,The Draft,CB,Norway,28,72,The Destroyer,13750000,,,,,,2.0
@@ -5919,11 +5903,13 @@ Sebastián Vegas,The Draft,CB,Chile,29,73,Extra Frontman,16500000,,,,,,2.0
 Sebastiano Luperto,The Draft,CB,Italy,29,73,Extra Frontman,16500000,,,,,,2.0
 Simone Canestrelli,The Draft,CB,Italy,25,73,Extra Frontman,16500000,,,,,,2.0
 Aaron Long,The Draft,CB,United States,33,73,The Destroyer,9000000,,,,,,2.0
+Adamo Nagalo,The Draft,CB,Burkina Faso,23,73,The Destroyer,17250000,,,,,,2.0
 Alessandro Circati,The Draft,CB,Australia,22,73,The Destroyer,17625000,,,,,,2.0
 Álex Suárez,The Draft,CB,Spain,32,73,The Destroyer,10500000,,,,,,2.0
 Andrés Llinás,The Draft,CB,Colombia,28,73,The Destroyer,16500000,,,,,,2.0
 Ardian Ismajli,The Draft,CB,Albania,29,73,The Destroyer,16500000,,,,,,2.0
 Arouna Sangante,The Draft,CB,Senegal,23,73,The Destroyer,17250000,,,,,,2.0
+Ben Godfrey,The Draft,CB,England,27,73,The Destroyer,16500000,,,,,,2.0
 Benjamin Kuščević,The Draft,CB,Chile,29,73,The Destroyer,16500000,,,,,,2.0
 Bobby Thomas,The Draft,CB,England,24,73,The Destroyer,16875000,,,,,,2.0
 Cédric Kipré,The Draft,CB,Côte d'Ivoire,29,73,The Destroyer,16500000,,,,,,2.0
@@ -6087,6 +6073,7 @@ Morato,The Draft,CB,Brazil,24,75,Extra Frontman,23000000,,,,,,2.0
 Moussa Niakhaté,The Draft,CB,Senegal,29,75,Extra Frontman,22500000,,,,,,2.0
 Mykola Matviyenko,The Draft,CB,Ukraine,29,75,Extra Frontman,22500000,,,,,,2.0
 Samuel Gigot,The Draft,CB,France,32,75,Extra Frontman,14500000,,,,,,2.0
+Yerry Mina,The Draft,CB,Colombia,31,75,Extra Frontman,17500000,,,,,,2.0
 Alexander Djiku,The Draft,CB,Ghana,31,75,The Destroyer,17500000,,,,,,2.0
 Alexsandro,The Draft,CB,Brazil,26,75,The Destroyer,22500000,,,,,,2.0
 Antonio Raíllo,The Draft,CB,Spain,34,75,The Destroyer,7500000,,,,,,2.0
@@ -6105,6 +6092,7 @@ Rodrigo Battaglia,The Draft,CB,Argentina,34,75,The Destroyer,7500000,,,,,,2.0
 Santiago Bueno,The Draft,CB,Uruguay,27,75,The Destroyer,22500000,,,,,,2.0
 Unai Núñez,The Draft,CB,Spain,28,75,The Destroyer,22500000,,,,,,2.0
 Willy Boly,The Draft,CB,Côte d'Ivoire,34,75,The Destroyer,7500000,,,,,,2.0
+Brandon Mechele,The Draft,CB,Belgium,32,76,Build Up,16875000,,,,,,2.0
 David Carmo,The Draft,CB,Angola,26,76,Build Up,25312500,,,,,,2.0
 David López,The Draft,CB,Spain,36,76,Build Up,2812500,,,,,,2.0
 Ethan Pinnock,The Draft,CB,Jamaica,32,76,Build Up,16875000,,,,,,2.0
@@ -6119,6 +6107,7 @@ Pablo Marí,The Draft,CB,Spain,32,76,Build Up,16312500,,,,,,2.0
 Robin Koch,The Draft,CB,Germany,29,76,Build Up,25312500,,,,,,2.0
 Sam Beukema,The Draft,CB,Netherlands,27,76,Build Up,25312500,,,,,,2.0
 Victor Lindelöf,The Draft,CB,Sweden,31,76,Build Up,19687500,,,,,,2.0
+Victor Nelsson,The Draft,CB,Denmark,27,76,Build Up,25875000,,,,,,2.0
 Wout Faes,The Draft,CB,Belgium,27,76,Build Up,25312500,,,,,,2.0
 Armando Izzo,The Draft,CB,Italy,33,76,Extra Frontman,14062500,,,,,,2.0
 Dávid Hancko,The Draft,CB,Slovakia,28,76,Extra Frontman,25875000,,,,,,2.0
@@ -8179,6 +8168,7 @@ Max Johnston,The Draft,RB,Scotland,22,71,Offensive Full-back,11000000,,,,,,2.2
 Minas Antoniou,The Draft,RB,Cyprus,31,71,Offensive Full-back,7750000,,,,,,2.2
 Mitja Ilenič,The Draft,RB,Slovenia,21,71,Offensive Full-back,11250000,,,,,,2.2
 Natanael,The Draft,RB,Brazil,23,71,Offensive Full-back,10750000,,,,,,2.2
+Nathan,The Draft,RB,Brazil,24,71,Offensive Full-back,10500000,,,,,,2.2
 Nazim Sangaré,The Draft,RB,Türkiye,31,71,Offensive Full-back,7750000,,,,,,2.2
 Oliver Villadsen,The Draft,RB,Denmark,24,71,Offensive Full-back,10500000,,,,,,2.2
 Olivier Mbaïzo,The Draft,RB,Cameroon,28,71,Offensive Full-back,10250000,,,,,,2.2
@@ -9430,6 +9420,7 @@ Thomas Delaney,The Draft,DMF,Denmark,34,76,The Destroyer,8437500,,,,,,3.0
 Tomáš Souček,The Draft,DMF,Czechia,30,77,Box-to-Box,27500000,,,,,,3.0
 Santiago Ascacíbar,The Draft,DMF,Argentina,28,77,The Destroyer,28125000,,,,,,3.0
 Ellyes Skhiri,The Draft,DMF,Tunisia,30,77,The Destroyer,32500000,,,,,,3.0
+Robert Andrich,The Draft,DMF,Germany,31,79,Anchor Man,27000000,,,,,,3.0
 Thomas Partey,The Draft,DMF,Ghana,32,79,Box-to-Box,22500000,,,,,,3.0
 Keita Negishi,The Draft,CMF,Japan,23,58,Box-to-Box,5000000,,,,,,3.1
 M. Mirahmadov,The Draft,CMF,Tajikistan,16,58,Box-to-Box,5000000,,,,,,3.1
@@ -9921,6 +9912,7 @@ Teddy Bouriaud,The Draft,CMF,France,28,64,Orchestrator,5000000,,,,,,3.1
 Tobías Andrada,The Draft,CMF,Argentina,18,64,Orchestrator,5000000,,,,,,3.1
 Tomas García,The Draft,CMF,Colombia,19,64,Orchestrator,5000000,,,,,,3.1
 William Benard,The Draft,CMF,France,22,64,Orchestrator,5000000,,,,,,3.1
+Joan Oleaga,The Draft,CMF,Spain,19,64,Orchestrator,5000000,,,,,,3.1
 Arata Kozakai,The Draft,CMF,Japan,24,64,The Destroyer,5000000,,,,,,3.1
 Laureano Rodríguez,The Draft,CMF,Argentina,23,64,The Destroyer,5000000,,,,,,3.1
 A. De Cristofaro,The Draft,CMF,Italy,25,65,Box-to-Box,5000000,,,,,,3.1
@@ -10903,6 +10895,7 @@ Berkan Kutlu,The Draft,CMF,Türkiye,27,71,Box-to-Box,10750000,,,,,,3.1
 Brandon Servania,The Draft,CMF,United States,26,71,Box-to-Box,10750000,,,,,,3.1
 Bryan Dabo,The Draft,CMF,Burkina Faso,33,71,Box-to-Box,5750000,,,,,,3.1
 Bryan Heynen,The Draft,CMF,Belgium,28,71,Box-to-Box,10750000,,,,,,3.1
+Can Bozdoğan,The Draft,CMF,Germany,24,71,Box-to-Box,11000000,,,,,,3.1
 Carlos Sierra,The Draft,CMF,Colombia,35,71,Box-to-Box,2000000,,,,,,3.1
 César Pérez,The Draft,CMF,Chile,23,71,Box-to-Box,11250000,,,,,,3.1
 Charlie Adams,The Draft,CMF,England,31,71,Box-to-Box,8250000,,,,,,3.1
@@ -11616,6 +11609,7 @@ Gil Dias,The Draft,LMF,Portugal,29,72,Roaming Flank,13125000,,,,,,3.2
 Heriberto Jurado,The Draft,LMF,Mexico,20,72,Roaming Flank,15625000,,,,,,3.2
 Jacob Ondrejka,The Draft,LMF,Sweden,23,72,Roaming Flank,13750000,,,,,,3.2
 Javi Ontiveros,The Draft,LMF,Spain,28,72,Roaming Flank,13125000,,,,,,3.2
+Maximiliano Zalazar,The Draft,LMF,Argentina,24,72,Roaming Flank,13437500,,,,,,3.2
 Toni Villa,The Draft,LMF,Spain,30,72,Roaming Flank,12500000,,,,,,3.2
 Yaw Yeboah,The Draft,LMF,Ghana,28,72,Roaming Flank,13125000,,,,,,3.2
 Robin Lod,The Draft,LMF,Finland,32,73,Box-to-Box,9750000,,,,,,3.2
@@ -13747,6 +13741,7 @@ Negueba,The Draft,LWF,Brazil,26,72,Prolific Winger,14062500,,,,,,4.1
 Nico Serrano,The Draft,LWF,Spain,22,72,Prolific Winger,15000000,,,,,,4.1
 Nikola Storm,The Draft,LWF,Belgium,31,72,Prolific Winger,10937500,,,,,,4.1
 Puma Rodríguez,The Draft,LWF,Panama,27,72,Prolific Winger,14062500,,,,,,4.1
+Raúl Moro,The Draft,LWF,Spain,23,72,Prolific Winger,14687500,,,,,,4.1
 Robert Taylor,The Draft,LWF,Finland,31,72,Prolific Winger,10937500,,,,,,4.1
 Sergi Canós,The Draft,LWF,Spain,28,72,Prolific Winger,14062500,,,,,,4.1
 Soufiane Rahimi,The Draft,LWF,Morocco,29,72,Prolific Winger,14062500,,,,,,4.1
@@ -14532,6 +14527,7 @@ Ezequiel Cerutti,The Draft,RWF,Argentina,33,72,Prolific Winger,7812500,,,,,,4.2
 Fran Pérez,The Draft,RWF,Spain,23,72,Prolific Winger,14687500,,,,,,4.2
 Francisco Pizzini,The Draft,RWF,Argentina,32,72,Prolific Winger,9062500,,,,,,4.2
 Gonçalo Borges,The Draft,RWF,Portugal,24,72,Prolific Winger,14375000,,,,,,4.2
+Jáder Obrian,The Draft,RWF,Colombia,30,72,Prolific Winger,13437500,,,,,,4.2
 Janderson,The Draft,RWF,Brazil,26,72,Prolific Winger,14062500,,,,,,4.2
 Jasir Asani,The Draft,RWF,Albania,30,72,Prolific Winger,13437500,,,,,,4.2
 Jhon Vásquez,The Draft,RWF,Colombia,30,72,Prolific Winger,13437500,,,,,,4.2
@@ -14554,6 +14550,7 @@ Santiago Moreno,The Draft,RWF,Colombia,25,72,Prolific Winger,14062500,,,,,,4.2
 Víctor Mollejo,The Draft,RWF,Spain,24,72,Prolific Winger,14375000,,,,,,4.2
 Virgil Misidjan,The Draft,RWF,Netherlands,32,72,Prolific Winger,9062500,,,,,,4.2
 Yang Hyun-Jun,The Draft,RWF,Korea Republic,23,72,Prolific Winger,14687500,,,,,,4.2
+Christian Fassnacht,The Draft,RWF,Switzerland,32,72,Roaming Flank,9062500,,,,,,4.2
 Dimitris Limnios,The Draft,RWF,Greece,27,72,Roaming Flank,14062500,,,,,,4.2
 Gabriel Veron,The Draft,RWF,Brazil,23,72,Roaming Flank,14687500,,,,,,4.2
 Gustav Ludwigson,The Draft,RWF,Sweden,32,72,Roaming Flank,9062500,,,,,,4.2
@@ -14652,6 +14649,7 @@ Wu Lei,The Draft,RWF,China PR,34,74,Roaming Flank,6562500,,,,,,4.2
 Facundo Torres,The Draft,RWF,Uruguay,25,75,Creative Playmaker,23000000,,,,,,4.2
 Harry Wilson,The Draft,RWF,Wales,28,75,Creative Playmaker,23000000,,,,,,4.2
 Steven Berghuis,The Draft,RWF,Netherlands,34,75,Creative Playmaker,7500000,,,,,,4.2
+Gabriel Strefezza,The Draft,RWF,Brazil,28,75,Prolific Winger,28000000,,,,,,4.2
 Jamie Leweling,The Draft,RWF,Germany,24,75,Prolific Winger,23500000,,,,,,4.2
 Jefferson Savarino,The Draft,RWF,Venezuela,29,75,Prolific Winger,23000000,,,,,,4.2
 Jordan Ayew,The Draft,RWF,Ghana,34,75,Prolific Winger,8000000,,,,,,4.2
@@ -16760,9 +16758,11 @@ Danny Ings,The Draft,CF,England,33,75,Goal Poacher,14000000,,,,,,4.4
 Jonathan Herrera,The Draft,CF,Argentina,34,75,Goal Poacher,9000000,,,,,,4.4
 Luis Suárez,The Draft,CF,Colombia,28,75,Goal Poacher,24000000,,,,,,4.4
 Michy Batshuayi,The Draft,CF,Belgium,32,75,Goal Poacher,16000000,,,,,,4.4
+Odsonne Édouard,The Draft,CF,France,27,75,Goal Poacher,24000000,,,,,,4.4
 Paco Alcácer,The Draft,CF,Spain,32,75,Goal Poacher,16000000,,,,,,4.4
 Rafael Borré,The Draft,CF,Colombia,30,75,Goal Poacher,23000000,,,,,,4.4
 Sardar Azmoun,The Draft,CF,IR Iran,30,75,Goal Poacher,23000000,,,,,,4.4
+Umar Sadiq,The Draft,CF,Nigeria,28,75,Goal Poacher,24000000,,,,,,4.4
 Vincent Aboubakar,The Draft,CF,Cameroon,33,75,Goal Poacher,14000000,,,,,,4.4
 Yuri Alberto,The Draft,CF,Brazil,24,75,Goal Poacher,24500000,,,,,,4.4
 Eric M.Choupo-Moting,The Draft,CF,Cameroon,36,75,Target Man,3500000,,,,,,4.4
